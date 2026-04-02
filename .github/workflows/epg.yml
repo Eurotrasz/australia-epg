@@ -1,0 +1,38 @@
+name: Build EPG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scripts
+        run: |
+          node 10play.js
+          node 7plus.js
+          node 9now_capture.js
+          node 9now_fast.js
+          node 9now_merge.js
+
+      - name: Commit XML
+        run: |
+          git config user.name "epg-bot"
+          git config user.email "epg@bot.com"
+          git add *.xml
+          git commit -m "Update EPG" || echo "No changes"
+          git push
