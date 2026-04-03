@@ -6,6 +6,8 @@
 <style>
   body { font-family: Arial; background:#111; color:#eee; }
   h1 { text-align:center; }
+    h3 { text-align:center; }
+	  p { text-align:center; }
   #drop { border:2px dashed #555; padding:20px; text-align:center; margin:20px; }
   table { width:80%; border-collapse:collapse; }
   th, td { border:1px solid #333; padding:6px; }
@@ -20,6 +22,8 @@
 <h1>📺 Eurotrasz EPG Viewer</h1>
 <h3>A simple viewer to view any XML format EPGs in a browser. Please note, xml.gz need to be extracted first before using this viewer.</h3>
 
+<p>You can change the source XML guides within the JS of this page, and add as many as you'd like by following the pattern in the const sources section.<br>
+Keep in mind the viewer will get slower as you add more guides.</p>
 <center>
 
 <!-- Search filter -->
@@ -198,6 +202,6 @@ function render() {
 // Start
 loadAll();
 </script>
-<p align="center">If you use this viewer, please credit me at my Github: https://github.com/Eurotrasz</p>
+<p>If you use this viewer, please credit me at my Github: https://github.com/Eurotrasz</p>
 </body>
 </html>
