@@ -11,9 +11,13 @@ If you're looking for something that's ready to go and has all the Australian fr
 This file will get updated every 4 hours or so as I run the scripts on my server, and upload the .xml file to Github after each run. Set your IPTV player to update every few hours or so to get the latest EPG data as some of the Aussie FAST channels don't give much future programming info, so you might get "No Information" in the future if you aren't as updated.
 
 ## EPG Viewer
-To help view EPG data without needing to go through an app, you can use my EPG viewer.
+To help view EPG data without needing to go through an app, you can use my EPG viewer. I've preconfigured this to load my EPG, as well as some lists from Matt Huisman and BuddyChewChew.
 
 #### EPG Viewer: https://Eurotrasz.github.io/australia-epg/epg.html
+
+Give it a minute to load up. Once it loads the EPG data, you can use the search to filter by keyword, and click on a program name in the table to read the episode info.
+
+The dark red bar indicates what is currently playing on that channel.
 
 ## IPTV Playlist
 
