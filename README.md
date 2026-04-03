@@ -25,7 +25,7 @@ The dark red bar indicates what is currently playing on that channel.
 
 This is the playlist I've curated for my family and friends. It has all the Aussie and a chunk of the NZ TV channels using Matt Huisman's hosted streams (absolute legend he is, please suppo him if you can!) and uses a combination of Matt's EPG above, as well as my EPG for the channels missing, as well as some streams provided by Appstatv (https://apsattv.com/). Another absolute legend.
 
-In addition to those channels, I've also put in all the English-language Pluto, Plex (Australia), Tubi, and a careful selection of streams from LG Channels, Samsung TV Plus, Roku, Whale TV, and some others thanks to the links curated and provided by Apsattv.com, IPTV.org and many other IPTV Community members.
+In addition to those channels, I've also put in all the English-language Pluto, Plex (Australia), Tubi, and a careful selection of streams from LG Channels, Samsung TV Plus, Roku, Whale TV, and some others thanks to the links curated and provided by Apsattv.com, IPTV.org and many other IPTV Community members. Actually, some of the Pluto streams are from the Danish-stream, but all they do is add Danish subtitles, so shows like Broad City and Bull will have Danish EPGs, lol. 
 
 #### Playlist link: https://raw.githubusercontent.com/Eurotrasz/australia-epg/refs/heads/main/live.m3u
 
