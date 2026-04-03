@@ -27,6 +27,8 @@ In addition to those channels, I've also put in all the English-language Pluto, 
 
 #### Playlist link: https://raw.githubusercontent.com/Eurotrasz/australia-epg/refs/heads/main/live.m3u
 
+I update this playlist continiously, replacing or removing any broken streams, adding new channels, or updating categories, etc. I won't really be taking suggestions for this playlist but if you do use it, you might like the variety of it as-is!
+
 ## IPTV Player
 
 If you're after a decent IPTV player, I recommend using Sparkle TV. It's available for Android so any Android-based TV, Google streaming device, Android emulator (Bluestacks, MSI Player... which is still Bluestacks, etc) and Fire TV (via sideloading it). 
