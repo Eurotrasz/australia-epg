@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="10play.10sport">
+    <display-name>10SPORT</display-name>
+  </channel>
 <channel id="10play.historyandwarfare">
     <display-name>HISTORYANDWARFARE</display-name>
   </channel>
@@ -396,12 +399,13 @@
 <channel id="9now.bbc_food">
     <display-name>BBC Food</display-name>
   </channel>
-<programme start="20260403160400 +0000" stop="20260403170700 +0000" channel="10play.historyandwarfare">
-    <title>Gothic Fortress: Palais des Papes</title>
-    <desc>Builders worked day and night for 20 years to erect Avignon&apos;s medieval Papal Palace, a symbol of Church power.</desc>
-    <rating>
-      <value>TV-14</value>
-    </rating>
+<programme start="20260403171500 +0000" stop="20260403201500 +0000" channel="10play.10sport">
+    <title>Roshn Saudi League: Al Nassr vs Al Najmah</title>
+    <desc>MD27 action from the Roshn Saudi League as Al Nassr vs Al Najmah. Stream commences 0445, with kick-off at 0500.</desc>
+  </programme>
+<programme start="20260404171500 +0000" stop="20260404201500 +0000" channel="10play.10sport">
+    <title>Roshn Saudi League: Al Hilal vs Al Taawoun</title>
+    <desc>MD27 action from the Roshn Saudi League as Al Hilal vs Al Taawoun. Stream commences 0345, with kick-off at 0400.</desc>
   </programme>
 <programme start="20260403170700 +0000" stop="20260403180300 +0000" channel="10play.historyandwarfare">
     <title>Fidel Castro: An Unauthorized Biography</title>
@@ -562,20 +566,6 @@
     <desc>Hadrian was a patron of the arts, champion of the common Roman, and tireless diplomat who toured the Empire.</desc>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20260403153500 +0000" stop="20260403163000 +0000" channel="10play.Wicked-Tuna">
-    <title>Wicked Tuna: Outer Banks</title>
-    <desc>A grueling season, competing against the best of the best, is taking its toll on the crews and their boats.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403163000 +0000" stop="20260403172500 +0000" channel="10play.Wicked-Tuna">
-    <title>Wicked Tuna: Outer Banks</title>
-    <desc>It is getting to crunch time for the tuna titans, as the clock ticks down to the final day of the season.</desc>
-    <rating>
-      <value>M</value>
     </rating>
   </programme>
 <programme start="20260403172500 +0000" stop="20260403181800 +0000" channel="10play.Wicked-Tuna">
@@ -772,13 +762,6 @@
     <desc>Little Shell deals with a potential catastrophe on board their boat.</desc>
     <rating>
       <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403161900 +0000" stop="20260403171300 +0000" channel="10play.project-runway">
-    <title>Project Runway</title>
-    <desc>Designers are taken to a movie theatre where they work in teams… with unconventional materials!</desc>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
 <programme start="20260403171300 +0000" stop="20260403180200 +0000" channel="10play.project-runway">
@@ -980,20 +963,6 @@
 <programme start="20260404165300 +0000" stop="20260404174200 +0000" channel="10play.project-runway">
     <title>Project Runway</title>
     <desc>Sixteen new designers meet Tim and Heidi at Madison Square Garden for their first challenge.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403160500 +0000" stop="20260403163400 +0000" channel="10play.the-twilight-zone">
-    <title>The Twilight Zone S3 Ep. 12</title>
-    <desc>Alan Richards plans to build a dam in Africa on a tribe&apos;s ancestral land. The tribe&apos;s witch doctor puts a curse on him.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403163400 +0000" stop="20260403170300 +0000" channel="10play.the-twilight-zone">
-    <title>The Twilight Zone S3 Ep. 13</title>
-    <desc>Woodrow, a janitor living in the year 1890, accidentally activates a time traveling helmet which transports him to 1962 - then promptly breaks down.</desc>
     <rating>
       <value>PG</value>
     </rating>
@@ -1278,20 +1247,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403155200 +0000" stop="20260403163900 +0000" channel="10play.rookie-blue">
-    <title>Fite Nite</title>
-    <desc>The rookie cops duke it out for a cause at “Fite Nite.”</desc>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20260403163900 +0000" stop="20260403172800 +0000" channel="10play.rookie-blue">
-    <title>Signals Crossed</title>
-    <desc>Andy trades in her uniform for something more risqué when she goes undercover as a prostitute.</desc>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20260403172800 +0000" stop="20260403181500 +0000" channel="10play.rookie-blue">
     <title>Broad Daylight</title>
     <desc>During a home invasion, Andy is left alone and confronted with a hiding thief who is armed and very volatile.</desc>
@@ -1501,17 +1456,6 @@
     <rating>
       <value>TV-14</value>
     </rating>
-  </programme>
-<programme start="20260403162000 +0000" stop="20260403164900 +0000" channel="10play.8-out-of-10-cats">
-    <title>Episode 3</title>
-    <desc>8 Out of 10 Cats is a weekly, panel show based around a series of opinion poll surveys carried out in Britain.</desc>
-    <rating>
-      <value>12A</value>
-    </rating>
-  </programme>
-<programme start="20260403164900 +0000" stop="20260403171600 +0000" channel="10play.8-out-of-10-cats">
-    <title>Episode 1</title>
-    <desc>Jimmy Carr hosts a topical comedy panel show discussing the nation&apos;s most popular talking points.</desc>
   </programme>
 <programme start="20260403171600 +0000" stop="20260403174700 +0000" channel="10play.8-out-of-10-cats">
     <title>Episode 4</title>
@@ -1773,20 +1717,6 @@
     <desc>8 Out of 10 Cats is a weekly, panel show based around a series of opinion poll surveys carried out in Britain.</desc>
     <rating>
       <value>12A</value>
-    </rating>
-  </programme>
-<programme start="20260403161100 +0000" stop="20260403163700 +0000" channel="10play.mtv-ridiculousness">
-    <title>Ridiculousness S9 Ep. 21</title>
-    <desc>On an all-new episode of Ridiculousness, rapper Young M.A joins Rob, Chanel, and Steelo to talk about people who have HOT SAUCE, the meaning of RED LYFE, and the joy of CASH BATHS.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403163700 +0000" stop="20260403170300 +0000" channel="10play.mtv-ridiculousness">
-    <title>Ridiculousness S9 Ep. 10</title>
-    <desc>On an all-new episode of Ridiculousness, motivational speaker Michael Crossland joins Rob, Steelo and Chanel to teach us the CROSSLAND METHOD, show us what it means when your dog is CROSS-BRED, and visit the FIELD OF NIGHTMARES.</desc>
-    <rating>
-      <value>M</value>
     </rating>
   </programme>
 <programme start="20260403170300 +0000" stop="20260403173000 +0000" channel="10play.mtv-ridiculousness">
@@ -2174,13 +2104,6 @@
       <value>M</value>
     </rating>
   </programme>
-<programme start="20260403155300 +0000" stop="20260403164600 +0000" channel="10play.have-you-been-paying-attention">
-    <title>Have You Been Paying Attention? S2 Ep. 9</title>
-    <desc>Original Air Date: 6 July 2015. Hosted by Tom Gleisner, Have You Been Paying Attention? is a fast-paced and irreverent look at the news with five comedians competing to see who can remember the most about the events of the week.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
 <programme start="20260403164600 +0000" stop="20260403173800 +0000" channel="10play.have-you-been-paying-attention">
     <title>Have You Been Paying Attention? S2 Ep. 3</title>
     <desc>Original Air Date: 25 May 2015. Hosted by Tom Gleisner, Have You Been Paying Attention? is a fast-paced and irreverent look at the news with five comedians competing to see who can remember the most about the events of the week.</desc>
@@ -2384,13 +2307,6 @@
       <value>M</value>
     </rating>
   </programme>
-<programme start="20260403161300 +0000" stop="20260403170000 +0000" channel="10play.the-cheap-seats">
-    <title>The Cheap Seats S1 Ep. 5</title>
-    <desc>Melanie Bracewell and Tim McDonald take a look at the week that was. From major news stories, entertainment and viral videos The Cheap Seats is a Reader&apos;s Digest for those who just don&apos;t want to read.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
 <programme start="20260403170000 +0000" stop="20260403175100 +0000" channel="10play.the-cheap-seats">
     <title>The Cheap Seats S1 Ep. 6</title>
     <desc>Melanie Bracewell and Tim McDonald take a look at the week that was. From major news stories, entertainment and viral videos The Cheap Seats is a Reader&apos;s Digest for those who just don&apos;t want to read.</desc>
@@ -2580,13 +2496,6 @@
       <value>M</value>
     </rating>
   </programme>
-<programme start="20260403160200 +0000" stop="20260403165400 +0000" channel="10play.thankgodyourehere">
-    <title>Thank God You&apos;re Here S4 Ep. 4</title>
-    <desc>In this celebrated comedy, guest stars Bob Franklin, Carl Barron, Julia Zemiro and Tom Gleeson must hilariously navigate an unknown situation greeted only by the line &apos;Thank God You&apos;re Here!&apos;</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403165400 +0000" stop="20260403174800 +0000" channel="10play.thankgodyourehere">
     <title>Thank God You&apos;re Here S2 Ep. 5</title>
     <desc>Do you enjoy watching performers pushed into their discomfort zone? Thank God You&apos;re Here thrusts well known guest performers into a scenario they know nothing about, working with a cast who do know what&apos;s going on. Hosted by Shane Bourne.</desc>
@@ -2767,20 +2676,6 @@
     <desc>Comedians Lloyd Langford, Luke McGregor and Geraldine Hickey, plus radio presenter Fifi Box, step through the blue door for the second episode of the return season of &apos;Thank God You&apos;re Here&apos;.</desc>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403161200 +0000" stop="20260403164000 +0000" channel="10play.south-park">
-    <title>South Park S9 Ep. 913</title>
-    <desc>Free Willzyx: The boys are tricked into believing the killer whale at Sea Park is from the moon. How will Timmy&apos;s wheelchair, the Russian government and their skateboards help to free him? (S9, E13)</desc>
-    <rating>
-      <value>MA15+</value>
-    </rating>
-  </programme>
-<programme start="20260403164000 +0000" stop="20260403170800 +0000" channel="10play.south-park">
-    <title>South Park S9 Ep. 914</title>
-    <desc>Bloody Mary: Randy is arrested for drunk driving and must attend AA, where he is told he is powerless to control himself. Maybe the bleeding Virgin Mary statue can perform a miracle or two? (S9, E14)</desc>
-    <rating>
-      <value>MA15+</value>
     </rating>
   </programme>
 <programme start="20260403170800 +0000" stop="20260403173600 +0000" channel="10play.south-park">
@@ -3129,20 +3024,6 @@
 <programme start="20260404163100 +0000" stop="20260404165800 +0000" channel="10play.south-park">
     <title>South Park S1 Ep. 6</title>
     <desc>Death: Stan&apos;s ancient grandfather attempts to trick the boys into killing him. Meanwhile, the parents of South Park lobby a TV network to rid the airwaves of Terrance and Phillip. (S1, E06)</desc>
-    <rating>
-      <value>MA15+</value>
-    </rating>
-  </programme>
-<programme start="20260403161800 +0000" stop="20260403164400 +0000" channel="10play.adult-animation">
-    <title>Ugly Americans S1 Ep. 8</title>
-    <desc>Randall joins a zombie cult, and Mark performs psychiatric evaluations on his coworkers.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403164400 +0000" stop="20260403171000 +0000" channel="10play.adult-animation">
-    <title>Drawn Together S2 Ep. 13</title>
-    <desc>The roommates help Xandir prepare to come out to his parents, with role-playing exercises.</desc>
     <rating>
       <value>MA15+</value>
     </rating>
@@ -3532,27 +3413,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403160000 +0000" stop="20260403162700 +0000" channel="10play.becker">
-    <title>Becker S1 Ep. 15</title>
-    <desc>Becker is upset when he learns that his ex-wife has written a pop-psychology book starring him as &quot;Angry Man.&quot;</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403162700 +0000" stop="20260403165500 +0000" channel="10play.becker">
-    <title>Becker S1 Ep. 16</title>
-    <desc>Becker yells at a woman for letting her child cry uncontrollably, then rants about her bad parenting skills.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403165500 +0000" stop="20260403172300 +0000" channel="10play.becker">
-    <title>Becker S1 Ep. 17</title>
-    <desc>Becker is outraged as he tells the gang at the diner that someone broke into his apartment and stole his computer.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403172300 +0000" stop="20260403175000 +0000" channel="10play.becker">
     <title>Becker S1 Ep. 18</title>
     <desc>Becker starts off the day in a cranky mood when he finds a stray cat in his office, which apparently crawled through a broken window.</desc>
@@ -3917,13 +3777,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403161300 +0000" stop="20260403170300 +0000" channel="10play.offspring">
-    <title>Offspring S5 Ep. 3</title>
-    <desc>Nina finds herself stuck at the airport with a handsome stranger and time to kill. Will she take advantage of the situation? Meanwhile, Billie prepares for Mick&apos;s return.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
 <programme start="20260403170300 +0000" stop="20260403175300 +0000" channel="10play.offspring">
     <title>Offspring S5 Ep. 4</title>
     <desc>Nina and Billie face their dreaded high school reunion. While Nina tries to convince everyone she&apos;s happy to go, Billie has her own reasons not to attend.</desc>
@@ -4111,13 +3964,6 @@
     <desc>Nina and Harry make an important decision about their future. Jimmy summons the courage to tell Zara the truth. Billie&apos;s sex wall hits a snag, when her latest brick, Dan, tries to out-woo her.</desc>
     <rating>
       <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403161400 +0000" stop="20260403170400 +0000" channel="10play.heartland">
-    <title>New Horizons</title>
-    <desc>When Amy and Ty reach a difficult decision, the family grapples with the implications of their choice.</desc>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20260403170400 +0000" stop="20260403175400 +0000" channel="10play.heartland">
@@ -4330,20 +4176,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20260403154000 +0000" stop="20260403163400 +0000" channel="10play.demand-drama">
-    <title>Above Suspicion S1 Ep. 2</title>
-    <desc>Travis joins Alan Daniels on a date and grows more convinced of his innocence, but is it just another performance? And could he still have more of his story to reveal?</desc>
-    <rating>
-      <value>MA</value>
-    </rating>
-  </programme>
-<programme start="20260403163400 +0000" stop="20260403172700 +0000" channel="10play.demand-drama">
-    <title>Above Suspicion S2 Ep. 2</title>
-    <desc>The hunt for killer Charles Wickenham leads to dark family secrets, a torture cellar, and a shocking twist, his body found trapped in hiding. Justice, in the end, comes from the shadows.</desc>
-    <rating>
-      <value>MA</value>
-    </rating>
-  </programme>
 <programme start="20260403172700 +0000" stop="20260403182000 +0000" channel="10play.demand-drama">
     <title>Above Suspicion S3 Ep. 2</title>
     <desc>Petrozzo dies from a forced fentanyl OD. Travis links it to a 30M stash stolen in Miami. A diary entry Godot leads her to Julia&apos;s ex, who may be a dangerous fugitive using an alias.</desc>
@@ -4510,20 +4342,6 @@
     <desc>Kate rebuffs Shane&apos;s morning-after advances, Maeve prepares for her first day at Trinity College and the Raw staff seeks to recover from the robbery.</desc>
     <rating>
       <value>MA15+</value>
-    </rating>
-  </programme>
-<programme start="20260403153900 +0000" stop="20260403163000 +0000" channel="10play.prisoner-cell-block-h">
-    <title>Prisoner Cell Block H S1 Ep. 5</title>
-    <desc>Frankie and Bea fight during a dance class, and Yates is caught smuggling for Marilyn.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403163000 +0000" stop="20260403172200 +0000" channel="10play.prisoner-cell-block-h">
-    <title>Prisoner Cell Block H S1 Ep. 6</title>
-    <desc>Lynn reveals she was raped by Mr Bentley, and Vera has trouble with her ailing mother.</desc>
-    <rating>
-      <value>M</value>
     </rating>
   </programme>
 <programme start="20260403172200 +0000" stop="20260403181200 +0000" channel="10play.prisoner-cell-block-h">
@@ -4722,13 +4540,6 @@
       <value>M</value>
     </rating>
   </programme>
-<programme start="20260403160300 +0000" stop="20260403165700 +0000" channel="10play.diagnosismurder">
-    <title>Diagnosis Murder S3 Ep. 9</title>
-    <desc>Amanda&apos;s cousin falls to his death when his motorcycle suddenly veers off the road. Amanda leads the investigation when it&apos;s discovered her cousin was drugged immediately before the accident.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403165700 +0000" stop="20260403175200 +0000" channel="10play.diagnosismurder">
     <title>Diagnosis Murder S3 Ep. 10</title>
     <desc>Dr. Sloan investigates a free health clinic after several homeless people turn up dead... with missing organs.</desc>
@@ -4916,13 +4727,6 @@
     <desc>The murder of a beautiful woman around a marine encampment raises suspicions. Dr. Sloan discovers more to her than meets the eye.</desc>
     <rating>
       <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403161900 +0000" stop="20260403170800 +0000" channel="10play.americas-next-top-model">
-    <title>America&apos;s Next Top Model S4 Ep. 2</title>
-    <desc>The participants move into their new Los Angeles home, two competitors complain during their dramatic makeovers and all of the girls must pose topless.</desc>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
 <programme start="20260403170800 +0000" stop="20260403175700 +0000" channel="10play.americas-next-top-model">
@@ -5128,13 +4932,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403160500 +0000" stop="20260403170400 +0000" channel="10play.australias-next-top-model">
-    <title>Australia&apos;s Next Top Model S5 Ep. 3</title>
-    <desc>Australia&apos;s Next Top Model chronicles the transformation of everyday young women into potentially fierce supermodels. The participants live together and compete for a multi-faceted Grand Prize package</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403170400 +0000" stop="20260403180300 +0000" channel="10play.australias-next-top-model">
     <title>Australia&apos;s Next Top Model S5 Ep. 4</title>
     <desc>Australia&apos;s Next Top Model chronicles the transformation of everyday young women into potentially fierce supermodels. The participants live together and compete for a multi-faceted Grand Prize package</desc>
@@ -5310,13 +5107,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403154600 +0000" stop="20260403165400 +0000" channel="10play.MasterChef">
-    <title>MasterChef Australia AU S9 Ep. 8</title>
-    <desc>The top three contestants from the invention test now compete in creating a family meal for four in half-an-hour. The winner will then take on a professional chef for a chance at immunity.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403165400 +0000" stop="20260403180200 +0000" channel="10play.MasterChef">
     <title>MasterChef Australia AU S9 Ep. 9</title>
     <desc>The contestants gather at Gradi, one of Melbourne&apos;s leading Italian restaurants before being split into two teams who must prepare four dishes for 250 hungry diners to avoid the elimination challenge.</desc>
@@ -5460,13 +5250,6 @@
 <programme start="20260404165800 +0000" stop="20260404180000 +0000" channel="10play.MasterChef">
     <title>MasterChef Australia AU S9 Ep. 29</title>
     <desc>Split into two teams, each group must prepare a Yotam Ottolenghi-style vegetarian feast for a group of meat lovers. The team that serves the least impressive feast will be up for elimination.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403160200 +0000" stop="20260403165600 +0000" channel="10play.world-of-survivor">
-    <title>Survivor US S2 Ep. 12</title>
-    <desc>Mother Nature flexes her muscles in the Outback. It’s Day 32 and the survivors are being pounded by torrential rains.</desc>
     <rating>
       <value>PG</value>
     </rating>
@@ -5618,10 +5401,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403160900 +0000" stop="20260403165400 +0000" channel="10play.game-shows">
-    <title>1 vs. 100 UK S3 Ep. 3</title>
-    <desc>On the last show David missed out on a golden chance to take home over £14000 after choosing not to bail. Will this be the week when someone manages to go all the way and win big?</desc>
-  </programme>
 <programme start="20260403165400 +0000" stop="20260403174000 +0000" channel="10play.game-shows">
     <title>1 vs. 100 UK S3 Ep. 4</title>
     <desc>On the last show Julia won a fantastic £61000. This week can someone else match her achievement</desc>
@@ -5768,13 +5547,6 @@
 <programme start="20260404165700 +0000" stop="20260404173600 +0000" channel="10play.game-shows">
     <title>1 vs. 100 UK S2 Ep. 6</title>
     <desc>Dermot O&apos;Leary hosts the last in the series edition of this tough quiz show in which one hopeful contestant takes on 100 opponents in a bid to win serious money.</desc>
-  </programme>
-<programme start="20260403162000 +0000" stop="20260403170300 +0000" channel="10play.the-only-way-is-essex">
-    <title>The Only Way Is Essex S2 Ep. 7</title>
-    <desc>Lauren G is raging when Mark suggests to her he starts a modelling agency and tries anything to mark her stamp on him.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
   </programme>
 <programme start="20260403170300 +0000" stop="20260403174400 +0000" channel="10play.the-only-way-is-essex">
     <title>The Only Way Is Essex S2 Ep. 8</title>
@@ -6021,13 +5793,6 @@
       <value>M</value>
     </rating>
   </programme>
-<programme start="20260403160500 +0000" stop="20260403165400 +0000" channel="10play.mtv-geordie-shore">
-    <title>Geordie Shore S12 Ep. 1203</title>
-    <desc>Charlotte gets the girls to go hard on Gaz, Scott drops the girlfriend bomb on Chantelle and Holly has a big bust up with Charlotte when she sees her kissing Chloe. (S12, ep3)</desc>
-    <rating>
-      <value>MA15+</value>
-    </rating>
-  </programme>
 <programme start="20260403165400 +0000" stop="20260403174400 +0000" channel="10play.mtv-geordie-shore">
     <title>Geordie Shore S12 Ep. 1204</title>
     <desc>With Holly away, Chloe and Charlotte&apos;s friendship goes next level. Chantelle&apos;s plan to test Scott goes badly wrong and Chloe is quick to take advantage. (S12, ep4)</desc>
@@ -6227,13 +5992,6 @@
 <programme start="20260404164800 +0000" stop="20260404173800 +0000" channel="10play.mtv-geordie-shore">
     <title>Geordie Shore S1 Ep. 105</title>
     <desc>Holly makes a surprise return to the Geordie Shore house, but not before Jay and Gaz face their toughest work assignment at a working man&apos;s club. Anna pushes Vicky too far.</desc>
-    <rating>
-      <value>MA15+</value>
-    </rating>
-  </programme>
-<programme start="20260403162500 +0000" stop="20260403171300 +0000" channel="10play.mtv-jersey-shore">
-    <title>Jersey Shore S4 Ep. 409</title>
-    <desc>Deena panics after missing her period. After an all-night fight with Jionni, Snookie decides to take a break from the relationship. Mike tries to win her over, but someone else ends up comforting her.</desc>
     <rating>
       <value>MA15+</value>
     </rating>
@@ -6446,20 +6204,6 @@
     <desc>After a night at the clubs, Pauly and Mike have to juggle multiple groups of girls. And mayhem breaks out when a fight erupts at a bar, and one of the housemates goes down. (S1, ep4)</desc>
     <rating>
       <value>MA15+</value>
-    </rating>
-  </programme>
-<programme start="20260403153700 +0000" stop="20260403162700 +0000" channel="10play.mtv-reality">
-    <title>The Charlotte Show S2 Ep. 202</title>
-    <desc>Charlotte and Mel come face to face to try and resolve their differences. Josh invites Charlotte to Bolton for a big family dinner and Charlotte surprises her Mam by taking her on a trip. (S2, ep2)</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403162700 +0000" stop="20260403171700 +0000" channel="10play.mtv-reality">
-    <title>The Charlotte Show S2 Ep. 203</title>
-    <desc>Charlotte and her Mam head off to Iceland on a mission to save the whales. Josh decides to go on a big night out which leads to a huge row. Charlotte is left questioning their relationship. (S2, ep3)</desc>
-    <rating>
-      <value>M</value>
     </rating>
   </programme>
 <programme start="20260403171700 +0000" stop="20260403180700 +0000" channel="10play.mtv-reality">
@@ -6763,13 +6507,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403155600 +0000" stop="20260403164500 +0000" channel="10play.undercover-boss">
-    <title>Undercover Boss Canada S2 Ep. 6</title>
-    <desc>Tervita specializes in environmental clean-up for Western Canada’s booming energy and mining industries. It doesn’t take long for Fory Musser,</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403164500 +0000" stop="20260403173400 +0000" channel="10play.undercover-boss">
     <title>Undercover Boss Canada S2 Ep. 7</title>
     <desc>Kristen Flynn, the boss of Premiere Van Lines. She’s a woman with a formidable reputation. Her own staff call her “Frugal Flynn” because she watches the pennies to protect profit.</desc>
@@ -6964,20 +6701,6 @@
     <desc>While undercover as an entry-level employee, the President and COO of Waste Management, Larry O&apos;Donnell is fired for the first time in his career.</desc>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403162100 +0000" stop="20260403164500 +0000" channel="10play.hardcore-pawn">
-    <title>You Bet Your Butt</title>
-    <desc>Seth and Ashley start the day with a wager that has leaves one of them dressed to the nines.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403164500 +0000" stop="20260403170900 +0000" channel="10play.hardcore-pawn">
-    <title>Vintage Victory</title>
-    <desc>Meet the Gold family, owners of Detroit’s biggest pawn shop</desc>
-    <rating>
-      <value>M</value>
     </rating>
   </programme>
 <programme start="20260403170900 +0000" stop="20260403173500 +0000" channel="10play.hardcore-pawn">
@@ -7386,13 +7109,6 @@
       <value>M</value>
     </rating>
   </programme>
-<programme start="20260403160700 +0000" stop="20260403170000 +0000" channel="10play.embarrassing-bodies">
-    <title>Embarrassing Bodies S5 Ep. 10</title>
-    <desc>In tonight&apos;s show our doctors look back at our lumpiest cases. Whether it&apos;s lumps on your balls or boils on your bottom, over the years Embarrassing Bodies has seen the lot.</desc>
-    <rating>
-      <value>MA</value>
-    </rating>
-  </programme>
 <programme start="20260403170000 +0000" stop="20260403175000 +0000" channel="10play.embarrassing-bodies">
     <title>Embarrassing Bodies S4 Ep. 20</title>
     <desc>In the clinic tonight, Dr Christian looks after a man who can&apos;t get an erection, while Dr Pixie helps a teenager embark on astonishing facial surgery to finish correcting her cleft lip and palate.</desc>
@@ -7589,13 +7305,6 @@
       <value>MA</value>
     </rating>
   </programme>
-<programme start="20260403161600 +0000" stop="20260403171200 +0000" channel="10play.highway-thru-hell">
-    <title>Edge Of Disaster</title>
-    <desc>A back road job drifts towards disaster when James Luke’s 30-ton wrecker starts sliding backwards.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403171200 +0000" stop="20260403180800 +0000" channel="10play.highway-thru-hell">
     <title>Sometimes The Patient Dies</title>
     <desc>A trailer filled with costly pharmaceuticals gets imbedded in a block of ice.</desc>
@@ -7776,27 +7485,6 @@
     <desc>A trailer filled with costly pharmaceuticals gets imbedded in a block of ice.</desc>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403162000 +0000" stop="20260403164300 +0000" channel="10play.cops">
-    <title>Cops S29 Ep. 2926</title>
-    <desc>A young man receives a wake-up call when police catch him breaking the law, and officers play peacemakers after a board game sparks a family feud.</desc>
-    <rating>
-      <value>MA15+</value>
-    </rating>
-  </programme>
-<programme start="20260403164300 +0000" stop="20260403170500 +0000" channel="10play.cops">
-    <title>Cops S29 Ep. 2927</title>
-    <desc>A desperate suspect flees from the cops after shots are fired, and a father and daughter are caught off-guard when they run into a man wielding a screwdriver.</desc>
-    <rating>
-      <value>MA15+</value>
-    </rating>
-  </programme>
-<programme start="20260403170500 +0000" stop="20260403172700 +0000" channel="10play.cops">
-    <title>Cops S29 Ep. 2928</title>
-    <desc>A defiant motorist is shocked when his mother sides with the law, and deputies discover a man wearing a bizarre costume during a routine traffic stop.</desc>
-    <rating>
-      <value>MA15+</value>
     </rating>
   </programme>
 <programme start="20260403172700 +0000" stop="20260403175000 +0000" channel="10play.cops">
@@ -8212,13 +7900,6 @@
       <value>MA15+</value>
     </rating>
   </programme>
-<programme start="20260403154900 +0000" stop="20260403164400 +0000" channel="10play.medical-emergency">
-    <title>999: What&apos;s Your Emergency AU S4 Ep. 19</title>
-    <desc>With unbearable waiting times, crews help a schoolgirl whose life is threatened by anaphylactic shock, a woman who&apos;s been badly cut in a pub fight, and an elderly women who has fractured her hip.</desc>
-    <rating>
-      <value>MA15+</value>
-    </rating>
-  </programme>
 <programme start="20260403164400 +0000" stop="20260403173400 +0000" channel="10play.medical-emergency">
     <title>Medical Mysteries S1 Ep. 5</title>
     <desc>a man cut down in his prime by crippling all over body pain. A retired school teacher who&apos;s head has been in a spin for the last sixty years &amp; the mystery of why a young woman vomits almost every day</desc>
@@ -8415,13 +8096,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403155800 +0000" stop="20260403165300 +0000" channel="10play.deadly-women">
-    <title>Young Blood</title>
-    <desc>A schoolyard plot ends in murder and teenage passion explodes in a bloody rampage.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
 <programme start="20260403165300 +0000" stop="20260403174700 +0000" channel="10play.deadly-women">
     <title>Evil Influence</title>
     <desc>Some women are persuaded to kill under an evil influence.</desc>
@@ -8607,13 +8281,6 @@
 <programme start="20260404165300 +0000" stop="20260404174700 +0000" channel="10play.deadly-women">
     <title>Murderous Moms</title>
     <desc>When a mother kills her own flesh and blood, she breaks a sacred bond.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403155700 +0000" stop="20260403165000 +0000" channel="10play.crime-time">
-    <title>Murdertown S2 Ep. 6</title>
-    <desc>When a murder is committed, you hope that the suspect is caught as quickly as possible, but the lack of evidence with Elaine Doyle’s murder meant that justice would not be served for several years.</desc>
     <rating>
       <value>M</value>
     </rating>
@@ -8814,13 +8481,6 @@
       <value>MA15+</value>
     </rating>
   </programme>
-<programme start="20260403154900 +0000" stop="20260403165100 +0000" channel="10play.crime-hunters">
-    <title>The FBI Files S4 Ep. 58</title>
-    <desc>When a wealthy young woman was abducted in front of her in-laws&apos; home, the police had no shortage of suspects.  The 25-year-old victim left behind a tumultuous marriage, an ex-husband and old boyfriends.  All were on the FBI&apos;s short list.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
 <programme start="20260403165100 +0000" stop="20260403174900 +0000" channel="10play.crime-hunters">
     <title>The New Detectives: Case Studies in Forensic Science S9 Ep. 113</title>
     <desc>In Columbus, Ohio, a woman is found shot in the head.  The death is ruled a suicide, but something is not right and detectives refuse to let the matter rest.</desc>
@@ -8992,13 +8652,6 @@
 <programme start="20260404164900 +0000" stop="20260404175100 +0000" channel="10play.crime-hunters">
     <title>The New Detectives: Case Studies in Forensic Science S4 Ep. 37</title>
     <desc>Formed in the 1830s to protect settlers against Indian attack, the Rangers became part of the Texas Highway Patrol in 1935. Their role has continued to evolve to keep up with changing times; today it includes sophisticated forensics labs.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403155700 +0000" stop="20260403164700 +0000" channel="10play.48hours">
-    <title>48 Hours S21 Ep. 45</title>
-    <desc>A report on the disappearance of Jeanette Louise Zapata, who mysteriously vanished without a trace from her home in Wisconsin on October 11, 1976, leaving behind her daughter Linda, and two other children.</desc>
     <rating>
       <value>M</value>
     </rating>
@@ -9211,20 +8864,6 @@
     <desc>A report about how serial killer Andrew Urdiales was identified, arrested and convicted, and about the young woman who became the only one of his victims to survive.</desc>
     <rating>
       <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403153900 +0000" stop="20260403163100 +0000" channel="10play.true-stories">
-    <title>Vanity Fair Confidential AU S1 Ep. 3</title>
-    <desc>When Lisl Auman was falsely convicted of murdering a police officer, gonzo journalist Hunter S. Thompson began his campaign to expose the brutality, corruption &amp; flaws of the legal system to free Lisl</desc>
-    <rating>
-      <value>MA15+</value>
-    </rating>
-  </programme>
-<programme start="20260403163100 +0000" stop="20260403165600 +0000" channel="10play.true-stories">
-    <title>Who The Bleep Did I Marry? S2 Ep. 8</title>
-    <desc>After her husband of 20 years left her, she eventually met and married Wayne Chinn, a cruise ship chef. But shortly after, his hidden past started to surface and Cynthia was knee deep in his lies.</desc>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
 <programme start="20260403165600 +0000" stop="20260403174500 +0000" channel="10play.true-stories">
@@ -9458,20 +9097,6 @@
       <value>MA15+</value>
     </rating>
   </programme>
-<programme start="20260403153800 +0000" stop="20260403163200 +0000" channel="10play.haunt-tv">
-    <title>Haunted Hospitals</title>
-    <desc>Brave the graveyard shift and face strange things that go bump in the night.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403163200 +0000" stop="20260403172500 +0000" channel="10play.haunt-tv">
-    <title>Haunted Hospitals</title>
-    <desc>Challenge spirits that are hell-bent on punishing the living and spreading fear.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403172500 +0000" stop="20260403181900 +0000" channel="10play.haunt-tv">
     <title>Haunted Hospitals</title>
     <desc>Challenge spirits that are hell-bent on punishing the living and spreading fear.</desc>
@@ -9682,13 +9307,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403161700 +0000" stop="20260403171300 +0000" channel="10play.ghost-hunters">
-    <title>Ghost Hunters S5 Ep. 15</title>
-    <desc>This week TAPS heads to Thousand Island, NY to investigate a 4-acre private island and is joined by the \\&quot; King of Rock and Roll\\&quot; himself, Meatloaf.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20260403171300 +0000" stop="20260403180800 +0000" channel="10play.ghost-hunters">
     <title>Ghost Hunters S10 Ep. 10</title>
     <desc>On this episode of Ghost Hunters, TAPS has been called to investigate Southern Vermont College in Bennington, Vermont.  The legend of a mysterious love triangleand suicidescould be at the root of frightening paranormal activity.</desc>
@@ -9876,20 +9494,6 @@
     <desc>On this episode of Ghost Hunters, TAPS travels to Rochester, New York to investigate the Rochester Public Library&apos;s 15 years of claims. There&apos;s reason to believe that two deaths associated with the building could be behind the activity.</desc>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403155800 +0000" stop="20260403164300 +0000" channel="10play.anthony-bourdain-parts-unknown">
-    <title>Anthony Bourdain Parts Unknown S4 Ep. 6</title>
-    <desc>The Bronx is burning, became the defining image of New York City in the 70s. Politicians used it as a backdrop illustrate the dire situation in America’s cities while local officials let it burn</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403164300 +0000" stop="20260403172800 +0000" channel="10play.anthony-bourdain-parts-unknown">
-    <title>Anthony Bourdain Parts Unknown S1 Ep. 8</title>
-    <desc>Bourdain looks at the Congo as one of the more industrialized powers in Africa now largely crumbled to nothingness and chaos with Tim Butcher author of Blood River.</desc>
-    <rating>
-      <value>M</value>
     </rating>
   </programme>
 <programme start="20260403172800 +0000" stop="20260403181300 +0000" channel="10play.anthony-bourdain-parts-unknown">
@@ -10109,27 +9713,6 @@
       <value>M</value>
     </rating>
   </programme>
-<programme start="20260403155900 +0000" stop="20260403162800 +0000" channel="10play.good-chef-bad-chef">
-    <title>Good Chef Bad Chef S4 Ep. 19</title>
-    <desc>Chef Adrian Richardson and nutritionist Janella Purcell go head to head in a food showdown!</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403162800 +0000" stop="20260403165600 +0000" channel="10play.good-chef-bad-chef">
-    <title>Good Chef Bad Chef S4 Ep. 21</title>
-    <desc>Chef Adrian Richardson and nutritionist Janella Purcell go head to head in a food showdown!</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403165600 +0000" stop="20260403172300 +0000" channel="10play.good-chef-bad-chef">
-    <title>Good Chef Bad Chef S6 Ep. 65</title>
-    <desc>Chef Adrian Richardson and nutritionist Zoe Bingley-Pullin go head to head in a food showdown!</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
 <programme start="20260403172300 +0000" stop="20260403175100 +0000" channel="10play.good-chef-bad-chef">
     <title>Good Chef Bad Chef S6 Ep. 15</title>
     <desc>Chef Adrian Richardson and nutritionist Zoe Bingley-Pullin go head to head in a food showdown!</desc>
@@ -10226,13 +9809,6 @@
     <desc>Chef Adrian Richardson and nutritionist Janella Purcell go head to head in a food showdown!</desc>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403155900 +0000" stop="20260403170200 +0000" channel="10play.shockwave">
-    <title>Urban Resilience</title>
-    <desc>This episode focuses on the notion of urban resilience, visiting trailblazer cities around the world.</desc>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20260403170200 +0000" stop="20260403180300 +0000" channel="10play.shockwave">
@@ -10401,20 +9977,6 @@
     <desc>A powerful earthquake and tsunami will some day devastate the Pacific Northwest. What can we do to prepare?</desc>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20260403161800 +0000" stop="20260403164900 +0000" channel="10play.documentary-channel">
-    <title>Snake Boss S2 Ep. 9</title>
-    <desc>Johnny rescues a python in the poo, Julia starts a new business venture before facing off against two very deadly snakes.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20260403164900 +0000" stop="20260403171900 +0000" channel="10play.documentary-channel">
-    <title>Snake Boss S1 Ep. 2</title>
-    <desc>Julia saves a karate school from a highly venomous visitor. Meanwhile, Johnny Bagpipes leaves his lady flying solo as he prepares to fly to Rome.</desc>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
 <programme start="20260403171900 +0000" stop="20260403174900 +0000" channel="10play.documentary-channel">
@@ -10792,13 +10354,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403152500 +0000" stop="20260403171900 +0000" channel="10play.moviesphere">
-    <title>An Actor Prepares</title>
-    <desc>After suffering a heart attack, an actor is forced to drive across country with his estranged son.</desc>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
 <programme start="20260403171900 +0000" stop="20260403191400 +0000" channel="10play.moviesphere">
     <title>The Wash</title>
     <desc>Life at the car wash is a place where anything can happen to two friends trying to earn money to pay rent.</desc>
@@ -10888,20 +10443,6 @@
     <desc>A look at the trials and tribulations of a newlywed couple during their first year of marriage</desc>
     <rating>
       <value>M</value>
-    </rating>
-  </programme>
-<programme start="20260403162100 +0000" stop="20260403164500 +0000" channel="10play.nick-jr-club">
-    <title>Team Umizoomi S2 Ep. 210</title>
-    <desc>Milli Saves The Day: Milli, Geo and Bot are having a picnic in the woods today. But when Bot and Geo go to pick some apples for the picnic, they get trapped in honey, and nearly made into a cake!</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403164500 +0000" stop="20260403170900 +0000" channel="10play.nick-jr-club">
-    <title>Blaze and the Monster Machines S1 Ep. 5</title>
-    <desc>When Zeg the dinosaur truck accidentally puts on a set of &quot;Super Bouncy Tires,&quot; he bounces out of control! Now Blaze and AJ have to experiment to find a substance adhesive enough to stop their bouncing buddy.</desc>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
 <programme start="20260403170900 +0000" stop="20260403173400 +0000" channel="10play.nick-jr-club">
@@ -11271,20 +10812,6 @@
 <programme start="20260404165000 +0000" stop="20260404171400 +0000" channel="10play.nick-jr-club">
     <title>Shimmer and Shine S3 Ep. 1</title>
     <desc>As the girls search for Leah&apos;s lost necklace, an underground creature finds it and begins making wishes with it. / After Zac wishes to stay in Zahramay Falls forever, the kids search for a powerful genie to reverse the wish.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403162400 +0000" stop="20260403165100 +0000" channel="10play.spongebob-squarepants">
-    <title>SpongeBob SquarePants S4 Ep. 70</title>
-    <desc>The Flying Dutchman crashes at SpongeBob&apos;s house where he constantly scares, startles, and surprises SpongeBob./Sandy is worried her inventions won&apos;t satisfy her chimp beneficiaries.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403165100 +0000" stop="20260403171500 +0000" channel="10play.spongebob-squarepants">
-    <title>SpongeBob SquarePants S5 Ep. 95</title>
-    <desc>SpongeBob and Patrick board a ship of prisoners going to jail in &apos;The Inmates Of Summer&apos;, and then in &apos;To Save A Squirrel&apos;, SpongeBob and Patrick stow away on one of Sandy&apos;s wilderness expeditions.</desc>
     <rating>
       <value>G</value>
     </rating>
@@ -11695,20 +11222,6 @@
       <value>G</value>
     </rating>
   </programme>
-<programme start="20260403161700 +0000" stop="20260403164100 +0000" channel="10play.nicktoons">
-    <title>The Adventures Of Jimmy Neutron AU S1 Ep. 6</title>
-    <desc>Jimmy and his friends use a sub to find treasure hidden in an old, sunken ship somewhere on the ocean floor. Carl confronts his nightmares of the terrible spooky thing&apos; by allowing Jimmy to enter his dreams.&apos;</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403164100 +0000" stop="20260403170600 +0000" channel="10play.nicktoons">
-    <title>The Adventures Of Jimmy Neutron AU S1 Ep. 10</title>
-    <desc>Jimmy comes up with a snack that is even tastier than everyone&apos;s favorite. Miss Fowl swallows a seed from Jimmy&apos;s DNA-accelerated spinach plant turning her into a 50-foot plant creature.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
 <programme start="20260403170600 +0000" stop="20260403173400 +0000" channel="10play.nicktoons">
     <title>Danny Phantom S3 Ep. 4</title>
     <desc>Amity Park is in the midst of a drought, and Mayor Vlad, eager to score points, releases Vortex, the weather ghost, to make it rain.</desc>
@@ -12108,20 +11621,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260403161700 +0000" stop="20260403164400 +0000" channel="10play.nicktoons-90s">
-    <title>The Fairly Odd Parents S10 Ep. 3</title>
-    <desc>Girly Squirrely/Birthday Battle: Transmorphers Versus Unicorns: Chloe joins the Squirrely Scouts and saves the troop by helping them get their first merit badge. Timmy and Chloe find out they have the same birthday and compete for the best party.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403164400 +0000" stop="20260403170800 +0000" channel="10play.nicktoons-90s">
-    <title>The Angry Beavers S1 Ep. 9</title>
-    <desc>Norb awakes to find he suffers from the offensive condition of Stinky Toe. Dag embarks on a perilous mission to discover the cure.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
 <programme start="20260403170800 +0000" stop="20260403173200 +0000" channel="10play.nicktoons-90s">
     <title>The Angry Beavers S2 Ep. 2</title>
     <desc>Dag discovers annoying your brother isn&apos;t much fun when Norb &apos;bops him into last week&apos; and Dag is forced to retrace his errant steps over and over again with painful results.</desc>
@@ -12493,17 +11992,6 @@
       <value>G</value>
     </rating>
   </programme>
-<programme start="20260403162500 +0000" stop="20260403165300 +0000" channel="10play.nickteen">
-    <title>Drake and Josh S4 Ep. 5</title>
-    <desc>After Drake forgets Josh&apos;s birthday he tries to make it up to him by taking him to a live taping of &quot;Oprah&quot;.    Things, however, take a turn when they run into an unexpected guest.</desc>
-  </programme>
-<programme start="20260403165300 +0000" stop="20260403172200 +0000" channel="10play.nickteen">
-    <title>Big Time Rush S2 Ep. 5</title>
-    <desc>It’s Halloween in Palm Woodsylvania and the monstrous personas of Big Time Rush come to light. James is a sexy vampire, Logan is a zombie who keeps losing his limbs, Carlos is Franken-Carlos, and Kendall is a werewolf.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
 <programme start="20260403172200 +0000" stop="20260403174600 +0000" channel="10play.nickteen">
     <title>Game Shakers S3 Ep. 315</title>
     <desc>After Dub goes to Vegas and leaves Trip behind, the Game Shakers take Trip to Dub&apos;s awesome apartment to show him a good time.</desc>
@@ -12842,20 +12330,6 @@
       <value>G</value>
     </rating>
   </programme>
-<programme start="20260403160000 +0000" stop="20260403163000 +0000" channel="10play.gecko-tv">
-    <title>Versamax</title>
-    <desc>Versamax - The Versamax 5 in 1 tool system is perfect for DIY &amp; Home Improvements. Includes 5 attachments Drill/ Hammer attachment, Reciprocating Saw, Multi Tool, Spiral Saw and Impact Driver.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20260403163000 +0000" stop="20260403170000 +0000" channel="10play.gecko-tv">
-    <title>Copper Chef Titan Pan</title>
-    <desc>Copper Chef Titan Pan - Copper Chef Titan Pan - WITH $120 IN FREE GIFTS + ACCESSORIES - It&apos;s the Ultimate, Professional, All Purpose, Stainless Steel Pan Created by Copper Chef &amp; Celebrity Chef Jet Tila. With Tri-Ply Design And Laser Etched Cooking Surf...</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
 <programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="10play.gecko-tv">
     <title>CruiseAway</title>
     <desc>CruiseAway - Join Derek &amp; Jo as they explore the world on board some of the most innovative and exciting cruise ships at sea. (Southeast Asia &amp; Japan)</desc>
@@ -13122,13 +12596,6 @@
       <value>G</value>
     </rating>
   </programme>
-<programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="10play.youtv">
-    <title>Kleva Range All New Spin Crisp Air Fryer</title>
-    <desc>Kleva Range All New Spin Crisp Air Fryer - World&apos;s first rotating air fryer making healthy, crispy meals fast with less oil, easy cleanup and endless fun recipes.</desc>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
 <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="10play.youtv">
     <title>Buy Turmerix Autumn Health Bundle</title>
     <desc>Buy Turmerix Autumn Health Bundle - TurmeriX is a high quality, all-natural supplement, mixed &amp; made in Australia, providing a carefully selected daily dose of Turmeric for your health &amp; wellbeing. Get the X-Factor Turmeric Supplement - TurmeriX - The R...</desc>
@@ -13255,17 +12722,14 @@
       <value>G</value>
     </rating>
   </programme>
-<programme start="20260403141500 +0000" stop="20260403163500 +0000" channel="7plus.seven">
-    <title>The Bounty Hunter</title>
-  </programme>
-<programme start="20260403163500 +0000" stop="20260403170500 +0000" channel="7plus.seven">
-    <title>GetOn Extra</title>
-  </programme>
 <programme start="20260403170500 +0000" stop="20260403180000 +0000" channel="7plus.seven">
     <title>Damnation</title>
   </programme>
-<programme start="20260403145000 +0000" stop="20260403165000 +0000" channel="7plus.7mate">
-    <title>The Scorpion King</title>
+<programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="7plus.seven">
+    <title>Home Shopping</title>
+  </programme>
+<programme start="20260403183000 +0000" stop="20260403190000 +0000" channel="7plus.seven">
+    <title>Home Shopping</title>
   </programme>
 <programme start="20260403165000 +0000" stop="20260403180000 +0000" channel="7plus.7mate">
     <title>American Pickers</title>
@@ -13273,8 +12737,8 @@
 <programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="7plus.7mate">
     <title>Pawn Stars</title>
   </programme>
-<programme start="20260403153106 +0000" stop="20260403163106 +0000" channel="7plus.7bravo">
-    <title>Prosecuting Evil with Kelly Siegler</title>
+<programme start="20260403183000 +0000" stop="20260403190000 +0000" channel="7plus.7mate">
+    <title>Pawn Stars</title>
   </programme>
 <programme start="20260403163053 +0000" stop="20260403172953 +0000" channel="7plus.7bravo">
     <title>Botched</title>
@@ -13282,8 +12746,8 @@
 <programme start="20260403173010 +0000" stop="20260403183110 +0000" channel="7plus.7bravo">
     <title>Snapped</title>
   </programme>
-<programme start="20260403153000 +0000" stop="20260403163000 +0000" channel="7plus.7two">
-    <title>Bargain Hunt</title>
+<programme start="20260403183045 +0000" stop="20260403193045 +0000" channel="7plus.7bravo">
+    <title>Dateline International</title>
   </programme>
 <programme start="20260403163000 +0000" stop="20260403173000 +0000" channel="7plus.7two">
     <title>Escape To The Country</title>
@@ -13291,8 +12755,8 @@
 <programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="7plus.7two">
     <title>ICU</title>
   </programme>
-<programme start="20260403150000 +0000" stop="20260403172000 +0000" channel="7plus.7flix">
-    <title>Love Again</title>
+<programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="7plus.7two">
+    <title>Harry&apos;s Practice</title>
   </programme>
 <programme start="20260403172000 +0000" stop="20260403180000 +0000" channel="7plus.7flix">
     <title>The Conners</title>
@@ -13300,8 +12764,8 @@
 <programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="7plus.7flix">
     <title>Home Shopping</title>
   </programme>
-<programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="7plus.racing_com">
-    <title>Racing.com</title>
+<programme start="20260403183000 +0000" stop="20260403190000 +0000" channel="7plus.7flix">
+    <title>Home Shopping</title>
   </programme>
 <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="7plus.racing_com">
     <title>Racing.com</title>
@@ -13309,13 +12773,16 @@
 <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="7plus.racing_com">
     <title>Racing.com</title>
   </programme>
-<programme start="20260403161110 +0000" stop="20260403170210 +0000" channel="7plus.air_crash_investigations">
-    <title>Air Crash Investigations</title>
+<programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="7plus.racing_com">
+    <title>Racing.com</title>
   </programme>
 <programme start="20260403170210 +0000" stop="20260403175310 +0000" channel="7plus.air_crash_investigations">
     <title>Air Crash Investigations</title>
   </programme>
 <programme start="20260403175310 +0000" stop="20260403184610 +0000" channel="7plus.air_crash_investigations">
+    <title>Air Crash Investigations</title>
+  </programme>
+<programme start="20260403184633 +0000" stop="20260403193833 +0000" channel="7plus.air_crash_investigations">
     <title>Air Crash Investigations</title>
   </programme>
 <programme start="20260403161541 +0000" stop="20260403173841 +0000" channel="7plus.super_bowl_champions">
@@ -13327,35 +12794,32 @@
 <programme start="20260403190054 +0000" stop="20260403202554 +0000" channel="7plus.super_bowl_champions">
     <title>Super Bowl LVII Champions - 2022 Kansas City Chiefs</title>
   </programme>
-<programme start="20260403162412 +0000" stop="20260403164812 +0000" channel="7plus.bondi_rescue">
-    <title>Bondi Rescue</title>
-  </programme>
-<programme start="20260403164853 +0000" stop="20260403171253 +0000" channel="7plus.bondi_rescue">
-    <title>Bondi Rescue</title>
-  </programme>
 <programme start="20260403171335 +0000" stop="20260403173835 +0000" channel="7plus.bondi_rescue">
     <title>Bondi Rescue</title>
   </programme>
-<programme start="20260403161536 +0000" stop="20260403163936 +0000" channel="7plus.judge_judy">
-    <title>Judge Judy</title>
+<programme start="20260403173859 +0000" stop="20260403180259 +0000" channel="7plus.bondi_rescue">
+    <title>Bondi Rescue</title>
   </programme>
-<programme start="20260403164001 +0000" stop="20260403170401 +0000" channel="7plus.judge_judy">
-    <title>Judge Judy</title>
+<programme start="20260403180319 +0000" stop="20260403182819 +0000" channel="7plus.bondi_rescue">
+    <title>Bondi Rescue</title>
   </programme>
 <programme start="20260403170428 +0000" stop="20260403172828 +0000" channel="7plus.judge_judy">
     <title>Judge Judy</title>
   </programme>
-<programme start="20260403155617 +0000" stop="20260403162517 +0000" channel="7plus.blue_light">
-    <title>Beach Cops</title>
+<programme start="20260403172853 +0000" stop="20260403175253 +0000" channel="7plus.judge_judy">
+    <title>Judge Judy</title>
   </programme>
-<programme start="20260403162530 +0000" stop="20260403165130 +0000" channel="7plus.blue_light">
+<programme start="20260403175320 +0000" stop="20260403181720 +0000" channel="7plus.judge_judy">
+    <title>Judge Judy</title>
+  </programme>
+<programme start="20260403171848 +0000" stop="20260403174448 +0000" channel="7plus.blue_light">
+    <title>Highway Patrol</title>
+  </programme>
+<programme start="20260403174545 +0000" stop="20260403181045 +0000" channel="7plus.blue_light">
+    <title>Highway Patrol</title>
+  </programme>
+<programme start="20260403181111 +0000" stop="20260403183811 +0000" channel="7plus.blue_light">
     <title>The Force - Behind The Line</title>
-  </programme>
-<programme start="20260403165200 +0000" stop="20260403171800 +0000" channel="7plus.blue_light">
-    <title>The Force - Behind The Line</title>
-  </programme>
-<programme start="20260403160449 +0000" stop="20260403165549 +0000" channel="7plus.outback_truckers">
-    <title>Outback Truckers</title>
   </programme>
 <programme start="20260403165629 +0000" stop="20260403174729 +0000" channel="7plus.outback_truckers">
     <title>Outback Truckers</title>
@@ -13363,35 +12827,35 @@
 <programme start="20260403174813 +0000" stop="20260403183913 +0000" channel="7plus.outback_truckers">
     <title>Outback Truckers</title>
   </programme>
-<programme start="20260403154722 +0000" stop="20260403163622 +0000" channel="7plus.trucking_hell">
-    <title>Season 7 Episode 9</title>
-  </programme>
-<programme start="20260403163717 +0000" stop="20260403172517 +0000" channel="7plus.trucking_hell">
-    <title>Season 7 Episode 10</title>
+<programme start="20260403183953 +0000" stop="20260403192953 +0000" channel="7plus.outback_truckers">
+    <title>Outback Truckers</title>
   </programme>
 <programme start="20260403172522 +0000" stop="20260403181222 +0000" channel="7plus.trucking_hell">
     <title>Season 7 Episode 11</title>
   </programme>
-<programme start="20260403154504 +0000" stop="20260403163304 +0000" channel="7plus.csi_crime_scene_investigation">
-    <title>CSI: Cyber - The Walking Dead</title>
+<programme start="20260403181322 +0000" stop="20260403190122 +0000" channel="7plus.trucking_hell">
+    <title>Season 7 Episode 12</title>
   </programme>
-<programme start="20260403163340 +0000" stop="20260403172140 +0000" channel="7plus.csi_crime_scene_investigation">
-    <title>CSI: Cyber - Fit-And-Run</title>
+<programme start="20260403190221 +0000" stop="20260403195121 +0000" channel="7plus.trucking_hell">
+    <title>Season 8 Episode 9</title>
   </programme>
 <programme start="20260403172202 +0000" stop="20260403181102 +0000" channel="7plus.csi_crime_scene_investigation">
     <title>CSI: Cyber - Python&apos;s Revenge</title>
   </programme>
-<programme start="20260403153943 +0000" stop="20260403162743 +0000" channel="7plus.below_deck_vault">
-    <title>Charter From Heaven, Charter From Hell?</title>
+<programme start="20260403181123 +0000" stop="20260403185923 +0000" channel="7plus.csi_crime_scene_investigation">
+    <title>CSI: Cyber - Kidnapping 2.0</title>
   </programme>
-<programme start="20260403162832 +0000" stop="20260403171532 +0000" channel="7plus.below_deck_vault">
-    <title>Running on Fumes</title>
+<programme start="20260403190020 +0000" stop="20260403194920 +0000" channel="7plus.csi_crime_scene_investigation">
+    <title>CSI: Cyber - CMND:\Crash</title>
   </programme>
 <programme start="20260403171622 +0000" stop="20260403180322 +0000" channel="7plus.below_deck_vault">
     <title>Nookie Mistake</title>
   </programme>
-<programme start="20260403154958 +0000" stop="20260403163858 +0000" channel="7plus.ncis">
-    <title>Season 1 Episode 10</title>
+<programme start="20260403180335 +0000" stop="20260403184935 +0000" channel="7plus.below_deck_vault">
+    <title>Smoldering Secrets</title>
+  </programme>
+<programme start="20260403185034 +0000" stop="20260403193834 +0000" channel="7plus.below_deck_vault">
+    <title>They Hate Us Cuz They Ain&apos;t Us</title>
   </programme>
 <programme start="20260403163940 +0000" stop="20260403172840 +0000" channel="7plus.ncis">
     <title>Season 1 Episode 11</title>
@@ -13399,17 +12863,17 @@
 <programme start="20260403172936 +0000" stop="20260403181836 +0000" channel="7plus.ncis">
     <title>Season 1 Episode 12</title>
   </programme>
-<programme start="20260403162234 +0000" stop="20260403164934 +0000" channel="7plus.border_security_australia">
-    <title>Border Security - Australia&apos;s Front Line</title>
-  </programme>
-<programme start="20260403165011 +0000" stop="20260403171711 +0000" channel="7plus.border_security_australia">
-    <title>Border Security - Australia&apos;s Front Line</title>
+<programme start="20260403181858 +0000" stop="20260403190858 +0000" channel="7plus.ncis">
+    <title>Brimstone</title>
   </programme>
 <programme start="20260403171739 +0000" stop="20260403174439 +0000" channel="7plus.border_security_australia">
     <title>Border Security - Australia&apos;s Front Line</title>
   </programme>
-<programme start="20260403161133 +0000" stop="20260403163633 +0000" channel="7plus.surveillance_central">
-    <title>Surveillance Oz</title>
+<programme start="20260403174512 +0000" stop="20260403181212 +0000" channel="7plus.border_security_australia">
+    <title>Border Security - Australia&apos;s Front Line</title>
+  </programme>
+<programme start="20260403181239 +0000" stop="20260403184039 +0000" channel="7plus.border_security_australia">
+    <title>Border Security - Australia&apos;s Front Line</title>
   </programme>
 <programme start="20260403163649 +0000" stop="20260403173049 +0000" channel="7plus.surveillance_central">
     <title>Caught On Dashcam</title>
@@ -13417,8 +12881,8 @@
 <programme start="20260403173050 +0000" stop="20260403182350 +0000" channel="7plus.surveillance_central">
     <title>Caught On Dashcam</title>
   </programme>
-<programme start="20260403154758 +0000" stop="20260403163858 +0000" channel="7plus.24_hours_in_a_e">
-    <title>Season 7 Episode 14</title>
+<programme start="20260403182417 +0000" stop="20260403191817 +0000" channel="7plus.surveillance_central">
+    <title>Caught On Dashcam</title>
   </programme>
 <programme start="20260403163919 +0000" stop="20260403173219 +0000" channel="7plus.24_hours_in_a_e">
     <title>Season 8 Episode 13</title>
@@ -13426,8 +12890,8 @@
 <programme start="20260403173234 +0000" stop="20260403182534 +0000" channel="7plus.24_hours_in_a_e">
     <title>Season 8 Episode 14</title>
   </programme>
-<programme start="20260403160434 +0000" stop="20260403165234 +0000" channel="7plus.on_the_case">
-    <title>On The Case S8 E28</title>
+<programme start="20260403182555 +0000" stop="20260403191855 +0000" channel="7plus.24_hours_in_a_e">
+    <title>Season 8 Episode 15</title>
   </programme>
 <programme start="20260403165303 +0000" stop="20260403174103 +0000" channel="7plus.on_the_case">
     <title>On The Case S8 E29</title>
@@ -13435,17 +12899,17 @@
 <programme start="20260403174132 +0000" stop="20260403182932 +0000" channel="7plus.on_the_case">
     <title>On The Case S8 E30</title>
   </programme>
-<programme start="20260403162134 +0000" stop="20260403164834 +0000" channel="7plus.anglers_paradise">
-    <title>Al McGlashan&apos;s Fish&apos;n With Mates</title>
-  </programme>
-<programme start="20260403164840 +0000" stop="20260403171540 +0000" channel="7plus.anglers_paradise">
-    <title>Al McGlashan&apos;s Fish&apos;n With Mates</title>
+<programme start="20260403183003 +0000" stop="20260403191803 +0000" channel="7plus.on_the_case">
+    <title>On The Case S8 E31</title>
   </programme>
 <programme start="20260403171545 +0000" stop="20260403174245 +0000" channel="7plus.anglers_paradise">
     <title>Al McGlashan&apos;s Fish&apos;n With Mates</title>
   </programme>
-<programme start="20260403155832 +0000" stop="20260403171932 +0000" channel="7plus.better_homes_and_gardens">
-    <title>Better Homes And Gardens</title>
+<programme start="20260403174256 +0000" stop="20260403180956 +0000" channel="7plus.anglers_paradise">
+    <title>Al McGlashan&apos;s Fish&apos;n With Mates</title>
+  </programme>
+<programme start="20260403181007 +0000" stop="20260403183707 +0000" channel="7plus.anglers_paradise">
+    <title>Al McGlashan&apos;s Fish&apos;n With Mates</title>
   </programme>
 <programme start="20260403171947 +0000" stop="20260403183947 +0000" channel="7plus.better_homes_and_gardens">
     <title>Better Homes And Gardens</title>
@@ -13453,8 +12917,8 @@
 <programme start="20260403184003 +0000" stop="20260403195903 +0000" channel="7plus.better_homes_and_gardens">
     <title>Better Homes And Gardens</title>
   </programme>
-<programme start="20260403161422 +0000" stop="20260403170222 +0000" channel="7plus.true_crime_files">
-    <title>World&apos;s Most Evil Killers</title>
+<programme start="20260403195933 +0000" stop="20260403212133 +0000" channel="7plus.better_homes_and_gardens">
+    <title>Better Homes And Gardens</title>
   </programme>
 <programme start="20260403170225 +0000" stop="20260403175025 +0000" channel="7plus.true_crime_files">
     <title>World&apos;s Most Evil Killers</title>
@@ -13462,22 +12926,25 @@
 <programme start="20260403175053 +0000" stop="20260403183853 +0000" channel="7plus.true_crime_files">
     <title>World&apos;s Most Evil Killers</title>
   </programme>
-<programme start="20260403153125 +0000" stop="20260403162525 +0000" channel="7plus.mythbusters">
-    <title>Blow It Out of the Water</title>
-  </programme>
-<programme start="20260403162606 +0000" stop="20260403172006 +0000" channel="7plus.mythbusters">
-    <title>The Mythbusters Grand Finale</title>
+<programme start="20260403183951 +0000" stop="20260403192851 +0000" channel="7plus.true_crime_files">
+    <title>World&apos;s Most Evil Killers</title>
   </programme>
 <programme start="20260403172039 +0000" stop="20260403181439 +0000" channel="7plus.mythbusters">
     <title>Reunion</title>
   </programme>
-<programme start="20260403154057 +0000" stop="20260403162957 +0000" channel="7plus.blue_heelers">
-    <title>Blue Heelers</title>
+<programme start="20260403181523 +0000" stop="20260403191123 +0000" channel="7plus.mythbusters">
+    <title>Man Versus Car &amp; Electric Escape</title>
   </programme>
-<programme start="20260403163042 +0000" stop="20260403172042 +0000" channel="7plus.blue_heelers">
-    <title>Blue Heelers</title>
+<programme start="20260403191126 +0000" stop="20260403200726 +0000" channel="7plus.mythbusters">
+    <title>Effective Perspective and Dropping A Bomb</title>
   </programme>
 <programme start="20260403172139 +0000" stop="20260403181139 +0000" channel="7plus.blue_heelers">
+    <title>Blue Heelers</title>
+  </programme>
+<programme start="20260403181153 +0000" stop="20260403190353 +0000" channel="7plus.blue_heelers">
+    <title>Blue Heelers</title>
+  </programme>
+<programme start="20260403190410 +0000" stop="20260403195410 +0000" channel="7plus.blue_heelers">
     <title>Blue Heelers</title>
   </programme>
 <programme start="20260403161347 +0000" stop="20260403185747 +0000" channel="7plus.cricket_gold">
@@ -13489,17 +12956,14 @@
 <programme start="20260404010250 +0000" stop="20260404031550 +0000" channel="7plus.cricket_gold">
     <title>1998/99 Ashes - 4th Test - Day 2 - Morning Sessi</title>
   </programme>
-<programme start="20260403155738 +0000" stop="20260403164738 +0000" channel="7plus.ghost_hunters">
-    <title>S9 E21 - Dead Presidents</title>
-  </programme>
 <programme start="20260403164827 +0000" stop="20260403174027 +0000" channel="7plus.ghost_hunters">
     <title>S10 E09 - Houghton Hears a Who?</title>
   </programme>
 <programme start="20260403174042 +0000" stop="20260403183242 +0000" channel="7plus.ghost_hunters">
     <title>S10 E10 - Darker Learning</title>
   </programme>
-<programme start="20260403160149 +0000" stop="20260403164749 +0000" channel="7plus.botched_vault">
-    <title>Gimme Gimme More...Surgery</title>
+<programme start="20260403183256 +0000" stop="20260403192456 +0000" channel="7plus.ghost_hunters">
+    <title>S11 E09 - Overdue for Death</title>
   </programme>
 <programme start="20260403164848 +0000" stop="20260403173548 +0000" channel="7plus.botched_vault">
     <title>Junk in the Trunk</title>
@@ -13507,8 +12971,8 @@
 <programme start="20260403173550 +0000" stop="20260403182250 +0000" channel="7plus.botched_vault">
     <title>A Revision Runs Through It</title>
   </programme>
-<programme start="20260403160342 +0000" stop="20260403165342 +0000" channel="7plus.hells_kitchen">
-    <title>Hell&apos;s Kitchen Series 3 Episode 4</title>
+<programme start="20260403182326 +0000" stop="20260403191026 +0000" channel="7plus.botched_vault">
+    <title>Cougars and Cobras and Boobs… Oh My!</title>
   </programme>
 <programme start="20260403165346 +0000" stop="20260403174346 +0000" channel="7plus.hells_kitchen">
     <title>Hell&apos;s Kitchen Series 3 Episode 5</title>
@@ -13516,8 +12980,8 @@
 <programme start="20260403174349 +0000" stop="20260403183349 +0000" channel="7plus.hells_kitchen">
     <title>Hell&apos;s Kitchen Series 3 Episode 6</title>
   </programme>
-<programme start="20260403160621 +0000" stop="20260403172021 +0000" channel="7plus.antiques_road_trip">
-    <title>Celebrity Antiques Road Trip</title>
+<programme start="20260403183352 +0000" stop="20260403192352 +0000" channel="7plus.hells_kitchen">
+    <title>Hell&apos;s Kitchen Series 3 Episode 7</title>
   </programme>
 <programme start="20260403172108 +0000" stop="20260403181608 +0000" channel="7plus.antiques_road_trip">
     <title>Antiques Road Trip</title>
@@ -13525,8 +12989,8 @@
 <programme start="20260403181706 +0000" stop="20260403191206 +0000" channel="7plus.antiques_road_trip">
     <title>Antiques Road Trip</title>
   </programme>
-<programme start="20260403155228 +0000" stop="20260403164428 +0000" channel="7plus.mighty_machines">
-    <title>Mighty Cruise Ships S2 E2</title>
+<programme start="20260403191302 +0000" stop="20260403200802 +0000" channel="7plus.antiques_road_trip">
+    <title>Antiques Road Trip</title>
   </programme>
 <programme start="20260403164430 +0000" stop="20260403173630 +0000" channel="7plus.mighty_machines">
     <title>Mighty Planes S1 E5</title>
@@ -13534,17 +12998,17 @@
 <programme start="20260403173631 +0000" stop="20260403182831 +0000" channel="7plus.mighty_machines">
     <title>Mighty Ships S3 E4</title>
   </programme>
-<programme start="20260403160758 +0000" stop="20260403163258 +0000" channel="7plus.medical_and_rescue">
+<programme start="20260403182833 +0000" stop="20260403192033 +0000" channel="7plus.mighty_machines">
+    <title>Mighty Ships S3 E5</title>
+  </programme>
+<programme start="20260403172617 +0000" stop="20260403175117 +0000" channel="7plus.medical_and_rescue">
     <title>Surf Patrol</title>
   </programme>
-<programme start="20260403163340 +0000" stop="20260403170040 +0000" channel="7plus.medical_and_rescue">
+<programme start="20260403175139 +0000" stop="20260403181839 +0000" channel="7plus.medical_and_rescue">
     <title>Medical Emergency</title>
   </programme>
-<programme start="20260403170051 +0000" stop="20260403172551 +0000" channel="7plus.medical_and_rescue">
-    <title>Medical Emergency</title>
-  </programme>
-<programme start="20260403162008 +0000" stop="20260403170608 +0000" channel="7plus.the_real_housewives_vault">
-    <title>Whooping It Up for Wedding Bells</title>
+<programme start="20260403181840 +0000" stop="20260403190940 +0000" channel="7plus.medical_and_rescue">
+    <title>Code 1: Minute By Minute</title>
   </programme>
 <programme start="20260403170636 +0000" stop="20260403175336 +0000" channel="7plus.the_real_housewives_vault">
     <title>Reunion Part One</title>
@@ -13552,26 +13016,26 @@
 <programme start="20260403175430 +0000" stop="20260403184030 +0000" channel="7plus.the_real_housewives_vault">
     <title>Dinner Disasters And Breakfast Breakdowns</title>
   </programme>
-<programme start="20260403153539 +0000" stop="20260403163039 +0000" channel="7plus.wicked_tuna">
-    <title>Break Out or Break Down</title>
-  </programme>
-<programme start="20260403163048 +0000" stop="20260403172548 +0000" channel="7plus.wicked_tuna">
-    <title>No Time to Lose</title>
+<programme start="20260403184114 +0000" stop="20260403192714 +0000" channel="7plus.the_real_housewives_vault">
+    <title>Quit Your Beachin</title>
   </programme>
 <programme start="20260403172557 +0000" stop="20260403181757 +0000" channel="7plus.wicked_tuna">
     <title>Danger Lurks</title>
   </programme>
-<programme start="20260403160618 +0000" stop="20260403163218 +0000" channel="7plus.home_and_away_classics">
-    <title>(1991) Wedding - Pippa and Michael</title>
+<programme start="20260403181808 +0000" stop="20260403191008 +0000" channel="7plus.wicked_tuna">
+    <title>Beat the Storm</title>
   </programme>
-<programme start="20260403163306 +0000" stop="20260403165906 +0000" channel="7plus.home_and_away_classics">
-    <title>(1991) Death - David Croft</title>
+<programme start="20260403191018 +0000" stop="20260403200218 +0000" channel="7plus.wicked_tuna">
+    <title>Hot Water, Big Tuna</title>
   </programme>
-<programme start="20260403165946 +0000" stop="20260403172446 +0000" channel="7plus.home_and_away_classics">
-    <title>(1992) Death - Meg Bowman</title>
+<programme start="20260403172502 +0000" stop="20260403175102 +0000" channel="7plus.home_and_away_classics">
+    <title>(1992) Birth - Tamara Simpson</title>
   </programme>
-<programme start="20260403155752 +0000" stop="20260403164952 +0000" channel="7plus.escape_to_the_country">
-    <title>Shropshire</title>
+<programme start="20260403175140 +0000" stop="20260403181740 +0000" channel="7plus.home_and_away_classics">
+    <title>(1992) Birth - Dale Ross</title>
+  </programme>
+<programme start="20260403181829 +0000" stop="20260403184329 +0000" channel="7plus.home_and_away_classics">
+    <title>(1993) Death - Bobby Simpson</title>
   </programme>
 <programme start="20260403165037 +0000" stop="20260403175737 +0000" channel="7plus.escape_to_the_country">
     <title>Nottingham to Lancashire</title>
@@ -13579,8 +13043,8 @@
 <programme start="20260403175802 +0000" stop="20260403190502 +0000" channel="7plus.escape_to_the_country">
     <title>High Wycombe to Carmarthenshire</title>
   </programme>
-<programme start="20260403160637 +0000" stop="20260403165737 +0000" channel="7plus.the_yorkshire_vet">
-    <title>Season 4 Ep 6</title>
+<programme start="20260403190505 +0000" stop="20260403201205 +0000" channel="7plus.escape_to_the_country">
+    <title>Croydon to Devon</title>
   </programme>
 <programme start="20260403165739 +0000" stop="20260403174939 +0000" channel="7plus.the_yorkshire_vet">
     <title>Season 3 Ep 4</title>
@@ -13588,17 +13052,17 @@
 <programme start="20260403174945 +0000" stop="20260403184145 +0000" channel="7plus.the_yorkshire_vet">
     <title>Season 3 Ep 5</title>
   </programme>
-<programme start="20260403161451 +0000" stop="20260403163951 +0000" channel="7plus.hardcore_pawn">
-    <title>S11 E5 - Drama Online - Part 1</title>
-  </programme>
-<programme start="20260403164048 +0000" stop="20260403170548 +0000" channel="7plus.hardcore_pawn">
-    <title>S11 E6 - Drama Online - Part 2</title>
+<programme start="20260403184157 +0000" stop="20260403193257 +0000" channel="7plus.the_yorkshire_vet">
+    <title>Season 3 Ep 6</title>
   </programme>
 <programme start="20260403170646 +0000" stop="20260403173246 +0000" channel="7plus.hardcore_pawn">
     <title>S12 E4 - Karen vs. Ashley</title>
   </programme>
-<programme start="20260403135606 +0000" stop="20260403163306 +0000" channel="7plus.7afl">
-    <title>Sydney Swans v Carlton | Opening Round</title>
+<programme start="20260403173246 +0000" stop="20260403175746 +0000" channel="7plus.hardcore_pawn">
+    <title>S12 E5 - Buy Baby Buy</title>
+  </programme>
+<programme start="20260403175842 +0000" stop="20260403182342 +0000" channel="7plus.hardcore_pawn">
+    <title>S12 E6 - Shakedown!</title>
   </programme>
 <programme start="20260403163306 +0000" stop="20260403193306 +0000" channel="7plus.7afl">
     <title>Gold Coast SUNS v Geelong Cats | Opening Round</title>
@@ -13606,26 +13070,26 @@
 <programme start="20260403193332 +0000" stop="20260403222232 +0000" channel="7plus.7afl">
     <title>St Kilda v Collingwood | Opening Round</title>
   </programme>
-<programme start="20260403152124 +0000" stop="20260403163424 +0000" channel="7plus.cooking_culture">
-    <title>Plate Of Origin</title>
-  </programme>
-<programme start="20260403163427 +0000" stop="20260403172527 +0000" channel="7plus.cooking_culture">
-    <title>Ramsay&apos;s 24 Hours To Hell And Back</title>
+<programme start="20260403222232 +0000" stop="20260403232432 +0000" channel="7plus.7afl">
+    <title>The Front Bar - 11th March</title>
   </programme>
 <programme start="20260403172609 +0000" stop="20260403181709 +0000" channel="7plus.cooking_culture">
     <title>My Ireland With Colin</title>
   </programme>
-<programme start="20260403162246 +0000" stop="20260403164846 +0000" channel="7plus.travel_australia">
-    <title>Creek To Coast</title>
+<programme start="20260403181803 +0000" stop="20260403190903 +0000" channel="7plus.cooking_culture">
+    <title>My Ireland With Colin</title>
   </programme>
-<programme start="20260403164852 +0000" stop="20260403171452 +0000" channel="7plus.travel_australia">
-    <title>Creek To Coast</title>
+<programme start="20260403190953 +0000" stop="20260403204053 +0000" channel="7plus.cooking_culture">
+    <title>My Kitchen Rules</title>
   </programme>
 <programme start="20260403171458 +0000" stop="20260403174058 +0000" channel="7plus.travel_australia">
     <title>Creek To Coast</title>
   </programme>
-<programme start="20260403152706 +0000" stop="20260403163406 +0000" channel="7plus.million_dollar_listing_vault">
-    <title>The Struggle Is Real</title>
+<programme start="20260403174103 +0000" stop="20260403180703 +0000" channel="7plus.travel_australia">
+    <title>Creek To Coast</title>
+  </programme>
+<programme start="20260403180709 +0000" stop="20260403183309 +0000" channel="7plus.travel_australia">
+    <title>Creek To Coast</title>
   </programme>
 <programme start="20260403163437 +0000" stop="20260403174137 +0000" channel="7plus.million_dollar_listing_vault">
     <title>The Good Fight</title>
@@ -13633,8 +13097,8 @@
 <programme start="20260403174223 +0000" stop="20260403182923 +0000" channel="7plus.million_dollar_listing_vault">
     <title>Won&apos;t You Be My Neighbor?</title>
   </programme>
-<programme start="20260403152553 +0000" stop="20260403171853 +0000" channel="7plus.moviesphere">
-    <title>An Actor Prepares</title>
+<programme start="20260403183022 +0000" stop="20260403191822 +0000" channel="7plus.million_dollar_listing_vault">
+    <title>Co-List or No-List</title>
   </programme>
 <programme start="20260403171931 +0000" stop="20260403191431 +0000" channel="7plus.moviesphere">
     <title>The Wash</title>
@@ -13642,17 +13106,17 @@
 <programme start="20260403191454 +0000" stop="20260403211154 +0000" channel="7plus.moviesphere">
     <title>Mazes and Monsters</title>
   </programme>
-<programme start="20260403154534 +0000" stop="20260403163234 +0000" channel="7plus.bondi_vet">
-    <title>Bondi Vet</title>
-  </programme>
-<programme start="20260403163316 +0000" stop="20260403172016 +0000" channel="7plus.bondi_vet">
-    <title>Bondi Vet</title>
+<programme start="20260403211225 +0000" stop="20260403225225 +0000" channel="7plus.moviesphere">
+    <title>Upworld</title>
   </programme>
 <programme start="20260403172027 +0000" stop="20260403172727 +0000" channel="7plus.bondi_vet">
     <title>Bondi Vet</title>
   </programme>
-<programme start="20260403162224 +0000" stop="20260403171224 +0000" channel="7plus.water_rats">
-    <title>Water Rats - S1 E9 - Death In The Family</title>
+<programme start="20260403172757 +0000" stop="20260403181457 +0000" channel="7plus.bondi_vet">
+    <title>Bondi Vet</title>
+  </programme>
+<programme start="20260403181506 +0000" stop="20260403190206 +0000" channel="7plus.bondi_vet">
+    <title>Bondi Vet</title>
   </programme>
 <programme start="20260403171321 +0000" stop="20260403180321 +0000" channel="7plus.water_rats">
     <title>Water Rats - S1 E10 - Goldstein And Son</title>
@@ -13660,8 +13124,8 @@
 <programme start="20260403180350 +0000" stop="20260403185250 +0000" channel="7plus.water_rats">
     <title>Water Rats - S1 E11 - Kilo Hotel</title>
   </programme>
-<programme start="20260403162251 +0000" stop="20260403172051 +0000" channel="7plus.australia_s_got_talent">
-    <title>Australia&apos;s Got Talent</title>
+<programme start="20260403185347 +0000" stop="20260403194347 +0000" channel="7plus.water_rats">
+    <title>Water Rats - S1 E12 - The Jigsaw Man</title>
   </programme>
 <programme start="20260403172122 +0000" stop="20260403184222 +0000" channel="7plus.australia_s_got_talent">
     <title>Australia&apos;s Got Talent</title>
@@ -13669,17 +13133,17 @@
 <programme start="20260403184232 +0000" stop="20260403195132 +0000" channel="7plus.australia_s_got_talent">
     <title>Australia&apos;s Got Talent</title>
   </programme>
-<programme start="20260403154040 +0000" stop="20260403163240 +0000" channel="7plus.river_monsters">
-    <title>Body Snatcher</title>
-  </programme>
-<programme start="20260403163337 +0000" stop="20260403172537 +0000" channel="7plus.river_monsters">
-    <title>Piranha</title>
+<programme start="20260403195159 +0000" stop="20260403211459 +0000" channel="7plus.australia_s_got_talent">
+    <title>Australia&apos;s Got Talent</title>
   </programme>
 <programme start="20260403172600 +0000" stop="20260403181800 +0000" channel="7plus.river_monsters">
     <title>Killer Torpedo</title>
   </programme>
-<programme start="20260403155358 +0000" stop="20260403164358 +0000" channel="7plus.7news_spotlight">
-    <title>Iced Coffee Killer</title>
+<programme start="20260403181858 +0000" stop="20260403191058 +0000" channel="7plus.river_monsters">
+    <title>Secrets of the Sea</title>
+  </programme>
+<programme start="20260403191153 +0000" stop="20260403200353 +0000" channel="7plus.river_monsters">
+    <title>Silent Assassin</title>
   </programme>
 <programme start="20260403164423 +0000" stop="20260403174323 +0000" channel="7plus.7news_spotlight">
     <title>Love Mules</title>
@@ -13687,8 +13151,8 @@
 <programme start="20260403174343 +0000" stop="20260403183843 +0000" channel="7plus.7news_spotlight">
     <title>TikTok Killer</title>
   </programme>
-<programme start="20260403155818 +0000" stop="20260403164818 +0000" channel="7plus.all_saints">
-    <title>All Saints S2 Ep30</title>
+<programme start="20260403183850 +0000" stop="20260403193250 +0000" channel="7plus.7news_spotlight">
+    <title>World&apos;s Toughest Prison, The Truth A</title>
   </programme>
 <programme start="20260403164912 +0000" stop="20260403173812 +0000" channel="7plus.all_saints">
     <title>All Saints S2 Ep31</title>
@@ -13696,8 +13160,8 @@
 <programme start="20260403173910 +0000" stop="20260403182910 +0000" channel="7plus.all_saints">
     <title>All Saints S2 Ep32</title>
   </programme>
-<programme start="20260403155301 +0000" stop="20260403165001 +0000" channel="7plus.7now">
-    <title>The 1% Club - Season 1 Episode 10</title>
+<programme start="20260403183003 +0000" stop="20260403192003 +0000" channel="7plus.all_saints">
+    <title>All Saints S2 Ep33</title>
   </programme>
 <programme start="20260403165022 +0000" stop="20260403181222 +0000" channel="7plus.7now">
     <title>Australian Idol</title>
@@ -13705,8 +13169,8 @@
 <programme start="20260403181226 +0000" stop="20260403194726 +0000" channel="7plus.7now">
     <title>Australian Idol</title>
   </programme>
-<programme start="20260403155619 +0000" stop="20260403164619 +0000" channel="7plus.winners_and_losers">
-    <title>Winners &amp; Losers S1 Ep17</title>
+<programme start="20260403194748 +0000" stop="20260403210748 +0000" channel="7plus.7now">
+    <title>Dream Home</title>
   </programme>
 <programme start="20260403164619 +0000" stop="20260403173519 +0000" channel="7plus.winners_and_losers">
     <title>Winners &amp; Losers S1 Ep18</title>
@@ -13714,8 +13178,8 @@
 <programme start="20260403173610 +0000" stop="20260403182510 +0000" channel="7plus.winners_and_losers">
     <title>Winners &amp; Losers S1 Ep19</title>
   </programme>
-<programme start="20260403145659 +0000" stop="20260403164259 +0000" channel="7plus.all_star_cinema">
-    <title>The Postcard Killings</title>
+<programme start="20260403182557 +0000" stop="20260403191457 +0000" channel="7plus.winners_and_losers">
+    <title>Winners &amp; Losers S1 Ep20</title>
   </programme>
 <programme start="20260403164306 +0000" stop="20260403184406 +0000" channel="7plus.all_star_cinema">
     <title>The Young Messiah</title>
@@ -13723,8 +13187,8 @@
 <programme start="20260403184451 +0000" stop="20260403202151 +0000" channel="7plus.all_star_cinema">
     <title>I.T.</title>
   </programme>
-<programme start="20260403112648 +0000" stop="20260403165648 +0000" channel="7plus.liv_golf_replays">
-    <title>Adelaide | Round 2</title>
+<programme start="20260403202201 +0000" stop="20260403220101 +0000" channel="7plus.all_star_cinema">
+    <title>Hangman</title>
   </programme>
 <programme start="20260403165718 +0000" stop="20260403213818 +0000" channel="7plus.liv_golf_replays">
     <title>Adelaide | Round 3</title>
@@ -13732,8 +13196,8 @@
 <programme start="20260403213829 +0000" stop="20260404032729 +0000" channel="7plus.liv_golf_replays">
     <title>Adelaide | Final Round</title>
   </programme>
-<programme start="20260403161802 +0000" stop="20260403170902 +0000" channel="7plus.taste">
-    <title>Britain&apos;s Best Dish</title>
+<programme start="20260404032730 +0000" stop="20260404084630 +0000" channel="7plus.liv_golf_replays">
+    <title>Hong Kong | Round 2</title>
   </programme>
 <programme start="20260403170916 +0000" stop="20260403180016 +0000" channel="7plus.taste">
     <title>Britain&apos;s Best Dish</title>
@@ -13741,8 +13205,8 @@
 <programme start="20260403180030 +0000" stop="20260403185330 +0000" channel="7plus.taste">
     <title>Britain&apos;s Best Dish</title>
   </programme>
-<programme start="20260403154517 +0000" stop="20260403163817 +0000" channel="7plus.a_country_practice">
-    <title>S2 E89 - Stirring The Possum - Part 1</title>
+<programme start="20260403185414 +0000" stop="20260403194514 +0000" channel="7plus.taste">
+    <title>Britain&apos;s Best Dish</title>
   </programme>
 <programme start="20260403163821 +0000" stop="20260403173221 +0000" channel="7plus.a_country_practice">
     <title>S2 E90 - Stirring The Possum - Part 2</title>
@@ -13750,13 +13214,16 @@
 <programme start="20260403173258 +0000" stop="20260403182558 +0000" channel="7plus.a_country_practice">
     <title>S2 E91 - Cup Fever - Part 1</title>
   </programme>
-<programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="7plus.racing_wa">
-    <title>Racing WA</title>
+<programme start="20260403182655 +0000" stop="20260403191955 +0000" channel="7plus.a_country_practice">
+    <title>S2 E92 - Cup Fever - Part 2</title>
   </programme>
 <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="7plus.racing_wa">
     <title>Racing WA</title>
   </programme>
 <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="7plus.racing_wa">
+    <title>Racing WA</title>
+  </programme>
+<programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="7plus.racing_wa">
     <title>Racing WA</title>
   </programme>
 <programme start="20260403140000 +0000" stop="20260403200000 +0000" channel="7plus.ausbiz">
@@ -13768,14 +13235,14 @@
 <programme start="20260404020000 +0000" stop="20260404080000 +0000" channel="7plus.ausbiz">
     <title>the weekend</title>
   </programme>
-<programme start="20260403153000 +0000" stop="20260403163000 +0000" channel="7plus.tvsn">
-    <title>Carla Oates The Beauty Chef</title>
-  </programme>
 <programme start="20260403163000 +0000" stop="20260403173000 +0000" channel="7plus.tvsn">
     <title>Alpha H Skin Resurfacing</title>
   </programme>
 <programme start="20260403173000 +0000" stop="20260403183000 +0000" channel="7plus.tvsn">
     <title>Maestro Air Purifier</title>
+  </programme>
+<programme start="20260403183000 +0000" stop="20260403193000 +0000" channel="7plus.tvsn">
+    <title>Lula Soul Fashion</title>
   </programme>
 <programme start="20260403162510 +0000" stop="20260403172300 +0000" channel="9now.channel_9">
     <title>Pointless</title>
