@@ -1,6 +1,8 @@
 # An Australian EPG for your IPTV Player
 
-With the help of ChatGPT, this project fills in the gaps by providing an EPG for FAST channels from 7plus, 9Now, and 10 Play that are missing or no longer maintained in Matt Huisman’s EPG, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/all/epg.xml. 
+With the help of ChatGPT, this EPG fills in the gaps by providing an EPG for FAST channels from 7plus, 9Now, and 10 Play that are missing or no longer maintained in Matt Huisman’s EPG, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/all/epg.xml. 
+
+It's something I wanted to make for my own private playlist, as I like to have my channels show some sort of EPG data, but mostly for the FAST channels like Crime Time, that have different shows on it, it was suddenly missing form Matt's EPG and playlist, but thought it might benefit the broader cord cutting community/IPTV community, too!
 
 #### EPG Link: https://raw.githubusercontent.com/Eurotrasz/australia-epg/refs/heads/main/au_epg.xml
 
