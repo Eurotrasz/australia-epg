@@ -143,13 +143,25 @@ function renderChannels(filter) {
     });
 }
 
-function playStream(url) {
+
+  function playStream(url) {
   if (hls) hls.destroy();
 
-  if (Hls.isSupported()) {
-    hls = new Hls();
+  console.log("Playing:", url);
+
+  if (url.includes(".m3u8") && Hls.isSupported()) {
+    hls = new Hls({
+      enableWorker: true,
+      lowLatencyMode: true
+    });
+
     hls.loadSource(url);
     hls.attachMedia(video);
+
+    hls.on(Hls.Events.ERROR, function (event, data) {
+      console.error("HLS error:", data);
+    });
+
   } else {
     video.src = url;
   }
