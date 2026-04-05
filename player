@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>IPTV Player</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<style>
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #111;
+  color: #fff;
+  display: flex;
+  height: 100vh;
+}
+
+#sidebar {
+  width: 300px;
+  background: #1a1a1a;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+#player-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+video {
+  width: 100%;
+  height: 60%;
+  background: black;
+}
+
+.channel {
+  padding: 8px;
+  cursor: pointer;
+  border-bottom: 1px solid #333;
+}
+
+.channel:hover {
+  background: #333;
+}
+
+#groups {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+#epg {
+  height: 40%;
+  overflow-y: auto;
+  background: #181818;
+  padding: 10px;
+  font-size: 14px;
+}
+</style>
+</head>
+
+<body>
+
+<div id="sidebar">
+  <select id="groups"></select>
+  <div id="channels"></div>
+</div>
+
+<div id="player-container">
+  <video id="video" controls autoplay></video>
+  <div id="epg">EPG loading...</div>
+</div>
+
+<script>
+const M3U_URL = "https://github.com/Eurotrasz/australia-epg/raw/refs/heads/main/live.m3u";
+const EPG_URL = "https://github.com/Eurotrasz/australia-epg/raw/refs/heads/main/au_epg.xml";
+
+let channels = [];
+let epgData = {};
+
+const video = document.getElementById("video");
+let hls;
+
+async function loadM3U() {
+  const res = await fetch(M3U_URL);
+  const text = await res.text();
+
+  const lines = text.split("\n");
+
+  for (let i = 0; i < lines.length; i++) {
+    if (lines[i].startsWith("#EXTINF")) {
+      const info = lines[i];
+      const url = lines[i + 1];
+
+      const name = info.split(",").pop().trim();
+      const tvgId = (info.match(/tvg-id="(.*?)"/) || [])[1];
+
+      let groups = (info.match(/group-title="(.*?)"/) || [])[1] || "Other";
+
+      // 🔥 support multiple groups (split by ;)
+      groups = groups.split(";").map(g => g.trim());
+
+      channels.push({ name, url, tvgId, groups });
+    }
+  }
+
+  buildUI();
+}
+
+function buildUI() {
+  const groupSet = new Set();
+
+  channels.forEach(c => c.groups.forEach(g => groupSet.add(g)));
+
+  const groupSelect = document.getElementById("groups");
+
+  groupSelect.innerHTML = `<option value="all">All</option>`;
+  groupSet.forEach(g => {
+    groupSelect.innerHTML += `<option value="${g}">${g}</option>`;
+  });
+
+  groupSelect.onchange = () => renderChannels(groupSelect.value);
+
+  renderChannels("all");
+}
+
+function renderChannels(filter) {
+  const container = document.getElementById("channels");
+  container.innerHTML = "";
+
+  channels
+    .filter(c => filter === "all" || c.groups.includes(filter))
+    .forEach(c => {
+      const div = document.createElement("div");
+      div.className = "channel";
+      div.innerText = c.name;
+
+      div.onclick = () => {
+        playStream(c.url);
+        showEPG(c.tvgId);
+      };
+
+      container.appendChild(div);
+    });
+}
+
+function playStream(url) {
+  if (hls) hls.destroy();
+
+  if (Hls.isSupported()) {
+    hls = new Hls();
+    hls.loadSource(url);
+    hls.attachMedia(video);
+  } else {
+    video.src = url;
+  }
+}
+
+async function loadEPG() {
+  const res = await fetch(EPG_URL);
+  const text = await res.text();
+
+  const parser = new DOMParser();
+  const xml = parser.parseFromString(text, "text/xml");
+
+  const programmes = xml.getElementsByTagName("programme");
+
+  for (let prog of programmes) {
+    const channel = prog.getAttribute("channel");
+    const title = prog.getElementsByTagName("title")[0]?.textContent;
+    const start = prog.getAttribute("start");
+    const stop = prog.getAttribute("stop");
+
+    if (!epgData[channel]) epgData[channel] = [];
+
+    epgData[channel].push({ title, start, stop });
+  }
+}
+
+function showEPG(tvgId) {
+  const epgBox = document.getElementById("epg");
+
+  if (!epgData[tvgId]) {
+    epgBox.innerHTML = "No EPG data";
+    return;
+  }
+
+  const now = new Date();
+
+  const current = epgData[tvgId].find(p => {
+    return new Date(formatDate(p.start)) <= now &&
+           new Date(formatDate(p.stop)) >= now;
+  });
+
+  const next = epgData[tvgId].find(p => {
+    return new Date(formatDate(p.start)) > now;
+  });
+
+  epgBox.innerHTML = `
+    <b>Now:</b> ${current ? current.title : "Unknown"}<br><br>
+    <b>Next:</b> ${next ? next.title : "Unknown"}
+  `;
+}
+
+function formatDate(str) {
+  return str.replace(
+    /(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/,
+    "$1-$2-$3T$4:$5:$6"
+  );
+}
+
+loadM3U();
+loadEPG();
+</script>
+
+</body>
+</html>
