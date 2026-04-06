@@ -5,32 +5,22 @@
 <title>Eurotrasz EPG Viewer</title>
 <style>
   body { font-family: Arial; background:#111; color:#eee; }
-  h1 { text-align:center; }
-    h3 { text-align:center; }
-	  p { text-align:center; }
-  #drop { border:2px dashed #555; padding:20px; text-align:center; margin:20px; }
-  table { width:80%; border-collapse:collapse; }
+  h1, h3, p { text-align:center; }
+  table { width:80%; border-collapse:collapse; margin:auto; }
   th, td { border:1px solid #333; padding:6px; }
   th { background:#222; }
-  .channel { width:150px; background:#1a1a1a; }
-  .program { background:#2a2a2a; }
 </style>
 <script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
 </head>
 <body>
 
 <h1>📺 Eurotrasz EPG Viewer</h1>
-<h3>A simple viewer to view any XML format EPGs in a browser. Please note, xml.gz need to be extracted first before using this viewer.</h3>
+<h3>A simple viewer to view XML EPGs</h3>
 
-<center>
+<label for="searchInput" style="display:block;text-align:center;">Search channel or programs:</label><br>
+<input type="text" id="searchInput" placeholder="Enter keyword..." size="40" style="display:block;margin:auto;"><br>
 
-<!-- Search filter -->
-<label for="searchInput">Search channel or programs:</label><br><br>
-<input type="text" id="searchInput" placeholder="Enter keyword..." size="40" /><br><br>
-Click on a program to read the synopsis.<br><br>
-
-<!-- EPG Table -->
-<table id="guide" border="1" cellpadding="4" cellspacing="0">
+<table id="guide">
   <thead>
     <tr>
       <th width="20%">Channel</th>
@@ -40,14 +30,18 @@ Click on a program to read the synopsis.<br><br>
   <tbody></tbody>
 </table>
 
-
-<script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
 <script>
 const guide = document.querySelector("#guide tbody");
 
 const sources = [
-  { name: "Eurotrasz", url: "https://raw.githubusercontent.com/Eurotrasz/australia-epg/refs/heads/main/au_epg.xml" },
-  { name: "MJH Pluto", url: "nill" }
+  { name: "MJH Pluto", url: "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml" },
+  { name: "MJH All", url: "https://i.mjh.nz/au/all/epg.xml" },
+  { name: "BuddyChewChew Tubi", url: "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml" },
+  { name: "MJH Roku", url: "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml" },
+  { name: "Buddy LG", url: "https://github.com/BuddyChewChew/lg-playlist-generator/raw/refs/heads/main/lg_channels_us.xml" },
+  { name: "MJH Samsung", url: "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml" },
+  { name: "Buddy Samsung", url: "https://github.com/BuddyChewChew/samsungtvplus/raw/refs/heads/main/output/samsung_tvplus.xml" },
+  { name: "Eurotrasz", url: "https://raw.githubusercontent.com/Eurotrasz/australia-epg/refs/heads/main/au_epg.xml" }
 ];
 
 let channelMap = {};
@@ -55,7 +49,7 @@ let channels = {};
 let allChannelKeys = [];
 let searchTerm = "";
 
-document.getElementById("searchInput")?.addEventListener("input", e => {
+document.getElementById("searchInput").addEventListener("input", e => {
   searchTerm = e.target.value.toLowerCase();
   render();
 });
@@ -65,21 +59,25 @@ async function loadAll() {
     try {
       const res = await fetch(src.url);
       let xmlText;
+
       if (src.url.endsWith(".gz")) {
         const buffer = await res.arrayBuffer();
         xmlText = pako.ungzip(new Uint8Array(buffer), { to: 'string' });
       } else {
         xmlText = await res.text();
       }
+
       parseXML(xmlText);
-      console.log(`Loaded: ${src.name}`);
+      console.log("Loaded:", src.name);
     } catch (err) {
       console.error("Failed:", src.name, err);
     }
   }
+
   allChannelKeys = Object.keys(channelMap).sort((a,b)=>
     (channelMap[a]?.name||a).localeCompare(channelMap[b]?.name||b)
   );
+
   render();
 }
 
@@ -88,7 +86,7 @@ function parseXML(xmlText) {
   const xml = parser.parseFromString(xmlText, "text/xml");
 
   [...xml.getElementsByTagName("channel")].forEach(ch=>{
-    const id = ch.getAttribute("id");
+    const id = ch.getAttribute("id")?.trim().toLowerCase();
     if (!channelMap[id]) {
       const name = ch.getElementsByTagName("display-name")[0]?.textContent || id;
       const icon = ch.getElementsByTagName("icon")[0]?.getAttribute("src") || null;
@@ -97,11 +95,12 @@ function parseXML(xmlText) {
   });
 
   [...xml.getElementsByTagName("programme")].forEach(p=>{
-    const channel = p.getAttribute("channel");
+    const channel = p.getAttribute("channel")?.trim().toLowerCase();
     const title = p.getElementsByTagName("title")[0]?.textContent || "No title";
     const desc = p.getElementsByTagName("desc")[0]?.textContent || "";
     const startDate = parseXMLTVTime(p.getAttribute("start"));
     const stopDate = parseXMLTVTime(p.getAttribute("stop"));
+
     if (!channels[channel]) channels[channel] = [];
     channels[channel].push({ title, desc, startDate, stopDate });
   });
@@ -110,17 +109,21 @@ function parseXML(xmlText) {
 function parseXMLTVTime(timeStr) {
   const main = timeStr.slice(0,14);
   const tz = timeStr.slice(14).trim() || "+0000";
-  const y = parseInt(main.slice(0,4));
-  const m = parseInt(main.slice(4,6))-1;
-  const d = parseInt(main.slice(6,8));
-  const h = parseInt(main.slice(8,10));
-  const min = parseInt(main.slice(10,12));
-  const s = parseInt(main.slice(12,14));
+
+  const y = +main.slice(0,4);
+  const m = +main.slice(4,6)-1;
+  const d = +main.slice(6,8);
+  const h = +main.slice(8,10);
+  const min = +main.slice(10,12);
+  const s = +main.slice(12,14);
+
   let date = new Date(Date.UTC(y,m,d,h,min,s));
-  const sign = tz[0]==="+" ? 1 : -1;
-  const tzHours = parseInt(tz.slice(1,3),10);
-  const tzMinutes = parseInt(tz.slice(3,5),10);
-  return new Date(date.getTime() - sign*(tzHours*60+tzMinutes)*60000);
+
+  const sign = tz[0] === "+" ? 1 : -1;
+  const tzH = +tz.slice(1,3);
+  const tzM = +tz.slice(3,5);
+
+  return new Date(date.getTime() - sign*(tzH*60+tzM)*60000);
 }
 
 function formatTime(date) {
@@ -136,58 +139,60 @@ function render() {
   const now = new Date();
   const fragment = document.createDocumentFragment();
 
-  const filteredChannels = allChannelKeys.filter(ch=>{
-    const progList = channels[ch]||[];
-    return progList.some(p => 
-      p.title.toLowerCase().includes(searchTerm) || (p.desc && p.desc.toLowerCase().includes(searchTerm))
+  const filteredChannels = allChannelKeys.filter(ch => {
+    if (!searchTerm) return true;
+
+    const info = channelMap[ch];
+    const progList = channels[ch] || [];
+
+    const nameMatch = info?.name?.toLowerCase().includes(searchTerm);
+
+    const programmeMatch = progList.some(p =>
+      p.title.toLowerCase().includes(searchTerm) ||
+      (p.desc && p.desc.toLowerCase().includes(searchTerm))
     );
+
+    return nameMatch || programmeMatch;
   });
 
   for (const ch of filteredChannels) {
     const info = channelMap[ch];
     const progList = channels[ch] || [];
 
-    const filteredProgs = progList.filter(p =>
-      p.title.toLowerCase().includes(searchTerm) ||
-      (p.desc && p.desc.toLowerCase().includes(searchTerm))
-    );
+    const nameMatch = info?.name?.toLowerCase().includes(searchTerm);
 
-    if (filteredProgs.length === 0) continue;
+const filteredProgs = searchTerm
+  ? nameMatch
+    ? progList // 👈 show ALL if channel name matches
+    : progList.filter(p =>
+        p.title.toLowerCase().includes(searchTerm) ||
+        (p.desc && p.desc.toLowerCase().includes(searchTerm))
+      )
+  : progList;
 
     const row = document.createElement("tr");
 
     const nameCell = document.createElement("td");
-    if (info.icon) {
-      const img = document.createElement("img");
-      img.src = info.icon;
-      img.style.width = "80px";
-      img.style.marginRight = "12px";
-      nameCell.appendChild(img);
-    }
-    nameCell.appendChild(document.createTextNode(info.name));
+    nameCell.textContent = info.name;
 
     const progCell = document.createElement("td");
-    filteredProgs.forEach(p=>{
-      const div = document.createElement("div");
-      div.innerHTML = `<strong>${formatTime(p.startDate)}</strong> - ${p.title}`;
-      if (p.desc) {
-        const descDiv = document.createElement("div");
-        descDiv.style.fontSize="0.9em";
-        descDiv.style.color="#c0c0c0";
-        descDiv.style.cursor="pointer";
-        descDiv.style.display="none";
-        descDiv.textContent = p.desc.length>100?p.desc.slice(0,97)+"...":p.desc;
-        div.appendChild(descDiv);
-        div.addEventListener("click", ()=>{ 
-          descDiv.style.display = descDiv.style.display==="none"?"block":"none";
-        });
-      }
-      if (p.startDate && p.stopDate && now>=p.startDate && now<p.stopDate) {
-        div.style.backgroundColor="#480000";
-        div.style.fontWeight="bold";
-      }
-      progCell.appendChild(div);
-    });
+
+    if (filteredProgs.length === 0) {
+      progCell.textContent = searchTerm
+        nameMatch ? "Loading programmes..." : "No matching programmes";
+    } else {
+      filteredProgs.forEach(p => {
+        const div = document.createElement("div");
+        div.innerHTML = `<strong>${formatTime(p.startDate)}</strong> - ${p.title}`;
+
+        if (p.startDate && p.stopDate && now >= p.startDate && now < p.stopDate) {
+          div.style.backgroundColor = "#480000";
+          div.style.fontWeight = "bold";
+        }
+
+        progCell.appendChild(div);
+      });
+    }
 
     row.appendChild(nameCell);
     row.appendChild(progCell);
@@ -197,9 +202,10 @@ function render() {
   guide.appendChild(fragment);
 }
 
-// Start
 loadAll();
 </script>
-<p>If you use this viewer, please credit me at my Github: https://github.com/Eurotrasz</p>
+
+<p>If you use this viewer, credit: https://github.com/Eurotrasz</p>
+
 </body>
 </html>

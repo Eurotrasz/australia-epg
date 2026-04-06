@@ -1,3 +1,4 @@
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml"
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Perth/epg.xml.gz"
@@ -32,7 +33,27 @@
 
 #EXTM3U x-tvg-url="https://github.com/BuddyChewChew/lg-playlist-generator/raw/refs/heads/main/lg_channels_us.xml"
 
-#EXTM3U x-tvg-url="https://github.com/Eurotrasz/australia-epg/raw/refs/heads/main/au_epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Eurotrasz/australia-epg/refs/heads/main/au_epg.xml"
+
+# POPUP CHANNELS
+
+#EXTINF:-1 channel-id="mjh-australian-mc-age-championships-2026-fast" tvg-id="mjh-australian-mc-age-championships-2026-fast" tvg-logo="https://imageresizer.static9.net.au/GTQOwoeu_MeNZ8JR2bLP588y1VE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763754%2Fsquircle_swimmingaus.png" group-title="Sport;MC Age Championships 2026" , Australian MC Age Championships 2026
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/australian-mc-age-championships-2026-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-australian-open-swimming-2026-fast" tvg-id="mjh-australian-open-swimming-2026-fast" tvg-logo="https://imageresizer.static9.net.au/wrPjfhVL5NaG8YfpIMVKWrIkkrI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763777%2Fsquircle_swimmingaus.png" group-title="Sport;Australian Open Swimming 2026" , Australian Open Swimming 2026
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/australian-open-swimming-2026-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cricketgold-fast" tvg-id="mjh-cricketgold-fast" tvg-logo="https://i.mjh.nz/.images/auto-cricketgold-fast-906f03.png" group-title="Sport;Australian" , Cricket Gold
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cricketgold-fast.m3u8
+
+
+#
 
 #EXTINF:-1 channel-id="mjh-seven-per" tvg-id="mjh-seven-per" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" tvg-chno="7" group-title="Entertainment;Australian;News;TV;Movies" , 7 Seven Perth
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -357,7 +378,7 @@ https://i.mjh.nz/.r/10bold-qld.m3u8
 https://i.mjh.nz/.r/10peach-qld.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="Entertainment;Series;Reality;Australian" , Border Security Australia
+#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="7plus.border_security_australia" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="Entertainment;Series;Reality;Australian" , Border Security Australia
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bordersecurityaustralia-fast.m3u8
@@ -409,7 +430,7 @@ https://i.mjh.nz/.r/onthecase-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas24-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-cas25-fast" tvg-id="australia_s_got_talent" tvg-logo="https://i.mjh.nz/.images/auto-cas25-fast-fb94a0.png" group-title="Entertainment;Competition;Reality;Australian;Series" , Australia's Got Talent
+#EXTINF:-1 channel-id="mjh-cas25-fast" tvg-id="7plus.australia_s_got_talent" tvg-logo="https://i.mjh.nz/.images/auto-cas25-fast-fb94a0.png" group-title="Entertainment;Competition;Reality;Australian;Series" , Australia's Got Talent
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas25-fast.m3u8
@@ -419,7 +440,7 @@ https://i.mjh.nz/.r/cas25-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas26-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-7now-fast" tvg-id="mjh-7now-fast" tvg-logo="https://i.mjh.nz/.images/auto-7now-fast-c5b39e.png" group-title="Entertainment;Australian;TV" , 7now
+#EXTINF:-1 channel-id="mjh-7now-fast" tvg-id="7plus.7now" tvg-logo="https://i.mjh.nz/.images/auto-7now-fast-c5b39e.png" group-title="Entertainment;Australian;TV" , 7now
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7now-fast.m3u8
@@ -454,7 +475,7 @@ https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/all-starcinema-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-bluelight-fast" tvg-id="7plus.blue_light" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="Reality;True Crime;Series;Documentary" , Blue Light
+#EXTINF:-1 channel-id="mjh-bluelight-fast" tvg-id="7plus.blue_light" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="British;Reality;Police;Series;Entertainment" , Blue Light
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bluelight-fast.m3u8
@@ -515,7 +536,7 @@ https://i.mjh.nz/.r/ncis-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas39-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-cas40-fast" tvg-id="7plus.million_dollar_listing_vault" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="Entertainment;Lifestyle;Reality;Series" , Million Dollar Listing VAULT
+#EXTINF:-1 channel-id="mjh-cas40-fast" tvg-id="7plus.million_dollar_listing_vault" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="Entertainment;Reality;Home;Lifestyle;Series" , Million Dollar Listing VAULT
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas40-fast.m3u8
@@ -540,7 +561,7 @@ https://i.mjh.nz/.r/9crime-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="9now.9mystery_paranormal" tvg-logo="https://imageresizer.static9.net.au/8r87q5_tKZsECqOuzvStqU5iHxU=/1280x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685330%2Fcroppedlogo-5.png" group-title="Paranormal;Mystery;TV" , 9Mystery&Paranormal
+#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="9now.9mystery_paranormal" tvg-logo="https://imageresizer.static9.net.au/8r87q5_tKZsECqOuzvStqU5iHxU=/1280x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685330%2Fcroppedlogo-5.png" group-title="Paranormal;Mystery;TV;Entertainment" , 9Mystery&Paranormal
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
@@ -560,7 +581,7 @@ https://i.mjh.nz/.r/lmn-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/real-emergency-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-the-block-247-fast" tvg-id="9now.the_block_24_7" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="Entertainment;Lifestyle;Home;Reality;Competition;Australian;Series" , The Block 24/7
+#EXTINF:-1 channel-id="mjh-the-block-247-fast" tvg-id="9now.the_block_24_7" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="Entertainment;Lifestyle;Home;Reality;Competition;Australian;Series" , The Block Channel
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/the-block-247-fast.m3u8
@@ -590,7 +611,7 @@ https://i.mjh.nz/.r/bbc-comedy-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-home-garden-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-bbc-food-fast" tvg-id="9now.bbc_foodt" tvg-logo="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png" group-title="Food;British;Lifestyle;TV" , BBC Food
+#EXTINF:-1 channel-id="mjh-bbc-food-fast" tvg-id="9now.bbc_food" tvg-logo="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png" group-title="Food;British;Lifestyle;TV" , BBC Food
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-food-fast.m3u8
@@ -607,7 +628,7 @@ https://dai.google.com/ssai/event/98ajzpAtT6GqU0rh-KSoiw/master.m3u8
 #EXTINF:-1 channel-id="mjh-10-embarrassing-bodies" tvg-id="10play.embarrassing-bodies" tvg-logo="https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png" group-title="Lifestyle;Reality;Series" , Embarrassing Bodies
 https://dai.google.com/ssai/event/zsH8Gm6CT7eFZkLJAq2WDQ/master.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-undercoverboss" tvg-id="10play.undercover-boss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png" group-title="Entertainment;Reality;Series" , Undercover Boss
+#EXTINF:-1 channel-id="mjh-10-undercoverboss" tvg-id="10play.undercover-boss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png" group-title="Entertainment;Reality;Series" , Undercover Boss 2
 https://dai.google.com/ssai/event/uSRPvxsiRtGFfNWPMLNijg/master.m3u8
 
 
@@ -620,11 +641,30 @@ https://dai.google.com/ssai/event/WG94OC1uSjmBz9TiSxdJ5w/master.m3u8
 #EXTINF:-1 channel-id="mjh-10-projectrunway" tvg-id="dummy.projectrunway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png" group-title="Fashion;Reality;Competition;Series;Australian" , Project Runway
 https://dai.google.com/ssai/event/HtXtLOQ2TS2MagSoIjEg8A/master.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="10play.cops tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png" group-title="True Crime;Series;Reality" , COPS
+#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="10play.cops tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png" group-title="Entertainment;Series;Police;Drama;Reality" , COPS
 https://dai.google.com/ssai/event/OXKmKfhSSaGi0E0G3pu7vQ/master.m3u8
 
 #EXTINF:-1 channel-id="mjh-10-deadlywomen" tvg-id="10play.deadly-women" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png" group-title="True Crime;Series;Documentary" , Deadly Women 2
 https://dai.google.com/ssai/event/7ysI2XVSS_G3PH-QX2qikQ/master.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-romancemovies" tvg-id="10play.romance-movies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="Romance;Movies" , Romance Movies 2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-romancemovies.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-eightoutof10cats" tvg-id="10play.8-out-of-10-cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" group-title="British;Series;Comedy;Entertainment;Talk Show;Competition" , 8 Out Of 10 Cats
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-eightoutof10cats.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-10-thankgodyourehere" tvg-id="10play.thankgodyourehere" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="Comedy;Series;Australian;Entertainment" , Thank God You're Here
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-thankgodyourehere.m3u8
+
+
+
 
 #EXTINF:-1 channel-id="mjh-10-cheapseats" tvg-id="10play.the-cheap-seats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png" group-title="Entertainment;Comedy;Australian;Series;Entertainment" , The Cheap Seats
 https://dai.google.com/ssai/event/HWeCCtszQ96CEOVyjUtdGA/master.m3u8
@@ -656,16 +696,29 @@ https://dai.google.com/ssai/event/6u_sxN5IRZ2W22tdrqhsTA/master.m3u8
 #EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="10play.prisoner-cell-block-h" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png" group-title="Australian;Series;Crime;Drama" , Prisoner: Cell Block H
 https://dai.google.com/ssai/event/fyziAodMQgCd0jAE3mH3JA/master.m3u8
 
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-69154308e449c6fdde65a661" tvg-id="697140a85d851f5e69414688-69154308e449c6fdde65a661" tvg-chno="" tvg-name="Undercover Boss" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55dfbe72-b7f5-4aa6-8d39-06fc2f94de6a/UndercoverBoss_DarkLogo.png" group-title="Entertainment;Reality;Series",Undercover Boss
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-69154308e449c6fdde65a661" tvg-id="697140a85d851f5e69414688-69154308e449c6fdde65a661" tvg-name="Undercover Boss" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55dfbe72-b7f5-4aa6-8d39-06fc2f94de6a/UndercoverBoss_DarkLogo.png" group-title="Entertainment;Reality;Series",Undercover Boss
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-69154308e449c6fdde65a661/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O9lwu23.png" group-title="Entertainment;Reality;Series",Undercover Boss 2
+#EXTINF:-1 tvg-id=tvg-id="697140a85d851f5e69414688-69154308e449c6fdde65a661" tvg-logo="https://i.imgur.com/O9lwu23.png" group-title="Entertainment;Reality;Series",Undercover Boss ALTERNATIVE
 https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USBD4200009Y4" tvg-logo="" group-title="Entertainment;Home;Lifestyle;Reality;TV",Hoarders by A&E
+https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10play.crime-time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="True Crime;Australian;Documentary" , Crime Time Australia
 https://dai.google.com/ssai/event/oO7UNo45SCOmonWYG2j4nA/master.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-10-crime-hunters" tvg-id="mjh-10-crime-hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="True Crime;Documentary;Series" , Crime Hunters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-crime-hunters.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-forty-eight-hours" tvg-id="mjh-10-forty-eight-hours" tvg-logo="https://10.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png?image-profile=logo" group-title="True Crime;Documentary" , .48 Hours 4
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
 
 #EXTINF:-1 channel-id="mjh-10-south-park" tvg-id="10play.south-park" tvg-logo="https://10.com.au/ip/s3/2023/08/03/41a79ba6a28f011b379ea68d41c28ea0-1253591.png" group-title="South Park;Animation;Comedy;Series;Entertainment" , South Park 3
 https://dai.google.com/ssai/event/H1yf0PwIQACoUfCqwSkjjQ/master.m3u8
@@ -673,17 +726,8 @@ https://dai.google.com/ssai/event/H1yf0PwIQACoUfCqwSkjjQ/master.m3u8
 #EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="10play.MasterChef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png" group-title="Lifestyle;Food;Competition;Reality" , MasterChef
 https://dai.google.com/ssai/event/-Xbq7rGcSey_sBmHdRiGOA/master.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="10play.haunt-tv" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png" group-title="Paranormal;Entertainment;TV" , Haunt TV 2
+#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="10play.haunt-tv" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png" group-title="Paranormal;Entertainment;Series" , Haunt TV 2
 https://dai.google.com/ssai/event/0hhOsOdMToCB3JbS2528jQ/master.m3u8
-
-
-
-#EXTINF:-1 channel-id="mjh-cas21-fast" tvg-id="GhostHunters.au" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="Series;Paranormal" , Ghost Hunters
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/cas21-fast.m3u8
-
-
 
 
 #EXTINF:-1 channel-id="mjh-sbs-sbst" tvg-id="mjh-sbs-sbst" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c" tvg-chno="30" group-title="Entertainment;Australian;News;Documentary;TV" , SBS
@@ -773,6 +817,17 @@ https://i.mjh.nz/.r/three-plus1.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="News;Australian" , Sky News Now
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-news-now.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-documentaryshell" tvg-id="mjh-10-documentaryshell" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="Entertainment;Animals;Documentary;Science;TV" , Sharks & Other Predators
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-documentaryshell.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ABCWest_KABC.us" tvg-logo="https://iptv-epg.org/logos/USA/ABCWest_KABC.us.png" group-title="Entertainment;News;US Cable TV",ABC West (KABC)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
@@ -809,7 +864,7 @@ https://live-content.xumo.com/2073/content/XM0A769W2W4GSG/22743887/master.m3u8
 
 
 
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-65847c56d60830ce4d4f303a" tvg-id="697140a85d851f5e69414688-65847c56d60830ce4d4f303a" tvg-chno="" tvg-name="Hardcore Pawn" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2729a7a8-8f45-474a-90a3-ca23aa1241a0/HardcorePawn_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Reality;Series",Hardcore Pawn
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-65847c56d60830ce4d4f303a" tvg-id="697140a85d851f5e69414688-65847c56d60830ce4d4f303a" tvg-name="Hardcore Pawn" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2729a7a8-8f45-474a-90a3-ca23aa1241a0/HardcorePawn_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Reality;Series",Hardcore Pawn 2
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-65847c56d60830ce4d4f303a/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1
 
 
@@ -912,7 +967,7 @@ https://amg00514-amg00514c3-rlaxx-us-6693.playouts.now.amagi.tv/playlist/amg0051
 #EXTINF:-1 tvg-id="400000251" tvg-logo="https://canvas-lb.tubitv.com/opts/BYzaJwTCsR4qOQ==/d4c950c6-5131-47a1-a52b-f0644e28d89a/CHgQeDoFMS4xLjlAAQ==" group-title="True Crime;TV;Documentary",Law and Crime
 https://live-manifest.production-public.tubi.io/live/315e77b4-d6b2-410a-85fa-08243751ecc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="400000091" tvg-logo="https://canvas-lb.tubitv.com/opts/b_lV2vB1BiPx6A==/56b0a95e-2750-408d-9059-2c4c170e7dca/CHgQeDoFMS4xLjlAAQ==" group-title="True Crime;Documentary;Series",The FBI Files 1
+#EXTINF:-1 tvg-id="400000091" tvg-logo="https://canvas-lb.tubitv.com/opts/b_lV2vB1BiPx6A==/56b0a95e-2750-408d-9059-2c4c170e7dca/CHgQeDoFMS4xLjlAAQ==" group-title="True Crime;Documentary",The FBI Files 1
 https://live-manifest.production-public.tubi.io/live/8aee9cff-b626-4950-99e5-809fb599100e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCWCVB.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/WCVB-TV_alternate_2021.svg" group-title="News;Boston",ABC Boston (WCVB) 
@@ -1026,7 +1081,7 @@ https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8
 #EXTINF:-1 channel-id="349e0f0840cf21b888bff327b41a2413" tvg-id="349e0f0840cf21b888bff327b41a2413" tvg-name="Scares by Shudder" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/349e0f0840cf21b888bff327b41a2413/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734485619426_SHUD_FastChanel_Roku_Image_HUD2BillWatts_.png" group-title="Horror;Movies",Scares by Shudder
 https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
 
-#EXTINF:-1 channel-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-name="Stargate" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11c7c3660c6b6f18a21838fd404a7a1d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749756384598_Stargate_HUDLogo_Centered_260x147.png" group-title="Entertainment;Science Fiction;Series",Stargate
+#EXTINF:-1 channel-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-name="Stargate" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11c7c3660c6b6f18a21838fd404a7a1d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749756384598_Stargate_HUDLogo_Centered_260x147.png" group-title="Entertainment;Science Fiction;Series",Stargate 2
 https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8
 
 #EXTINF:-1 channel-id="aa16704e1ee052dea67cee1f79618754" tvg-id="aa16704e1ee052dea67cee1f79618754" tvg-name="Alien Nation by DUST" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/aa16704e1ee052dea67cee1f79618754/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693585686439_AlienNation_HUD_260x147.png" group-title="Paranormal;Documentary;Science",Alien Nation by DUST
@@ -1353,9 +1408,6 @@ https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
 #EXTINF:-1 channel-id="65cba73611ced700082123bc" tvg-id="65cba73611ced700082123bc" tvg-chno="1051" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoPNG.png" group-title="Comedy;Series",Broad City
 https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
 
-#EXTINF:-1 channel-id="64e87ce528cec700088cec55" tvg-id="64e87ce528cec700088cec55" tvg-chno="458" tvg-name="Hoarders & Dirty Home Rescue" tvg-logo="https://images.pluto.tv/channels/64e87ce528cec700088cec55/colorLogoPNG.png" group-title="Home;Lifestyle;Reality;Series",Hoarders & Dirty Home Rescue
-https://jmp2.uk/plu-64e87ce528cec700088cec55.m3u8
-
 #EXTINF:-1 channel-id="693ae62a43fe00a023e76e0d" tvg-id="693ae62a43fe00a023e76e0d" tvg-chno="13" tvg-name="House of Lies" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="Series;Drama",House of Lies
 https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 
@@ -1642,7 +1694,7 @@ https://jmp2.uk/plu-68b9afd66985e192657a2b7f.m3u8
 #EXTINF:-1 tvg-id="62e92a58f3e4290007290c96" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" tvg-chno="292" group-title="Paranormal", Pluto TV Paranormal
 https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 
-#EXTINF:-1 tvg-id="65cf8ace332fec00081e7ea2" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" tvg-chno="293" group-title="Paranormal", Ghost Hunters
+#EXTINF:-1 tvg-id="65cf8ace332fec00081e7ea2" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" tvg-chno="293" group-title="Paranormal;Series", Ghost Hunters 2
 https://jmp2.uk/plu-65cf8ace332fec00081e7ea2.m3u8
 
 #EXTINF:-1 tvg-id="63934c218ef524000757b122" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" tvg-chno="294" group-title="Paranormal", HauntTV 2
@@ -1714,7 +1766,7 @@ https://jmp2.uk/plu-6540fe4bbdf3cf0008aa2cdd.m3u8
 #EXTINF:-1 tvg-id="6540fe6fbfbaec0008a583ae" tvg-logo="https://images.pluto.tv/channels/6540fe6fbfbaec0008a583ae/colorLogoPNG.png" tvg-chno="463" group-title="Reality;Series", Duck Dynasty
 https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8
 
-#EXTINF:-1 tvg-id="66166989635c7500084105a2" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" tvg-chno="464" group-title="Reality;Series;Australian", Bondi Rescue
+#EXTINF:-1 tvg-id="66166989635c7500084105a2" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" tvg-chno="464" group-title="Reality;Series;Australian", Bondi Rescue 2
 https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
 
 #EXTINF:-1 tvg-id="67922858b83355184c699699" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png" tvg-chno="466" group-title="Reality;TV;Entertainment", Pluto TV Reality 2
@@ -1774,10 +1826,10 @@ https://jmp2.uk/plu-62e92951c2db99000787c00d.m3u8
 #EXTINF:-1 tvg-id="62e90e8cb05d2b0007f10a61" tvg-logo="https://images.pluto.tv/channels/62e90e8cb05d2b0007f10a61/colorLogoPNG.png" tvg-chno="507" group-title="Game Shows;TV", Game Show Central
 https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
 
-#EXTINF:-1 tvg-id="6310cbee5a8ad300070fdb7c" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png" tvg-chno="510" group-title="Talk Show;Comedy;Series;TV", Best of The Drew Barrymore Show
+#EXTINF:-1 tvg-id="6310cbee5a8ad300070fdb7c" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png" tvg-chno="510" group-title="Talk Show;Comedy;Series;TV", The Drew Barrymore Show
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
 
-#EXTINF:-1 tvg-id="666815f24b9fb400083f7e31" tvg-logo="https://images.pluto.tv/channels/666815f24b9fb400083f7e31/colorLogoPNG.png" tvg-chno="511" group-title="Talk Show;Reality;Series;TV", Best of Dr. Phil
+#EXTINF:-1 tvg-id="666815f24b9fb400083f7e31" tvg-logo="https://images.pluto.tv/channels/666815f24b9fb400083f7e31/colorLogoPNG.png" tvg-chno="511" group-title="Talk Show;Reality;Series;TV", Dr. Phil
 https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
 
 #EXTINF:-1 tvg-id="62e92e536f28870007fa9b3a" tvg-logo="https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png" tvg-chno="512" group-title="Series;Drama;Reality;Court", Judge Judy 2
@@ -1873,6 +1925,11 @@ https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
 
 
+#EXTINF:-1 channel-id="mjh-bbc-top-gear-247-fast" tvg-id="mjh-bbc-top-gear-247-fast" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="Automotive;Sports;Reality;Comedy;Series" , Top Gear 3
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
+
 
 #EXTINF:-1 tvg-id="64a28c62d609b60008ca4933" tvg-logo="https://images.pluto.tv/channels/64a28c62d609b60008ca4933/colorLogoPNG_1758270375136.png" tvg-chno="701" group-title="Sport", Rock Channel
 https://jmp2.uk/plu-64a28c62d609b60008ca4933.m3u8
@@ -1942,7 +1999,7 @@ https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
 #EXTINF:-1 tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" tvg-chno="60" group-title="Movies;Drama", Drama Movies 2
 https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 
-#EXTINF:-1 tvg-id="5a66795ef91fef2c7031c599" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" tvg-chno="80" group-title="Movies;Romance", Romance Movies 2
+#EXTINF:-1 tvg-id="5a66795ef91fef2c7031c599" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" tvg-chno="80" group-title="Movies;Romance", Romance Movies 1
 https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" tvg-chno="100" group-title="Movies", BET Cinema
@@ -2206,13 +2263,13 @@ https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 #EXTINF:-1 tvg-id="654930a8346f420008d3b0b8" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png" tvg-chno="1310" group-title="True Crime;Documentary;TV", Oxygen True Crime Archives
 https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 
-#EXTINF:-1 tvg-id="5dae0b4841a7d0000938ddbd" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" tvg-chno="1320" group-title="True Crime;Court;Reality", Court TV
+#EXTINF:-1 tvg-id="5dae0b4841a7d0000938ddbd" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" tvg-chno="1320" group-title="Entertainment;Series;Court;Reality", Court TV
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 
 #EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG_1767745470551.png" tvg-chno="1330" group-title="True Crime;Documentary", A&E Crime 360
 https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
 
-#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" tvg-chno="1380" group-title="Reality;Series", COPS 2
+#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" tvg-chno="1380" group-title="Entertainment;Series;Police;Drama;Reality", COPS 2
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
 
 #EXTINF:-1 tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png" tvg-chno="1390" group-title="Reality;Series", Car Chase
@@ -2234,7 +2291,7 @@ https://jmp2.uk/plu-656538f8954b020008d389db.m3u8
 #EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" tvg-chno="1540" group-title="Paranormal;TV", Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 
-#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" tvg-chno="1550" group-title="Paranormal;Series", Ghost Hunters
+#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" tvg-chno="1550" group-title="Paranormal;Series", Ghost Hunters 4
 https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
 
 
@@ -2262,7 +2319,7 @@ https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 #EXTINF:-1 tvg-id="6127e12ed140e900077e7b6f" tvg-logo="https://images.pluto.tv/channels/6127e12ed140e900077e7b6f/colorLogoPNG.png" tvg-chno="1740" group-title="Reality;Series", Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
 
-#EXTINF:-1 tvg-id="6549322e53fc97000838febc" tvg-logo="https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png" tvg-chno="1770" group-title="Reality;Home;Lifestyle;Series", Million Dollar Listing Vault
+#EXTINF:-1 tvg-id="6549322e53fc97000838febc" tvg-logo="https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png" tvg-chno="1770" group-title="Entertainment;Reality;Home;Lifestyle;Series", Million Dollar Listing ALTERNATIVE
 https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8
 
 #EXTINF:-1 tvg-id="6549310a53fc97000838fcc9" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png" tvg-chno="1780" group-title="Reality;Lifestyle", Bravo Vault
@@ -2519,10 +2576,10 @@ https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
 
-#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="Kids;TV;Animation", Kartoon Channel! 2
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="EntertainmentKids;TV;Animation", Kartoon Channel! 2
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 
-#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" tvg-chno="3910" group-title="Kids;Series", Garfield and Friends
+#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" tvg-chno="3910" group-title="Animation;Kids;Series", Garfield and Friends 2
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
 
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png" tvg-chno="3980" group-title="Anime;Animation;TV;Entertainment", Pluto TV Anime
@@ -2731,11 +2788,9 @@ https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 
 
-#EXTINF:-1 tvg-id="65a7ab137bdc8d0008487dfb" tvg-logo="https://images.pluto.tv/channels/65a7ab137bdc8d0008487dfb/colorLogoPNG_1757667204532.png" tvg-chno="109" group-title="Adults Only", Erotica Movies
-https://jmp2.uk/plu-65a7ab137bdc8d0008487dfb.m3u8
-
-#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="7plus.moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png" group-title="Movies" , Moviesphere
+#EXTINF:-1 channel-id="mjh-sky-ptms" tvg-id="mjh-sky-ptms" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png" group-title="Movies" , Moviesphere
 https://dai.google.com/ssai/event/ynK_uI7bRSeYMb_6KL9TbA/master.m3u8
+
 
 #EXTINF:-1 tvg-id="mjh-10-moviesphere" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",Moviesphere 1 ALTERNATIVE
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
@@ -2857,6 +2912,15 @@ https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8
 #EXTINF:-1 tvg-id="60e452730e76f20007598de8" tvg-logo="https://images.pluto.tv/channels/60e452730e76f20007598de8/colorLogoPNG.png" tvg-chno="353" group-title="True Crime;Documentary", Homicide Hunter
 https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8
 
+#EXTINF:-1 tvg-id="619e21b213ef6b0007d8c17a" tvg-logo="https://images.pluto.tv/channels/619e21b213ef6b0007d8c17a/colorLogoPNG.png" group-title="True Crime;Documentary",Homicide Hunter 2
+https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
+
+#EXTINF:-1 tvg-id="619e286e093e7c0007489e6a" tvg-logo="https://images.pluto.tv/channels/619e286e093e7c0007489e6a/colorLogoPNG.png" group-title="True Crime;Documentary",Homicide Hunter 3
+https://jmp2.uk/plu-619e286e093e7c0007489e6a.m3u8
+
+#EXTINF:-1 tvg-id="619e4a3518d6970008bebc95" tvg-logo="https://images.pluto.tv/channels/619e4a3518d6970008bebc95/colorLogoPNG.png" group-title="True Crime;Documentary",Homicide Hunter 4
+https://jmp2.uk/plu-619e4a3518d6970008bebc95.m3u8
+
 #EXTINF:-1 tvg-id="61c49f1495f417000731cef0" tvg-logo="https://images.pluto.tv/channels/61c49f1495f417000731cef0/colorLogoPNG.png" tvg-chno="354" group-title="True Crime;Documentary", Inside Crime
 https://jmp2.uk/plu-61c49f1495f417000731cef0.m3u8
 
@@ -2905,40 +2969,40 @@ https://jmp2.uk/plu-69038c2ee0e0c5f8208c033a.m3u8
 #EXTINF:-1 tvg-id="692ebafce72f03e07e7df985" tvg-logo="https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png" tvg-chno="369" group-title="True Crime;Documentary", Pluto TV American True Crime
 https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
 
-#EXTINF:-1 tvg-id="5d4af2ffa9506ab29cf38c38" tvg-logo="https://images.pluto.tv/channels/5d4af2ffa9506ab29cf38c38/colorLogoPNG.png" tvg-chno="400" group-title="Paranormal", Pluto TV Paranormal
+#EXTINF:-1 tvg-id="5d4af2ffa9506ab29cf38c38" tvg-logo="https://images.pluto.tv/channels/5d4af2ffa9506ab29cf38c38/colorLogoPNG.png" tvg-chno="400" group-title="Paranormal;TV;Entertainment", Pluto TV Paranormal
 https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 
-#EXTINF:-1 tvg-id="64ff1d92d545e9000877fba4" tvg-logo="https://images.pluto.tv/channels/64ff1d92d545e9000877fba4/colorLogoPNG.png" tvg-chno="401" group-title="Paranormal", A Haunting
+#EXTINF:-1 tvg-id="64ff1d92d545e9000877fba4" tvg-logo="https://images.pluto.tv/channels/64ff1d92d545e9000877fba4/colorLogoPNG.png" tvg-chno="401" group-title="Paranormal;Series", A Haunting
 https://jmp2.uk/plu-64ff1d92d545e9000877fba4.m3u8
 
-#EXTINF:-1 tvg-id="5f27bbe4779de70007a6d1c1" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" tvg-chno="402" group-title="Paranormal", Ghost Hunters
+#EXTINF:-1 tvg-id="5f27bbe4779de70007a6d1c1" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" tvg-chno="402" group-title="Paranormal;Series", Ghost Hunters 3
 https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
 
 #EXTINF:-1 tvg-id="5e9ed47c26ebb000074af566" tvg-logo="https://images.pluto.tv/channels/5e9ed47c26ebb000074af566/colorLogoPNG.png" tvg-chno="403" group-title="Paranormal;True Crime;Series;Australian", Sensing Murder
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 
-#EXTINF:-1 tvg-id="6319f06067a3ee000708af95" tvg-logo="https://images.pluto.tv/channels/6319f06067a3ee000708af95/colorLogoPNG.png" tvg-chno="404" group-title="Paranormal", Haunt TV
+#EXTINF:-1 tvg-id="6319f06067a3ee000708af95" tvg-logo="https://images.pluto.tv/channels/6319f06067a3ee000708af95/colorLogoPNG.png" tvg-chno="404" group-title="Paranormal;Series", Haunt TV
 https://jmp2.uk/plu-6319f06067a3ee000708af95.m3u8
 
-#EXTINF:-1 tvg-id="68e3bffe1cfcd7541d59090f" tvg-logo="https://images.pluto.tv/channels/68e3bffe1cfcd7541d59090f/colorLogoPNG_1762184625453.png" tvg-chno="405" group-title="Paranormal", Most Haunted: Unseen
+#EXTINF:-1 tvg-id="68e3bffe1cfcd7541d59090f" tvg-logo="https://images.pluto.tv/channels/68e3bffe1cfcd7541d59090f/colorLogoPNG_1762184625453.png" tvg-chno="405" group-title="Paranormal;Series;British", Most Haunted: Unseen
 https://jmp2.uk/plu-68e3bffe1cfcd7541d59090f.m3u8
 
-#EXTINF:-1 tvg-id="5bd05b4694d45d266bc951f2" tvg-logo="https://images.pluto.tv/channels/5bd05b4694d45d266bc951f2/colorLogoPNG.png" tvg-chno="406" group-title="Paranormal", Unsolved Mysteries
+#EXTINF:-1 tvg-id="5bd05b4694d45d266bc951f2" tvg-logo="https://images.pluto.tv/channels/5bd05b4694d45d266bc951f2/colorLogoPNG.png" tvg-chno="406" group-title="Paranormal;Series;Mystery;True Crime", Unsolved Mysteries
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 
-#EXTINF:-1 tvg-id="611f85396abc84000738417b" tvg-logo="https://images.pluto.tv/channels/611f85396abc84000738417b/colorLogoPNG.png" tvg-chno="407" group-title="Paranormal", Beyond Belief: Fact or Fiction
+#EXTINF:-1 tvg-id="611f85396abc84000738417b" tvg-logo="https://images.pluto.tv/channels/611f85396abc84000738417b/colorLogoPNG.png" tvg-chno="407" group-title="Paranormal;Series;Science Fiction;Reality", Beyond Belief: Fact or Fiction
 https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
 
-#EXTINF:-1 tvg-id="65819f83a620e300080f692a" tvg-logo="https://images.pluto.tv/channels/65819f83a620e300080f692a/colorLogoPNG_1764171950040.png" tvg-chno="408" group-title="Paranormal", Weird or What? With William Shatner
+#EXTINF:-1 tvg-id="65819f83a620e300080f692a" tvg-logo="https://images.pluto.tv/channels/65819f83a620e300080f692a/colorLogoPNG_1764171950040.png" tvg-chno="408" group-title="Paranormal;Series;Science Fiction;Reality", Weird or What? With William Shatner
 https://jmp2.uk/plu-65819f83a620e300080f692a.m3u8
 
-#EXTINF:-1 tvg-id="60804d85858bd00007c5d591" tvg-logo="https://images.pluto.tv/channels/60804d85858bd00007c5d591/colorLogoPNG.png" tvg-chno="409" group-title="Paranormal", Paranormal State
+#EXTINF:-1 tvg-id="60804d85858bd00007c5d591" tvg-logo="https://images.pluto.tv/channels/60804d85858bd00007c5d591/colorLogoPNG.png" tvg-chno="409" group-title="Paranormal;Series", Paranormal State
 https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
 
-#EXTINF:-1 tvg-id="5c45f5a9d40d58066869fa60" tvg-logo="https://images.pluto.tv/channels/5c45f5a9d40d58066869fa60/colorLogoPNG-1590510980590.png" tvg-chno="410" group-title="Paranormal", Ghost Dimension
+#EXTINF:-1 tvg-id="5c45f5a9d40d58066869fa60" tvg-logo="https://images.pluto.tv/channels/5c45f5a9d40d58066869fa60/colorLogoPNG-1590510980590.png" tvg-chno="410" group-title="Paranormal;Series", Ghost Dimension
 https://jmp2.uk/plu-5c45f5a9d40d58066869fa60.m3u8
 
-#EXTINF:-1 tvg-id="6081648340382e0007f73d45" tvg-logo="https://images.pluto.tv/channels/6081648340382e0007f73d45/colorLogoPNG_1761761993220.png" tvg-chno="411" group-title="Paranormal", Most Haunted
+#EXTINF:-1 tvg-id="6081648340382e0007f73d45" tvg-logo="https://images.pluto.tv/channels/6081648340382e0007f73d45/colorLogoPNG_1761761993220.png" tvg-chno="411" group-title="Paranormal;Series;British", Most Haunted
 https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
 
 #EXTINF:-1 tvg-id="622f498d119b4c000719c0b7" tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" tvg-chno="450" group-title="Series;Drama;Reality;Court", Judge Judy 4
@@ -2966,11 +3030,11 @@ https://jmp2.uk/plu-686fc8fe1889b4ad04604704.m3u8
 #EXTINF:-1 tvg-id="656df599c0fc8800089c75ab" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" tvg-chno="462" group-title="Entertainment;Series;Anime;Animation;Kids", Avatar
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 
-#EXTINF:-1 tvg-id="65b3895660eb8700089e7f53" tvg-logo="https://images.pluto.tv/channels/65b3895660eb8700089e7f53/colorLogoPNG.png" tvg-chno="463" group-title="Entertainment;Reality;Series", Car Chase
+#EXTINF:-1 tvg-id="65b3895660eb8700089e7f53" tvg-logo="https://images.pluto.tv/channels/65b3895660eb8700089e7f53/colorLogoPNG.png" tvg-chno="463" group-title="Entertainment;Reality;Series", Car Chase 2
 https://jmp2.uk/plu-65b3895660eb8700089e7f53.m3u8
 
 
-#EXTINF:-1 tvg-id="6627623e307fa3000810b66e" tvg-logo="https://images.pluto.tv/channels/6627623e307fa3000810b66e/colorLogoPNG.png" tvg-chno="466" group-title="Competition;Reality;Series", Ninja Warrior
+#EXTINF:-1 tvg-id="6627623e307fa3000810b66e" tvg-logo="https://images.pluto.tv/channels/6627623e307fa3000810b66e/colorLogoPNG.png" tvg-chno="466" group-title="Entertainment;Competition;Reality;Series", Ninja Warrior
 https://jmp2.uk/plu-6627623e307fa3000810b66e.m3u8
 
 #EXTINF:-1 tvg-id="690dc8ed1ee9b6ac66607ce2" tvg-logo="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/colorLogoPNG_1767781622486.png" tvg-chno="467" group-title="Entertainment;Series;Comedy;Reality", America's Funniest Home Videos
@@ -2988,14 +3052,14 @@ https://jmp2.uk/plu-6514346fa76507000887d441.m3u8
 #EXTINF:-1 tvg-id="677fb115a4af36ad50113e56" tvg-logo="https://images.pluto.tv/channels/677fb115a4af36ad50113e56/colorLogoPNG_1761690347032.png" tvg-chno="613" group-title="Reality;Series", The Real Housewives
 https://jmp2.uk/plu-677fb115a4af36ad50113e56.m3u8
 
-#EXTINF:-1 tvg-id="5d2c571faeb3e2738ae27933" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" tvg-chno="700" group-title="Reality;Series", 5 Cops
+#EXTINF:-1 tvg-id="5d2c571faeb3e2738ae27933" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" tvg-chno="700" group-title="Entertainment;Series;Police;Drama;Reality", 5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 
 #EXTINF:-1 tvg-id="667ac79c15f35c00088a2409" tvg-logo="https://images.pluto.tv/channels/667ac79c15f35c00088a2409/colorLogoPNG.png" tvg-chno="704" group-title="Reality;Automotive;Australian", Outback Truckers
 https://jmp2.uk/plu-667ac79c15f35c00088a2409.m3u8
 
 
-#EXTINF:-1 tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-chno="713" group-title="Reality;Series", U&Real Heroes
+#EXTINF:-1 tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-chno="713" group-title="Entertainment;British,Drama;Police;Reality;Series", U&Real Heroes
 https://jmp2.uk/plu-64c0d6b424ade50008bc8883.m3u8
 
 #EXTINF:-1 tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" tvg-chno="715" group-title="Reality;Series;Automotive", Full Custom Garage
@@ -3007,10 +3071,10 @@ https://jmp2.uk/plu-68c8201b1e5aaf77c47d9605.m3u8
 #EXTINF:-1 tvg-id="68c8202f5ec82769fdfcd0a2" tvg-logo="https://images.pluto.tv/channels/68c8202f5ec82769fdfcd0a2/colorLogoPNG_1765877993411.png" tvg-chno="716" group-title="Reality;Series", Chaos on Cam
 https://jmp2.uk/plu-68c8202f5ec82769fdfcd0a2.m3u8
 
-#EXTINF:-1 tvg-id="61c4a09d6c959f0007189c93" tvg-logo="https://images.pluto.tv/channels/61c4a09d6c959f0007189c93/colorLogoPNG.png" tvg-chno="800" group-title="Documentary;Paranormal;Mystery", Mystery TV
+#EXTINF:-1 tvg-id="61c4a09d6c959f0007189c93" tvg-logo="https://images.pluto.tv/channels/61c4a09d6c959f0007189c93/colorLogoPNG.png" tvg-chno="800" group-title="Documentary;Paranormal;Mystery;Entertainment", Mystery TV
 https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
 
-#EXTINF:-1 tvg-id="5ddf8ea0d000120009bcad83" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" tvg-chno="802" group-title="Documentary;Animals;TV", Pluto TV Animals
+#EXTINF:-1 tvg-id="5ddf8ea0d000120009bcad83" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" tvg-chno="802" group-title="Entertainment;Documentary;Animals;TV", Pluto TV Animals
 https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
 
 #EXTINF:-1 tvg-id="5dbc2f98777f2e0009934ae7" tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png" tvg-chno="803" group-title="Documentary;Space;TV;Entertainment", Pluto TV Space
@@ -3040,7 +3104,7 @@ https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
 #EXTINF:-1 tvg-id="6319ee0cf78bb10007ee5e6b" tvg-logo="https://images.pluto.tv/channels/6319ee0cf78bb10007ee5e6b/colorLogoPNG.png" tvg-chno="811" group-title="Documentary;History;War", World War TV
 https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8
 
-#EXTINF:-1 tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" tvg-chno="812" group-title="Documentary;History", U&The Past
+#EXTINF:-1 tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" tvg-chno="812" group-title="Documentary;History;TV;Entertainment", U&The Past
 https://jmp2.uk/plu-64c0d697b0cf5c000824e5d9.m3u8
 
 #EXTINF:-1 tvg-id="5ddf901280e3550009139c86" tvg-logo="https://images.pluto.tv/channels/5ddf901280e3550009139c86/colorLogoPNG.png" tvg-chno="813" group-title="Documentary;History", 5 Exploring Britain
@@ -3055,11 +3119,11 @@ https://jmp2.uk/plu-66ebf9bc55567d0008de3b29.m3u8
 #EXTINF:-1 tvg-id="620f6f9e36a49b000761f0d5" tvg-logo="https://images.pluto.tv/channels/620f6f9e36a49b000761f0d5/colorLogoPNG.png" tvg-chno="835" group-title="Lifestyle;Home;Reality;Series;British", Location Location Location
 https://jmp2.uk/plu-620f6f9e36a49b000761f0d5.m3u8
 
-#EXTINF:-1 tvg-id="63d91d624e83e7000881ca8c" tvg-logo="https://images.pluto.tv/channels/63d91d624e83e7000881ca8c/colorLogoPNG.png" tvg-chno="836" group-title="Lifestyle;Home;Reality;Series;British", Escape to the Country
+#EXTINF:-1 tvg-id="63d91d624e83e7000881ca8c" tvg-logo="https://images.pluto.tv/channels/63d91d624e83e7000881ca8c/colorLogoPNG.png" tvg-chno="836" group-title="Lifestyle;Home;Reality;Series;British", Escape to the Country 2
 https://jmp2.uk/plu-63d91d624e83e7000881ca8c.m3u8
 
 
-#EXTINF:-1 tvg-id="677fb3432952c1163bf1a539" tvg-logo="https://images.pluto.tv/channels/677fb3432952c1163bf1a539/colorLogoPNG_1761664837789.png" tvg-chno="839" group-title="Lifestyle;Home;Reality;Series", Million Dollar Listing
+#EXTINF:-1 tvg-id="677fb3432952c1163bf1a539" tvg-logo="https://images.pluto.tv/channels/677fb3432952c1163bf1a539/colorLogoPNG_1761664837789.png" tvg-chno="839" group-title="Entertainment;Reality;Home;Lifestyle;Series", Million Dollar Listing
 https://jmp2.uk/plu-677fb3432952c1163bf1a539.m3u8
 
 #EXTINF:-1 tvg-id="6852854bce36f0644f37d765" tvg-logo="https://images.pluto.tv/channels/6852854bce36f0644f37d765/colorLogoPNG_1762189013725.png" tvg-chno="840" group-title="Lifestyle;Home;Reality;Series;British", A New Life in the Sun
@@ -3076,7 +3140,7 @@ https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-id="62556bfa3261a300076b0baa" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" tvg-chno="881" group-title="Kids;Animation;Series;Entertainment", Arthur 2
 https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
 
-#EXTINF:-1 tvg-id="6683cd71a1d7ad000866ec6a" tvg-logo="https://images.pluto.tv/channels/6683cd71a1d7ad000866ec6a/colorLogoPNG.png" tvg-chno="882" group-title="Kids;Anime;Animation", Pokémon 3
+#EXTINF:-1 tvg-id="6683cd71a1d7ad000866ec6a" tvg-logo="https://images.pluto.tv/channels/6683cd71a1d7ad000866ec6a/colorLogoPNG.png" tvg-chno="882" group-title="Kids;Anime;Animation;Series", Pokémon 3
 https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
 
 
