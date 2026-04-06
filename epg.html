@@ -147,10 +147,9 @@ function render() {
 
     const nameMatch = info?.name?.toLowerCase().includes(searchTerm);
 
-    const programmeMatch = progList.some(p =>
-      p.title.toLowerCase().includes(searchTerm) ||
-      (p.desc && p.desc.toLowerCase().includes(searchTerm))
-    );
+const programmeMatch = progList.some(p =>
+  p.title.toLowerCase().includes(searchTerm)
+);
 
     return nameMatch || programmeMatch;
   });
@@ -165,9 +164,8 @@ const filteredProgs = searchTerm
   ? nameMatch
     ? progList // 👈 show ALL if channel name matches
     : progList.filter(p =>
-        p.title.toLowerCase().includes(searchTerm) ||
-        (p.desc && p.desc.toLowerCase().includes(searchTerm))
-      )
+  p.title.toLowerCase().includes(searchTerm)
+)
   : progList;
 
     const row = document.createElement("tr");
