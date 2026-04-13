@@ -35,7 +35,6 @@
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Eurotrasz/australia-epg/refs/heads/main/au_epg.xml"
 
-# POPUP CHANNELS
 
 #EXTINF:-1 channel-id="mjh-australian-mc-age-championships-2026-fast" tvg-id="mjh-australian-mc-age-championships-2026-fast" tvg-logo="https://imageresizer.static9.net.au/GTQOwoeu_MeNZ8JR2bLP588y1VE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763754%2Fsquircle_swimmingaus.png" group-title="Sport;MC Age Championships 2026" , Australian MC Age Championships 2026
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -52,8 +51,33 @@ https://i.mjh.nz/.r/australian-open-swimming-2026-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cricketgold-fast.m3u8
 
+#EXTINF:-1 channel-id="mjh-10-tensport5" tvg-id="mjh-10-tensport5" tvg-logo="https://10.com.au/ip/s3/2025/08/20/ff0f2812b7edc667ce796f69a310dfd5-1391076.png?image-profile=logo" group-title="Sport;Australian" , 10 Sport 5
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-tensport5.m3u8
 
-#
+
+
+
+#EXTINF:-1 channel-id="mjh-sbs-euronews" tvg-id="mjh-sbs-euronews" tvg-logo="https://image.pr.sbsod.com/60e599d9-82ed-5eac-b51c-7c23a9bb0c55" group-title="News;TV;Foreign" , euronews
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-euronews.m3u8
+
+#EXTINF:-1 channel-id="mjh-dw-news" tvg-id="mjh-dw-news" tvg-logo="https://www.dw.com/images/icons/favicon-540x540.png" group-title="News;TV;Foreign" , DW English
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/dw-news.m3u8
+
+#EXTINF:-1 channel-id="mjh-al-jazeera" tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" group-title="News;TV;Foreign" , Al Jazeera
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/al-jazeera.m3u
+
+#EXTINF:-1 channel-id="mjh-sbs-france24" tvg-id="mjh-sbs-france24" tvg-logo="https://image.pr.sbsod.com/940bda61-531e-5e30-bb1e-69db1cdbb077" group-title="News;TV;Foreign" , France 24
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-france24.m3u8
 
 #EXTINF:-1 channel-id="mjh-seven-per" tvg-id="mjh-seven-per" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" tvg-chno="7" group-title="Entertainment;Australian;News;TV;Movies" , 7 Seven Perth
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -551,7 +575,7 @@ https://i.mjh.nz/.r/cas41-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/seinfeld-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="9now.9crime" tvg-logo="https://imageresizer.static9.net.au/WlPyI8tEEi4w9WNC17LMNpJouBw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F577795%2F9crime_croppedlogo.png" group-title="True Crime;Documentary;TV" , 9Crime
+#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="9now.9crime" tvg-logo="https://imageresizer.static9.net.au/WlPyI8tEEi4w9WNC17LMNpJouBw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F577795%2F9crime_croppedlogo.png" group-title="True Crime;Documentary;TV;Australian" , 9Crime
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/9crime-fast.m3u8
@@ -561,7 +585,7 @@ https://i.mjh.nz/.r/9crime-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="9now.9mystery_paranormal" tvg-logo="https://imageresizer.static9.net.au/8r87q5_tKZsECqOuzvStqU5iHxU=/1280x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685330%2Fcroppedlogo-5.png" group-title="Paranormal;Mystery;TV;Entertainment" , 9Mystery&Paranormal
+#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="9now.9mystery_paranormal" tvg-logo="https://imageresizer.static9.net.au/8r87q5_tKZsECqOuzvStqU5iHxU=/1280x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685330%2Fcroppedlogo-5.png" group-title="Paranormal;Mystery;TV;Entertainment;Australian" , 9Mystery&Paranormal
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
@@ -619,7 +643,7 @@ https://i.mjh.nz/.r/bbc-food-fast.m3u8
 #EXTINF:-1 channel-id="mjh-10-ghost_hunters" tvg-id="10play.ghost-hunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png" group-title="Paranormal;Series;Entertainment" , Ghost Hunters
 https://dai.google.com/ssai/event/R8D2Icp4Svyk2efJ3ohr6Q/master.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-spongebobsquarepants" tvg-id="10play.spongebob-squarepants" tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png" group-title="Animation;Kids;Entertainment;Series" , SpongeBob SquarePants
+#EXTINF:-1 channel-id="mjh-10-spongebobsquarepants" tvg-id="mjh-10-spongebobsquarepants" tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png" group-title="Animation;Kids;Entertainment;Series" , SpongeBob SquarePants
 https://dai.google.com/ssai/event/1nOSQsd2Tty6ZD8yOg0aYA/master.m3u8
 
 #EXTINF:-1 channel-id="mjh-10-world-of-survivor" tvg-id="10play.world-of-survivor" tvg-logo="https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png" group-title="Competition;Reality;Series" , World Of Survivor
@@ -628,7 +652,7 @@ https://dai.google.com/ssai/event/98ajzpAtT6GqU0rh-KSoiw/master.m3u8
 #EXTINF:-1 channel-id="mjh-10-embarrassing-bodies" tvg-id="10play.embarrassing-bodies" tvg-logo="https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png" group-title="Lifestyle;Reality;Series" , Embarrassing Bodies
 https://dai.google.com/ssai/event/zsH8Gm6CT7eFZkLJAq2WDQ/master.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-undercoverboss" tvg-id="10play.undercover-boss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png" group-title="Entertainment;Reality;Series" , Undercover Boss 2
+#EXTINF:-1 channel-id="mjh-10-undercoverboss" tvg-id="mjh-10-undercoverboss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png" group-title="Entertainment;Reality;Series" , Undercover Boss 2
 https://dai.google.com/ssai/event/uSRPvxsiRtGFfNWPMLNijg/master.m3u8
 
 
@@ -641,13 +665,13 @@ https://dai.google.com/ssai/event/WG94OC1uSjmBz9TiSxdJ5w/master.m3u8
 #EXTINF:-1 channel-id="mjh-10-projectrunway" tvg-id="dummy.projectrunway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png" group-title="Fashion;Reality;Competition;Series;Australian" , Project Runway
 https://dai.google.com/ssai/event/HtXtLOQ2TS2MagSoIjEg8A/master.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="10play.cops tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png" group-title="Entertainment;Series;Police;Drama;Reality" , COPS
+#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="mjh-10-cops" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png" group-title="Entertainment;Series;Police;Drama;Reality" , COPS
 https://dai.google.com/ssai/event/OXKmKfhSSaGi0E0G3pu7vQ/master.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-deadlywomen" tvg-id="10play.deadly-women" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png" group-title="True Crime;Series;Documentary" , Deadly Women 2
+#EXTINF:-1 channel-id="mjh-10-deadlywomen" tvg-id="mjh-10-deadlywomen" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png" group-title="True Crime;Series;Documentary" , Deadly Women 2
 https://dai.google.com/ssai/event/7ysI2XVSS_G3PH-QX2qikQ/master.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-romancemovies" tvg-id="10play.romance-movies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="Romance;Movies" , Romance Movies 2
+#EXTINF:-1 channel-id="mjh-10-romancemovies" tvg-id="mjh-10-romancemovies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="Romance;Movies" , Romance Movies 2
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-romancemovies.m3u8
@@ -706,7 +730,7 @@ https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u
 #EXTINF:-1 tvg-id="USBD4200009Y4" tvg-logo="" group-title="Entertainment;Home;Lifestyle;Reality;TV",Hoarders by A&E
 https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10play.crime-time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="True Crime;Australian;Documentary" , Crime Time Australia
+#EXTINF:-1 tvg-id="mjh-10-crime-time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="True Crime;Australian;Documentary" , Crime Time Australia
 https://dai.google.com/ssai/event/oO7UNo45SCOmonWYG2j4nA/master.m3u8
 
 
@@ -984,8 +1008,13 @@ https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea2
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HistoryandWarfareNow.au" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41E6152D-2E5D-47B1-B910-6C069D7FDCD1/3-1x1.png" group-title="Entertainment;Documentary;Series;History;TV" , History and Warfare Now
+#EXTINF:-1 tvg-id="10play.historyandwarfare" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41E6152D-2E5D-47B1-B910-6C069D7FDCD1/3-1x1.png" group-title="Entertainment;Documentary;History;TV" , History & Warfare Now
 https://amg00376-magellan-amg00376c19-samsung-au-1734.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-historyandwarfare" tvg-id="10play.historyandwarfare" tvg-logo="https://10.com.au/ip/s3/2026/03/17/5010fc64782edb4842a94d1484f72514-1419388.png?image-profile=logo" group-title="Entertainment;Documentary;History;TV" , History & Warfare Now ALTERNATE
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-historyandwarfare.m3u8
 
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-65721f23b10e9d22a882bde0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_Public_Broadcasting_Service_1989.svg/500px-Logo_Public_Broadcasting_Service_1989.svg.png" group-title="Entertainment;Documentary;History;TV" , PBS History
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
@@ -1109,19 +1138,63 @@ https://wurlbesteverchannels.global.transmit.live/hls/695ff77d70783bed1981352c/p
 #EXTINF:-1 tvg-id="FREQ903" tvg-name="Comedy Dynamics" tvg-logo="https://images.frequency.com/video/1v2dcug74f5ph114dk4fog6jl/w1920_h1080/1v2dcug74f5ph114dk4fog6jl.jpg?width=400&height=225" group-title="Comedy;TV;Entertainment",Comedy Dynamics
 https://linear-903.frequency.stream/dist/lg-us/903/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="comedyplus_amg02042c5eng_US" tvg-name="Comedy Plus" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG02042C5ENG/resized_ed11a29c76c44372463ae2630cf0b42d9c35133f4a5a84367be891e3553d94cf_fmp30003png_400_225.png" group-title="Comedy;TV;Entertainment",Comedy Plus
-https://amg02042-ottstudio-amg02042c5-lg-us-1052.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="us-answermedia_theredgreenshow_2" tvg-name="The Red Green Channel" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/949-LG-400x225_v2.png" group-title="Comedy;TV;Entertainment;Lifestyle",The Red Green Channel
+#EXTINF:-1 tvg-id="us-answermedia_theredgreenshow_2" tvg-name="The Red Green Channel" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/949-LG-400x225_v2.png" group-title="Comedy;TV;Entertainment",The Red Green Channel
 https://wurlspacemob.global.transmit.live/hls/67cf33d86ef201b4705ce2a0/v1/answermedia_theredgreenshow_2/lg_us/latest/main/hls/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI USA Eastern" group-title="Lifestyle;Home;Reality;TV;Entertainment;US Cable TV",FYI USA
+https://tvpass.org/live/FYIEast/hd
+
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network East" group-title="Competition;Reality;TV",Game Show Network
+https://tvpass.org/live/game-show-network-east/hd
+
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="Kids;Animation;TV;Entertainment;US Cable TV",MeTV Toons (WJLP2) New Jersey
+https://tvpass.org/live/metv-toons/hd
+
+#EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="MovieMax (Max 6) East" group-title="Movies;US Cable TV;Drama", Cinemax Hits
+https://tvpass.org/live/MovieMaxEast/hd
+
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" group-title="Reality;TV;Entertainment;US Cable TV",ReelzChannel
+https://tvpass.org/live/Reelz/hd
+
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="WPIX New York (SUPERSTATION)" group-title="Entertainment;TV;US Cable TV", The CW (WPIX New York)
+https://tvpass.org/live/WPIX/hd
+
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Science" group-title="TV;Science;Documentary;US Cable TV",Science Channel
+https://tvpass.org/live/Science/hd
+
+#EXTINF:-1 tvg-id="TruTV.us" tvg-name="truTV USA Eastern" group-title="TV;Entertainment;Movies;US Cable TV",truTV
+https://tvpass.org/live/truTVEast/sd
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://iptv-epg.org/logos/USA/USANetwork.us.png" group-title="Entertainment;Movies;TV;US Cable TV",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://iptv-epg.org/logos/USA/DiscoveryChannel.us.png" group-title="Entertainment;Reality;TV",Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/hd
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://iptv-epg.org/logos/USA/ESPN.us.png" tvg-name="ESPN" group-title="Sport;TV;Entertainment;US Cable TV",ESPN
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-logo="https://iptv-epg.org/logos/USA/ESPNEWS.us.png" tvg-name="ESPN News" group-title="Sport;News;TV;US Cable TV",ESPN News
+https://tvpass.org/live/ESPNews/hd
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://iptv-epg.org/logos/USA/ESPNU.us.png" tvg-name="ESPN U" group-title="Sport;TV;Entertainment;US Cable TV",ESPN U
+https://tvpass.org/live/ESPNU/hd
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://iptv-epg.org/logos/USA/ESPN2.us.png" tvg-name="ESPN2" group-title="Sport;TV;Entertainment;US Cable TV",ESPN2
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1 tvg-id="MarqueeSports.us" tvg-name="Marquee Sports Network" group-title="Sport;US Cable TV",Marquee Sports Network
+https://tvpass.org/live/marquee-sports-network/hd
+
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" group-title="News;TV;US Cable TV",C-SPAN
+https://tvpass.org/live/CSPAN/hd
+
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" group-title="News;TV;US Cable TV",C-SPAN 2
+https://tvpass.org/live/CSPAN2/hd
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet US East" group-title="Animals;TV;Entertainment;Documentary;Science;US Cable TV",Animal Planet
+https://tvpass.org/live/AnimalPlanetEast/hd
+
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel US East" group-title="Entertainment;TV;US Cable TV;Mystery;Paranormal;Reality",Travel Channel
+https://tvpass.org/live/TravelChannelEast/hd456
 
 
 #EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="Entertainment;Lifestyle;Reality;TV;US Cable TV",Discovery Life
@@ -1137,7 +1210,7 @@ https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-logo="https://iptv-epg.org/logos/USA/CineMAX.us.png" group-title="Movies;US Cable TV",Cinemax
 https://tvpass.org/live/CinemaxEast/hd
 
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png" group-title="Movies;US Cable TV",MoreMax
+#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png" group-title="Movies;US Cable TV",Cinemax +2
 https://tvpass.org/live/MoreMaxEast/hd
 
 #EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-logo="https://iptv-epg.org/logos/USA/CrimeandInvestigationNetwork.us.png" group-title="True Crime;Documentary;US Cable TV",Crime + Investigation
@@ -1179,6 +1252,9 @@ https://tvpass.org/live/TVOne/hd
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" group-title="Sport",The Tennis Channel
 https://tvpass.org/live/TennisChannel/hd
 
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="Oprah Winfrey Network USA Eastern" group-title="Entertainment;Lifestyle;TV;US Cable TV",Oprah Winfrey Network
+https://tvpass.org/live/OWNEast/sd
+
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://iptv-epg.org/logos/USA/DisneyChannel.us.png" group-title="Entertainment;Kids;Animation;TV;Movies;US Cable TV",Disney Channel 
 https://tvpass.org/live/DisneyChannelEast/hd
@@ -1186,10 +1262,10 @@ https://tvpass.org/live/DisneyChannelEast/hd
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://iptv-epg.org/logos/USA/FoxNewsChannel.us.png" group-title="News;US Cable TV",Fox News
 https://tvpass.org/live/FoxNewsChannel/hd
 
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" group-title="Sport",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" group-title="Sport;US Cable TV",Fox Sports 1
 https://tvpass.org/live/FoxSports1/hd
 
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" group-title="Sport",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" group-title="Sport;US Cable TV",Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
 
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://iptv-epg.org/logos/USA/FX.us.png" group-title="Movies;Entertainment;Movies;TV;US Cable TV",FX
@@ -1201,22 +1277,22 @@ https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-id="FXMovies.us" tvg-logo="https://iptv-epg.org/logos/USA/FXMovies.us.png" group-title="Movies;US Cable TV",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/hd
 
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://iptv-epg.org/logos/USA/HBOPacific.us.png" group-title="Entertainment;Movies;TV;US Cable TV",HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://iptv-epg.org/logos/USA/HBO.us.png" group-title="Entertainment;Movies;TV;US Cable TV",HBO
 https://tvpass.org/live/HBOEast/hd
 
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" group-title="Entertainment;Movies;TV;US Cable TV",HBO 2
+#EXTINF:-1 tvg-id="HBOMovies.us" tvg-logo="https://iptv-epg.org/logos/USA/HBOMovies.us.png" group-title="Entertainment;Movies;TV;US Cable TV",HBO Movies
 https://tvpass.org/live/HBOZoneEast/hd
 
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://iptv-epg.org/logos/USA/HBOHitsPacific.us.png" group-title="Entertainment;Movies;TV;US Cable TV",HBO Hits
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://iptv-epg.org/logos/USA/HBOHits.us.png" group-title="Entertainment;Movies;TV;US Cable TV",HBO Hits
 https://tvpass.org/live/HBO2East/hd
 
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="https://iptv-epg.org/logos/USA/HBOComedy.us.png" group-title="Entertainment;Comedy;Movies;TV;US Cable TV",HBO Comedy
 https://tvpass.org/live/HBOComedyEast/hd
 
-#EXTINF:-1 tvg-id="HBOMovies.us" tvg-logo="https://iptv-epg.org/logos/USA/HBOMovies.us.png" group-title="Entertainment;Movies;TV;US Cable TV",HBO Movies
+#EXTINF:-1 tvg-id="HBODramaPacific.us" tvg-logo="https://iptv-epg.org/logos/USA/HBODramaPacific.us.png" group-title="Entertainment;Movies;TV;US Cable TV",HBO Drama West
 https://tvpass.org/live/HBOSignatureEast/hd
 
-#EXTINF:-1 tvg-id="HBODrama.us" tvg-logo="https://iptv-epg.org/logos/USA/HBODrama.us.png" group-title="Entertainment;Drama;Movies;TV;US Cable TV",HBO Drama
+#EXTINF:-1 tvg-id="HBODrama.us" tvg-logo="https://iptv-epg.org/logos/USA/HBODramaPacific.us.png" group-title="Entertainment;Drama;Movies;TV;US Cable TV",HBO Drama
 https://tvpass.org/live/HBOFamilyEast/hd
 
 
@@ -1394,7 +1470,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2e7fe94b6
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671a924b79fce6628115432c/?X-Plex-Token=ct_SfRb8KZ1_AdFFf1Sx
 
 
-#
+
+
+#EXTINF:-1 channel-id="5ce5a8954311f992edbe1da2" tvg-id="5ce5a8954311f992edbe1da2" tvg-chno="2160" tvg-name="Logo Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png" group-title="Reality;TV;Entertainment;Lifestyle",Logo TV
+https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 
 #EXTINF:-1 channel-id="6964b982ca459f9b939da8e6" tvg-id="6964b982ca459f9b939da8e6" tvg-chno="3" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="Series;Crime;Drama",Bull
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
@@ -1423,7 +1502,11 @@ https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
 https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 
 
+#EXTINF:-1 channel-id="62bebb3a67307900077a7f9d" tvg-id="62bebb3a67307900077a7f9d" tvg-chno="316" tvg-name="Numbers" tvg-logo="https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png" group-title="Crime;Drama;Series;Entertainment",Numb3rs
+https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
 
+#EXTINF:-1 channel-id="693ae62a43fe00a023e76e0d" tvg-id="693ae62a43fe00a023e76e0d" tvg-chno="13" tvg-name="House of Lies" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="Series;Drama;Entertainment",House of Lies
+https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" tvg-chno="30" group-title="Movies;Action", Action Movies 1
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
@@ -1967,7 +2050,6 @@ https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
 
 
-#USA
 
 #EXTINF:-1 tvg-id="673247127d5da5000817b4d6" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" tvg-chno="5" group-title="Movies", Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
@@ -2576,7 +2658,7 @@ https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
 
-#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="EntertainmentKids;TV;Animation", Kartoon Channel! 2
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="Entertainment;Kids;TV;Animation", Kartoon Channel! 2
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 
 #EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" tvg-chno="3910" group-title="Animation;Kids;Series", Garfield and Friends 2
@@ -2755,7 +2837,7 @@ https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
 
 
 
-#UK
+
 
 #EXTINF:-1 tvg-id="697a2f8b3991484f03064614" tvg-logo="https://images.pluto.tv/channels/697a2f8b3991484f03064614/colorLogoPNG_1770830195618.png" tvg-chno="2" group-title="Animation;Kids;Series", Super Mario Bros.
 https://jmp2.uk/plu-697a2f8b3991484f03064614.m3u8
@@ -2788,7 +2870,7 @@ https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-sky-ptms" tvg-id="mjh-sky-ptms" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png" group-title="Movies" , Moviesphere
+#EXTINF:-1 channel-id="mjh-sky-ptms" tvg-id="mjh-10-moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png" group-title="Movies" , Moviesphere
 https://dai.google.com/ssai/event/ynK_uI7bRSeYMb_6KL9TbA/master.m3u8
 
 
@@ -3059,7 +3141,7 @@ https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 https://jmp2.uk/plu-667ac79c15f35c00088a2409.m3u8
 
 
-#EXTINF:-1 tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-chno="713" group-title="Entertainment;British,Drama;Police;Reality;Series", U&Real Heroes
+#EXTINF:-1 tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-chno="713" group-title="Entertainment;British;Drama;Police;Reality;Series", U&Real Heroes
 https://jmp2.uk/plu-64c0d6b424ade50008bc8883.m3u8
 
 #EXTINF:-1 tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" tvg-chno="715" group-title="Reality;Series;Automotive", Full Custom Garage
@@ -3068,7 +3150,7 @@ https://jmp2.uk/plu-5e78faa05a0e200007a6f487.m3u8
 #EXTINF:-1 tvg-id="68c8201b1e5aaf77c47d9605" tvg-logo="https://images.pluto.tv/channels/68c8201b1e5aaf77c47d9605/colorLogoPNG_1765208715103.png" tvg-chno="715" group-title="Reality;Series;Automotive", Ice Road Truckers
 https://jmp2.uk/plu-68c8201b1e5aaf77c47d9605.m3u8
 
-#EXTINF:-1 tvg-id="68c8202f5ec82769fdfcd0a2" tvg-logo="https://images.pluto.tv/channels/68c8202f5ec82769fdfcd0a2/colorLogoPNG_1765877993411.png" tvg-chno="716" group-title="Reality;Series", Chaos on Cam
+#EXTINF:-1 tvg-id="68c8202f5ec82769fdfcd0a2" tvg-logo="https://images.pluto.tv/channels/68c8202f5ec82769fdfcd0a2/colorLogoPNG_1765877993411.png" tvg-chno="716" group-title="Reality;Series;Entertainment", Chaos on Cam
 https://jmp2.uk/plu-68c8202f5ec82769fdfcd0a2.m3u8
 
 #EXTINF:-1 tvg-id="61c4a09d6c959f0007189c93" tvg-logo="https://images.pluto.tv/channels/61c4a09d6c959f0007189c93/colorLogoPNG.png" tvg-chno="800" group-title="Documentary;Paranormal;Mystery;Entertainment", Mystery TV
