@@ -207,14 +207,14 @@
 <channel id="7plus.ncis">
     <display-name>NCIS</display-name>
   </channel>
+<channel id="7plus.blue_light">
+    <display-name>Blue Light</display-name>
+  </channel>
 <channel id="7plus.bondi_rescue">
     <display-name>Bondi Rescue</display-name>
   </channel>
 <channel id="7plus.judge_judy">
     <display-name>Judge Judy</display-name>
-  </channel>
-<channel id="7plus.blue_light">
-    <display-name>Blue Light</display-name>
   </channel>
 <channel id="7plus.outback_truckers">
     <display-name>Outback Truckers</display-name>
@@ -6795,665 +6795,662 @@ One employee feels her store is lacking the &apos;family&apos; in Family Dollar.
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20260517190000 +0800" stop="20260517200000 +0800" channel="7plus.seven">
-    <title>The 1% Club</title>
+<programme start="20260518190000 +0800" stop="20260518193000 +0800" channel="7plus.seven">
+    <title>Home And Away</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203047 +0800" channel="7plus.seven">
-    <title>7NEWS Spotlight</title>
+<programme start="20260518193000 +0800" stop="20260518204000 +0800" channel="7plus.seven">
+    <title>Glenn &amp; Mick&apos;s Celebrity Intervention</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517212047 +0800" channel="7plus.seven">
-    <title>Child Snatchers: A Day At The Fair</title>
+<programme start="20260518193052 +0800" stop="20260518203052 +0800" channel="7plus.seven">
+    <title>9-1-1</title>
   </programme>
-<programme start="20260517225000 +0800" stop="20260518045000 +0800" channel="7plus.seven">
-    <title>Child Snatchers: A Day At The Fair</title>
+<programme start="20260518214000 +0800" stop="20260519034000 +0800" channel="7plus.seven">
+    <title>9-1-1</title>
   </programme>
-<programme start="20260517190000 +0800" stop="20260517193000 +0800" channel="7plus.7mate">
-    <title>AFL Post Game</title>
+<programme start="20260518183000 +0800" stop="20260518193000 +0800" channel="7plus.7mate">
+    <title>Pawn Stars</title>
   </programme>
-<programme start="20260517193000 +0800" stop="20260517200000 +0800" channel="7plus.7mate">
-    <title>Border Security - Australia&apos;s Front Line</title>
+<programme start="20260518193000 +0800" stop="20260518203000 +0800" channel="7plus.7mate">
+    <title>The Agenda Setters</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517200047 +0800" channel="7plus.7mate">
-    <title>Border Security - Australia&apos;s Front Line</title>
+<programme start="20260518193052 +0800" stop="20260518203052 +0800" channel="7plus.7mate">
+    <title>Aussie Gold Hunters</title>
   </programme>
-<programme start="20260517203000 +0800" stop="20260518023000 +0800" channel="7plus.7mate">
-    <title>Border Security - Australia&apos;s Front Line</title>
+<programme start="20260518213000 +0800" stop="20260519033000 +0800" channel="7plus.7mate">
+    <title>Aussie Gold Hunters</title>
   </programme>
-<programme start="20260517183019 +0800" stop="20260517193119 +0800" channel="7plus.7bravo">
+<programme start="20260518183015 +0800" stop="20260518193015 +0800" channel="7plus.7bravo">
     <title>Shark Tank</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203047 +0800" channel="7plus.7bravo">
-    <title>Botched</title>
+<programme start="20260518193027 +0800" stop="20260518203027 +0800" channel="7plus.7bravo">
+    <title>Below Deck</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203047 +0800" channel="7plus.7bravo">
-    <title>Below Deck Down Under</title>
+<programme start="20260518193052 +0800" stop="20260518203052 +0800" channel="7plus.7bravo">
+    <title>Killer Grannies</title>
   </programme>
-<programme start="20260517213034 +0800" stop="20260518033034 +0800" channel="7plus.7bravo">
-    <title>Below Deck Down Under</title>
+<programme start="20260518213049 +0800" stop="20260519033049 +0800" channel="7plus.7bravo">
+    <title>Killer Grannies</title>
   </programme>
-<programme start="20260517183000 +0800" stop="20260517193000 +0800" channel="7plus.7two">
-    <title>Escape To The Country</title>
+<programme start="20260518183000 +0800" stop="20260518193000 +0800" channel="7plus.7two">
+    <title>Bargain Hunt</title>
   </programme>
-<programme start="20260517193000 +0800" stop="20260517203000 +0800" channel="7plus.7two">
-    <title>The Coroner</title>
+<programme start="20260518193000 +0800" stop="20260518203000 +0800" channel="7plus.7two">
+    <title>Doc Martin</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517213047 +0800" channel="7plus.7two">
-    <title>Vera</title>
+<programme start="20260518193052 +0800" stop="20260518214552 +0800" channel="7plus.7two">
+    <title>A Touch Of Frost</title>
   </programme>
-<programme start="20260517223000 +0800" stop="20260518043000 +0800" channel="7plus.7two">
-    <title>Vera</title>
+<programme start="20260518224500 +0800" stop="20260519044500 +0800" channel="7plus.7two">
+    <title>A Touch Of Frost</title>
   </programme>
-<programme start="20260517183000 +0800" stop="20260517193000 +0800" channel="7plus.7flix">
-    <title>Dogs Behaving (Very) Badly</title>
+<programme start="20260518190000 +0800" stop="20260518193000 +0800" channel="7plus.7flix">
+    <title>Judge Judy</title>
   </programme>
-<programme start="20260517193000 +0800" stop="20260517203000 +0800" channel="7plus.7flix">
+<programme start="20260518193000 +0800" stop="20260518203000 +0800" channel="7plus.7flix">
+    <title>Law &amp; Order</title>
+  </programme>
+<programme start="20260518193052 +0800" stop="20260518203052 +0800" channel="7plus.7flix">
     <title>Law &amp; Order: Criminal Intent</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203047 +0800" channel="7plus.7flix">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260518213000 +0800" stop="20260519033000 +0800" channel="7plus.7flix">
+    <title>Law &amp; Order: Criminal Intent</title>
   </programme>
-<programme start="20260517213000 +0800" stop="20260518033000 +0800" channel="7plus.7flix">
-    <title>Law &amp; Order: Special Victims Unit</title>
-  </programme>
-<programme start="20260517190000 +0800" stop="20260517200000 +0800" channel="7plus.racing_com">
+<programme start="20260518190000 +0800" stop="20260518200000 +0800" channel="7plus.racing_com">
     <title>Racing.com</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203047 +0800" channel="7plus.racing_com">
+<programme start="20260518193052 +0800" stop="20260518203052 +0800" channel="7plus.racing_com">
     <title>Racing.com</title>
   </programme>
-<programme start="20260517220000 +0800" stop="20260518040000 +0800" channel="7plus.racing_com">
+<programme start="20260518220000 +0800" stop="20260519040000 +0800" channel="7plus.racing_com">
     <title>Racing.com</title>
   </programme>
-<programme start="20260517183946 +0800" stop="20260517192946 +0800" channel="7plus.air_crash_investigations">
+<programme start="20260518185647 +0800" stop="20260518194747 +0800" channel="7plus.air_crash_investigations">
     <title>Air Crash Investigations</title>
   </programme>
-<programme start="20260517193018 +0800" stop="20260517202218 +0800" channel="7plus.air_crash_investigations">
+<programme start="20260518193052 +0800" stop="20260518202952 +0800" channel="7plus.air_crash_investigations">
     <title>Air Crash Investigations</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.air_crash_investigations">
+<programme start="20260518214556 +0800" stop="20260519034556 +0800" channel="7plus.air_crash_investigations">
     <title>Air Crash Investigations</title>
   </programme>
-<programme start="20260517211421 +0800" stop="20260518031421 +0800" channel="7plus.air_crash_investigations">
-    <title>Air Crash Investigations</title>
+<programme start="20260518185813 +0800" stop="20260518195213 +0800" channel="7plus.mythbusters">
+    <title>Western Special</title>
   </programme>
-<programme start="20260517192614 +0800" stop="20260517201914 +0800" channel="7plus.mythbusters">
-    <title>Volunteer Special</title>
+<programme start="20260518193052 +0800" stop="20260518202552 +0800" channel="7plus.mythbusters">
+    <title>Newton Crane Cradle, Bird Balance</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.mythbusters">
-    <title>RocketMen</title>
+<programme start="20260518193052 +0800" stop="20260518202552 +0800" channel="7plus.mythbusters">
+    <title>Straight Man Walking, Blown Away By Binary</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202347 +0800" channel="7plus.mythbusters">
-    <title>Vacuum Violence</title>
+<programme start="20260518214253 +0800" stop="20260519034253 +0800" channel="7plus.mythbusters">
+    <title>Straight Man Walking, Blown Away By Binary</title>
   </programme>
-<programme start="20260517220526 +0800" stop="20260518040526 +0800" channel="7plus.mythbusters">
-    <title>Vacuum Violence</title>
+<programme start="20260518184151 +0800" stop="20260518193351 +0800" channel="7plus.the_yorkshire_vet">
+    <title>Season 8 Ep 4</title>
   </programme>
-<programme start="20260517192227 +0800" stop="20260517201227 +0800" channel="7plus.the_yorkshire_vet">
-    <title>S5 E8 - Christmas</title>
+<programme start="20260518193052 +0800" stop="20260518202152 +0800" channel="7plus.the_yorkshire_vet">
+    <title>Season 8 Ep 5</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202347 +0800" channel="7plus.the_yorkshire_vet">
-    <title>Season 6 Ep 1</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.the_yorkshire_vet">
+    <title>Season 8 Ep 6</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.the_yorkshire_vet">
-    <title>Season 6 Ep 2</title>
+<programme start="20260518211754 +0800" stop="20260519031754 +0800" channel="7plus.the_yorkshire_vet">
+    <title>Season 8 Ep 6</title>
   </programme>
-<programme start="20260517215822 +0800" stop="20260518035822 +0800" channel="7plus.the_yorkshire_vet">
-    <title>Season 6 Ep 2</title>
+<programme start="20260518190716 +0800" stop="20260518195916 +0800" channel="7plus.24_hours_in_aande">
+    <title>Season 7 Episode 4</title>
   </programme>
-<programme start="20260517185645 +0800" stop="20260517194945 +0800" channel="7plus.24_hours_in_aande">
-    <title>Season 6 Episode 1</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.24_hours_in_aande">
+    <title>Season 7 Episode 5</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.24_hours_in_aande">
-    <title>Season 6 Episode 2</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.24_hours_in_aande">
+    <title>Season 7 Episode 6</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202347 +0800" channel="7plus.24_hours_in_aande">
-    <title>Season 6 Episode 3</title>
+<programme start="20260518214420 +0800" stop="20260519034420 +0800" channel="7plus.24_hours_in_aande">
+    <title>Season 7 Episode 6</title>
   </programme>
-<programme start="20260517213452 +0800" stop="20260518033452 +0800" channel="7plus.24_hours_in_aande">
-    <title>Season 6 Episode 3</title>
+<programme start="20260518183753 +0800" stop="20260518192953 +0800" channel="7plus.surveillance_central">
+    <title>Caught On Dashcam</title>
   </programme>
-<programme start="20260517191831 +0800" stop="20260517194331 +0800" channel="7plus.surveillance_central">
+<programme start="20260518193014 +0800" stop="20260518195514 +0800" channel="7plus.surveillance_central">
     <title>Surveillance Oz</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202447 +0800" channel="7plus.surveillance_central">
-    <title>Caught On Dashcam</title>
+<programme start="20260518193052 +0800" stop="20260518195352 +0800" channel="7plus.surveillance_central">
+    <title>Surveillance Oz</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202347 +0800" channel="7plus.surveillance_central">
-    <title>Caught On Dashcam</title>
+<programme start="20260518201851 +0800" stop="20260519021851 +0800" channel="7plus.surveillance_central">
+    <title>Surveillance Oz</title>
   </programme>
-<programme start="20260517213048 +0800" stop="20260518033048 +0800" channel="7plus.surveillance_central">
-    <title>Caught On Dashcam</title>
+<programme start="20260518190930 +0800" stop="20260518195830 +0800" channel="7plus.ncis">
+    <title>Baitfish</title>
   </programme>
-<programme start="20260517190502 +0800" stop="20260517195502 +0800" channel="7plus.ncis">
-    <title>The Tourist</title>
+<programme start="20260518193052 +0800" stop="20260518201752 +0800" channel="7plus.ncis">
+    <title>The Abyss</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202047 +0800" channel="7plus.ncis">
-    <title>Season 1 Episode 4</title>
+<programme start="20260518193052 +0800" stop="20260518201952 +0800" channel="7plus.ncis">
+    <title>One Shot, One Kill</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201947 +0800" channel="7plus.ncis">
-    <title>Season 1 Episode 5</title>
+<programme start="20260518213458 +0800" stop="20260519033458 +0800" channel="7plus.ncis">
+    <title>One Shot, One Kill</title>
   </programme>
-<programme start="20260517213415 +0800" stop="20260518033415 +0800" channel="7plus.ncis">
-    <title>Season 1 Episode 5</title>
-  </programme>
-<programme start="20260517191105 +0800" stop="20260517193505 +0800" channel="7plus.bondi_rescue">
-    <title>Bondi Rescue</title>
-  </programme>
-<programme start="20260517193047 +0800" stop="20260517195447 +0800" channel="7plus.bondi_rescue">
-    <title>Bondi Rescue</title>
-  </programme>
-<programme start="20260517193047 +0800" stop="20260517195547 +0800" channel="7plus.bondi_rescue">
-    <title>Bondi Rescue</title>
-  </programme>
-<programme start="20260517202527 +0800" stop="20260518022527 +0800" channel="7plus.bondi_rescue">
-    <title>Bondi Rescue</title>
-  </programme>
-<programme start="20260517191204 +0800" stop="20260517193804 +0800" channel="7plus.judge_judy">
-    <title>Judge Judy</title>
-  </programme>
-<programme start="20260517193047 +0800" stop="20260517195647 +0800" channel="7plus.judge_judy">
-    <title>Judge Judy</title>
-  </programme>
-<programme start="20260517203009 +0800" stop="20260518023009 +0800" channel="7plus.judge_judy">
-    <title>Judge Judy</title>
-  </programme>
-<programme start="20260517191751 +0800" stop="20260517194251 +0800" channel="7plus.blue_light">
-    <title>Highway Patrol</title>
-  </programme>
-<programme start="20260517193047 +0800" stop="20260517195647 +0800" channel="7plus.blue_light">
+<programme start="20260518191924 +0800" stop="20260518194724 +0800" channel="7plus.blue_light">
     <title>The Force - Behind The Line</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195447 +0800" channel="7plus.blue_light">
+<programme start="20260518193052 +0800" stop="20260518195852 +0800" channel="7plus.blue_light">
+    <title>Motorbike Cops</title>
+  </programme>
+<programme start="20260518193052 +0800" stop="20260518195652 +0800" channel="7plus.blue_light">
     <title>Highway Patrol</title>
   </programme>
-<programme start="20260517203411 +0800" stop="20260518023411 +0800" channel="7plus.blue_light">
+<programme start="20260518204204 +0800" stop="20260519024204 +0800" channel="7plus.blue_light">
     <title>Highway Patrol</title>
   </programme>
-<programme start="20260517190642 +0800" stop="20260517195742 +0800" channel="7plus.outback_truckers">
+<programme start="20260518191628 +0800" stop="20260518194128 +0800" channel="7plus.bondi_rescue">
+    <title>Bondi Rescue</title>
+  </programme>
+<programme start="20260518193052 +0800" stop="20260518195452 +0800" channel="7plus.bondi_rescue">
+    <title>Bondi Rescue</title>
+  </programme>
+<programme start="20260518193052 +0800" stop="20260518195552 +0800" channel="7plus.bondi_rescue">
+    <title>Bondi Rescue</title>
+  </programme>
+<programme start="20260518203147 +0800" stop="20260519023147 +0800" channel="7plus.bondi_rescue">
+    <title>Bondi Rescue</title>
+  </programme>
+<programme start="20260518191147 +0800" stop="20260518193547 +0800" channel="7plus.judge_judy">
+    <title>Judge Judy</title>
+  </programme>
+<programme start="20260518193052 +0800" stop="20260518195452 +0800" channel="7plus.judge_judy">
+    <title>Judge Judy</title>
+  </programme>
+<programme start="20260518202438 +0800" stop="20260519022438 +0800" channel="7plus.judge_judy">
+    <title>Judge Judy</title>
+  </programme>
+<programme start="20260518190700 +0800" stop="20260518195800 +0800" channel="7plus.outback_truckers">
     <title>Outback Truckers</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.outback_truckers">
+<programme start="20260518193052 +0800" stop="20260518202152 +0800" channel="7plus.outback_truckers">
     <title>Outback Truckers</title>
   </programme>
-<programme start="20260517214104 +0800" stop="20260518034104 +0800" channel="7plus.outback_truckers">
+<programme start="20260518214109 +0800" stop="20260519034109 +0800" channel="7plus.outback_truckers">
     <title>Outback Truckers</title>
   </programme>
-<programme start="20260517184753 +0800" stop="20260517193753 +0800" channel="7plus.trucking_hell">
-    <title>Season 5 Episode 13</title>
+<programme start="20260518185249 +0800" stop="20260518194249 +0800" channel="7plus.trucking_hell">
+    <title>Season 5 Episode 19</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202047 +0800" channel="7plus.trucking_hell">
-    <title>Season 5 Episode 14</title>
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.trucking_hell">
+    <title>Season 5 Episode 20</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202047 +0800" channel="7plus.trucking_hell">
-    <title>Season 5 Episode 15</title>
+<programme start="20260518193052 +0800" stop="20260518201952 +0800" channel="7plus.trucking_hell">
+    <title>Season 6 Episode 17</title>
   </programme>
-<programme start="20260517211928 +0800" stop="20260518031928 +0800" channel="7plus.trucking_hell">
-    <title>Season 5 Episode 15</title>
+<programme start="20260518212325 +0800" stop="20260519032325 +0800" channel="7plus.trucking_hell">
+    <title>Season 6 Episode 17</title>
   </programme>
-<programme start="20260517191712 +0800" stop="20260517200512 +0800" channel="7plus.csi_crime_scene_investigation">
-    <title>CSI: Miami - Evidence Of Things Unseen</title>
+<programme start="20260518191930 +0800" stop="20260518201030 +0800" channel="7plus.csi_crime_scene_investigation">
+    <title>CSI: Crime Scene Investigation - Burked</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201947 +0800" channel="7plus.csi_crime_scene_investigation">
-    <title>CSI: Miami - Simple Man</title>
+<programme start="20260518193052 +0800" stop="20260518201752 +0800" channel="7plus.csi_crime_scene_investigation">
+    <title>CSI: New York - The Closer</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202047 +0800" channel="7plus.csi_crime_scene_investigation">
-    <title>CSI: Miami - Dispo Day</title>
+<programme start="20260518193052 +0800" stop="20260518201752 +0800" channel="7plus.csi_crime_scene_investigation">
+    <title>CSI: New York - What You See Is What You See</title>
   </programme>
-<programme start="20260517214455 +0800" stop="20260518034455 +0800" channel="7plus.csi_crime_scene_investigation">
-    <title>CSI: Miami - Dispo Day</title>
+<programme start="20260518214513 +0800" stop="20260519034513 +0800" channel="7plus.csi_crime_scene_investigation">
+    <title>CSI: New York - What You See Is What You See</title>
   </programme>
-<programme start="20260517192717 +0800" stop="20260517201517 +0800" channel="7plus.below_deck_vault">
-    <title>Pirate&apos;s Booty Call</title>
+<programme start="20260518185803 +0800" stop="20260518194503 +0800" channel="7plus.below_deck_vault">
+    <title>Loose Lips Sink Ships</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201647 +0800" channel="7plus.below_deck_vault">
-    <title>Monte Car-loco</title>
+<programme start="20260518193052 +0800" stop="20260518201752 +0800" channel="7plus.below_deck_vault">
+    <title>Yacht on the Rocks</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201747 +0800" channel="7plus.below_deck_vault">
-    <title>Don&apos;t Cry for Me, Sirocco</title>
+<programme start="20260518193052 +0800" stop="20260518201752 +0800" channel="7plus.below_deck_vault">
+    <title>Can I Get Fries with That?</title>
   </programme>
-<programme start="20260517214910 +0800" stop="20260518034910 +0800" channel="7plus.below_deck_vault">
-    <title>Don&apos;t Cry for Me, Sirocco</title>
+<programme start="20260518211906 +0800" stop="20260519031906 +0800" channel="7plus.below_deck_vault">
+    <title>Can I Get Fries with That?</title>
   </programme>
-<programme start="20260517192136 +0800" stop="20260517195036 +0800" channel="7plus.border_security_australia">
+<programme start="20260518191713 +0800" stop="20260518194513 +0800" channel="7plus.border_security_australia">
     <title>Border Security - Australia&apos;s Front Line</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195847 +0800" channel="7plus.border_security_australia">
+<programme start="20260518193052 +0800" stop="20260518195852 +0800" channel="7plus.border_security_australia">
     <title>Border Security - Australia&apos;s Front Line</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195747 +0800" channel="7plus.border_security_australia">
+<programme start="20260518204218 +0800" stop="20260519024218 +0800" channel="7plus.border_security_australia">
     <title>Border Security - Australia&apos;s Front Line</title>
   </programme>
-<programme start="20260517204616 +0800" stop="20260518024616 +0800" channel="7plus.border_security_australia">
-    <title>Border Security - Australia&apos;s Front Line</title>
+<programme start="20260518183312 +0800" stop="20260518192812 +0800" channel="7plus.on_the_case">
+    <title>On The Case S8 E15</title>
   </programme>
-<programme start="20260517183526 +0800" stop="20260517192926 +0800" channel="7plus.on_the_case">
-    <title>On The Case - S3 E23</title>
+<programme start="20260518192852 +0800" stop="20260518202352 +0800" channel="7plus.on_the_case">
+    <title>On The Case S8 E16</title>
   </programme>
-<programme start="20260517192937 +0800" stop="20260517202337 +0800" channel="7plus.on_the_case">
-    <title>On The Case - S3 E24</title>
+<programme start="20260518193052 +0800" stop="20260518201852 +0800" channel="7plus.on_the_case">
+    <title>On The Case S8 E17</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201847 +0800" channel="7plus.on_the_case">
-    <title>On The Case - S10 E10</title>
+<programme start="20260518211232 +0800" stop="20260519031232 +0800" channel="7plus.on_the_case">
+    <title>On The Case S8 E17</title>
   </programme>
-<programme start="20260517211145 +0800" stop="20260518031145 +0800" channel="7plus.on_the_case">
-    <title>On The Case - S10 E10</title>
-  </programme>
-<programme start="20260517191038 +0800" stop="20260517200138 +0800" channel="7plus.anglers_paradise">
+<programme start="20260518192055 +0800" stop="20260518201155 +0800" channel="7plus.anglers_paradise">
     <title>Mark Berg&apos;s Fishing Addiction</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.anglers_paradise">
+<programme start="20260518193052 +0800" stop="20260518202152 +0800" channel="7plus.anglers_paradise">
     <title>Mark Berg&apos;s Fishing Addiction</title>
   </programme>
-<programme start="20260517214452 +0800" stop="20260518034452 +0800" channel="7plus.anglers_paradise">
+<programme start="20260518215414 +0800" stop="20260519035414 +0800" channel="7plus.anglers_paradise">
     <title>Mark Berg&apos;s Fishing Addiction</title>
   </programme>
-<programme start="20260517191533 +0800" stop="20260517203633 +0800" channel="7plus.better_homes_and_gardens">
+<programme start="20260518191044 +0800" stop="20260518202944 +0800" channel="7plus.better_homes_and_gardens">
     <title>Better Homes And Gardens</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517204847 +0800" channel="7plus.better_homes_and_gardens">
+<programme start="20260518193052 +0800" stop="20260518205152 +0800" channel="7plus.better_homes_and_gardens">
     <title>Better Homes And Gardens</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517205147 +0800" channel="7plus.better_homes_and_gardens">
+<programme start="20260518193052 +0800" stop="20260518204952 +0800" channel="7plus.better_homes_and_gardens">
     <title>Better Homes And Gardens</title>
   </programme>
-<programme start="20260517231637 +0800" stop="20260518051637 +0800" channel="7plus.better_homes_and_gardens">
+<programme start="20260518231051 +0800" stop="20260519051051 +0800" channel="7plus.better_homes_and_gardens">
     <title>Better Homes And Gardens</title>
   </programme>
-<programme start="20260517184301 +0800" stop="20260517193201 +0800" channel="7plus.true_crime_files">
+<programme start="20260518191445 +0800" stop="20260518200445 +0800" channel="7plus.true_crime_files">
     <title>World&apos;s Most Evil Killers</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201947 +0800" channel="7plus.true_crime_files">
+<programme start="20260518193052 +0800" stop="20260518202152 +0800" channel="7plus.true_crime_files">
     <title>World&apos;s Most Evil Killers</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202047 +0800" channel="7plus.true_crime_files">
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.true_crime_files">
     <title>World&apos;s Most Evil Killers</title>
   </programme>
-<programme start="20260517211220 +0800" stop="20260518031220 +0800" channel="7plus.true_crime_files">
+<programme start="20260518214857 +0800" stop="20260519034857 +0800" channel="7plus.true_crime_files">
     <title>World&apos;s Most Evil Killers</title>
   </programme>
-<programme start="20260517190159 +0800" stop="20260517195359 +0800" channel="7plus.blue_heelers">
-    <title>Blue Heelers S1 Ep8</title>
+<programme start="20260518192223 +0800" stop="20260518201323 +0800" channel="7plus.blue_heelers">
+    <title>Blue Heelers S2 Ep19</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.blue_heelers">
-    <title>Blue Heelers S1 Ep9</title>
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.blue_heelers">
+    <title>Blue Heelers S2 Ep20</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.blue_heelers">
-    <title>Blue Heelers S1 Ep10</title>
+<programme start="20260518193052 +0800" stop="20260518202152 +0800" channel="7plus.blue_heelers">
+    <title>Blue Heelers S2 Ep21 </title>
   </programme>
-<programme start="20260517213659 +0800" stop="20260518033659 +0800" channel="7plus.blue_heelers">
-    <title>Blue Heelers S1 Ep10</title>
+<programme start="20260518215545 +0800" stop="20260519035545 +0800" channel="7plus.blue_heelers">
+    <title>Blue Heelers S2 Ep21 </title>
   </programme>
-<programme start="20260517185735 +0800" stop="20260517225535 +0800" channel="7plus.cricket_gold">
-    <title>2002/03 ODI Tri-Series - Match 6 - Australia v S</title>
+<programme start="20260518165455 +0800" stop="20260518212955 +0800" channel="7plus.cricket_gold">
+    <title>2002/03 ODI Tri-Series - Match 2 - Australia v E</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517222747 +0800" channel="7plus.cricket_gold">
-    <title>Australia v India - Match 07 - 2003/04 ODI Tri-S</title>
+<programme start="20260518193052 +0800" stop="20260518195952 +0800" channel="7plus.cricket_gold">
+    <title>RAPID REWIND: 2006/07 Ashes - 4th Test - Day 1</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517223047 +0800" channel="7plus.cricket_gold">
-    <title>India v Zimbabwe - Match 8 - 2003/04 ODI Tri-Ser</title>
+<programme start="20260518193052 +0800" stop="20260518195652 +0800" channel="7plus.cricket_gold">
+    <title>RAPID REWIND: 2006/07 Ashes - 4th Test - Day 2</title>
   </programme>
-<programme start="20260518045426 +0800" stop="20260518105426 +0800" channel="7plus.cricket_gold">
-    <title>India v Zimbabwe - Match 8 - 2003/04 ODI Tri-Ser</title>
+<programme start="20260518222619 +0800" stop="20260519042619 +0800" channel="7plus.cricket_gold">
+    <title>RAPID REWIND: 2006/07 Ashes - 4th Test - Day 2</title>
   </programme>
-<programme start="20260517184356 +0800" stop="20260517193456 +0800" channel="7plus.ghost_hunters">
-    <title>S02 E13 - The Legend of Rose Hall</title>
+<programme start="20260518192731 +0800" stop="20260518201731 +0800" channel="7plus.ghost_hunters">
+    <title>S08 E18 - Paranormal Politics</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.ghost_hunters">
-    <title>S02 E14 - The Spirit of Robin Hood</title>
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.ghost_hunters">
+    <title>S9 E16 - Hyde and Seek</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.ghost_hunters">
-    <title>S02 E15 - Sweeney Todd</title>
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.ghost_hunters">
+    <title>S9 E17 - Orphans of Gettysburg</title>
   </programme>
-<programme start="20260517211744 +0800" stop="20260518031744 +0800" channel="7plus.ghost_hunters">
-    <title>S02 E15 - Sweeney Todd</title>
+<programme start="20260518215859 +0800" stop="20260519035859 +0800" channel="7plus.ghost_hunters">
+    <title>S9 E17 - Orphans of Gettysburg</title>
   </programme>
-<programme start="20260517185224 +0800" stop="20260517193924 +0800" channel="7plus.botched_vault">
-    <title>I Love New Boobs</title>
+<programme start="20260518184322 +0800" stop="20260518193122 +0800" channel="7plus.botched_vault">
+    <title>Girls Gone Wildd</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201747 +0800" channel="7plus.botched_vault">
-    <title>Not OK From the UK</title>
+<programme start="20260518193052 +0800" stop="20260518201852 +0800" channel="7plus.botched_vault">
+    <title>Silicone Valley</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201747 +0800" channel="7plus.botched_vault">
-    <title>Bums, Boobs, and Baklava</title>
+<programme start="20260518193052 +0800" stop="20260518202152 +0800" channel="7plus.botched_vault">
+    <title>House Of Horrors</title>
   </programme>
-<programme start="20260517211344 +0800" stop="20260518031344 +0800" channel="7plus.botched_vault">
-    <title>Bums, Boobs, and Baklava</title>
+<programme start="20260518211137 +0800" stop="20260519031137 +0800" channel="7plus.botched_vault">
+    <title>House Of Horrors</title>
   </programme>
-<programme start="20260517184457 +0800" stop="20260517193557 +0800" channel="7plus.hells_kitchen">
-    <title>Hell&apos;s Kitchen Series 2 Episode 2</title>
+<programme start="20260518183627 +0800" stop="20260518192727 +0800" channel="7plus.hells_kitchen">
+    <title>Hell&apos;s Kitchen Series 6 Episode 5</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.hells_kitchen">
-    <title>Hell&apos;s Kitchen Series 2 Episode 3</title>
+<programme start="20260518192755 +0800" stop="20260518201855 +0800" channel="7plus.hells_kitchen">
+    <title>Hell&apos;s Kitchen Series 6 Episode 6</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202047 +0800" channel="7plus.hells_kitchen">
-    <title>Hell&apos;s Kitchen Series 2 Episode 4</title>
+<programme start="20260518193052 +0800" stop="20260518202152 +0800" channel="7plus.hells_kitchen">
+    <title>Hell&apos;s Kitchen Series 6 Episode 7</title>
   </programme>
-<programme start="20260517211854 +0800" stop="20260518031854 +0800" channel="7plus.hells_kitchen">
-    <title>Hell&apos;s Kitchen Series 2 Episode 4</title>
+<programme start="20260518211026 +0800" stop="20260519031026 +0800" channel="7plus.hells_kitchen">
+    <title>Hell&apos;s Kitchen Series 6 Episode 7</title>
   </programme>
-<programme start="20260517192156 +0800" stop="20260517201656 +0800" channel="7plus.antiques_road_trip">
+<programme start="20260518192134 +0800" stop="20260518201634 +0800" channel="7plus.antiques_road_trip">
     <title>Antiques Road Trip</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202547 +0800" channel="7plus.antiques_road_trip">
+<programme start="20260518193052 +0800" stop="20260518202552 +0800" channel="7plus.antiques_road_trip">
     <title>Antiques Road Trip</title>
   </programme>
-<programme start="20260517220751 +0800" stop="20260518040751 +0800" channel="7plus.antiques_road_trip">
+<programme start="20260518220714 +0800" stop="20260519040714 +0800" channel="7plus.antiques_road_trip">
     <title>Antiques Road Trip</title>
   </programme>
-<programme start="20260517190217 +0800" stop="20260517195417 +0800" channel="7plus.mighty_machines">
-    <title>Mighty Ships S2 E2</title>
+<programme start="20260518183921 +0800" stop="20260518193121 +0800" channel="7plus.mighty_machines">
+    <title>Mighty Planes S1 E6</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.mighty_machines">
-    <title>Mighty Ships S2 E3</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.mighty_machines">
+    <title>Mighty Ships S4 E1</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202347 +0800" channel="7plus.mighty_machines">
-    <title>Mighty Trains S1 E3</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.mighty_machines">
+    <title>Mighty Ships S4 E2</title>
   </programme>
-<programme start="20260517213923 +0800" stop="20260518033923 +0800" channel="7plus.mighty_machines">
-    <title>Mighty Trains S1 E3</title>
+<programme start="20260518211526 +0800" stop="20260519031526 +0800" channel="7plus.mighty_machines">
+    <title>Mighty Ships S4 E2</title>
   </programme>
-<programme start="20260517192211 +0800" stop="20260517194711 +0800" channel="7plus.medical_and_rescue">
+<programme start="20260518191057 +0800" stop="20260518200157 +0800" channel="7plus.medical_and_rescue">
+    <title>Mt. Hutt Rescue</title>
+  </programme>
+<programme start="20260518193052 +0800" stop="20260518195552 +0800" channel="7plus.medical_and_rescue">
     <title>Medical Emergency</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.medical_and_rescue">
-    <title>Code 1: Minute by Minute</title>
-  </programme>
-<programme start="20260517193047 +0800" stop="20260517195547 +0800" channel="7plus.medical_and_rescue">
+<programme start="20260518205327 +0800" stop="20260519025327 +0800" channel="7plus.medical_and_rescue">
     <title>Medical Emergency</title>
   </programme>
-<programme start="20260517210506 +0800" stop="20260518030506 +0800" channel="7plus.medical_and_rescue">
-    <title>Medical Emergency</title>
+<programme start="20260518192442 +0800" stop="20260518201142 +0800" channel="7plus.the_real_housewives_vault">
+    <title>Hot Mess Express</title>
   </programme>
-<programme start="20260517190717 +0800" stop="20260517195317 +0800" channel="7plus.the_real_housewives_vault">
-    <title>Apple Of My Lie</title>
+<programme start="20260518193052 +0800" stop="20260518201752 +0800" channel="7plus.the_real_housewives_vault">
+    <title>Fashion Show Faux Pas</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201647 +0800" channel="7plus.the_real_housewives_vault">
-    <title>You Can Run But You Can&apos;t Ride</title>
+<programme start="20260518193052 +0800" stop="20260518201652 +0800" channel="7plus.the_real_housewives_vault">
+    <title>Coming Clean</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201847 +0800" channel="7plus.the_real_housewives_vault">
-    <title>Bahama Drama</title>
+<programme start="20260518214638 +0800" stop="20260519034638 +0800" channel="7plus.the_real_housewives_vault">
+    <title>Coming Clean</title>
   </programme>
-<programme start="20260517212842 +0800" stop="20260518032842 +0800" channel="7plus.the_real_housewives_vault">
-    <title>Bahama Drama</title>
+<programme start="20260518183611 +0800" stop="20260518192811 +0800" channel="7plus.wicked_tuna">
+    <title>End of a Sea Monster Season</title>
   </programme>
-<programme start="20260517191027 +0800" stop="20260517200227 +0800" channel="7plus.wicked_tuna">
-    <title>Chatham Alliance</title>
+<programme start="20260518192815 +0800" stop="20260518202015 +0800" channel="7plus.wicked_tuna">
+    <title>Yankee Invasion</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.wicked_tuna">
-    <title>Big Gamble, Big Fish</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.wicked_tuna">
+    <title>Southern Discomfort</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.wicked_tuna">
-    <title>Chatham or Bust</title>
+<programme start="20260518211226 +0800" stop="20260519031226 +0800" channel="7plus.wicked_tuna">
+    <title>Southern Discomfort</title>
   </programme>
-<programme start="20260517214635 +0800" stop="20260518034635 +0800" channel="7plus.wicked_tuna">
-    <title>Chatham or Bust</title>
+<programme start="20260518191831 +0800" stop="20260518194331 +0800" channel="7plus.home_and_away_classics">
+    <title>(2009) Death - Grant Bledcoe</title>
   </programme>
-<programme start="20260517190924 +0800" stop="20260517193524 +0800" channel="7plus.home_and_away_classics">
-    <title>(1996) Wedding - Marilyn &amp; Fisher</title>
+<programme start="20260518193052 +0800" stop="20260518195652 +0800" channel="7plus.home_and_away_classics">
+    <title>(2010) Wedding - Gina &amp; John</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195547 +0800" channel="7plus.home_and_away_classics">
-    <title>Tragedy - Skydiving Accident</title>
+<programme start="20260518193052 +0800" stop="20260518195552 +0800" channel="7plus.home_and_away_classics">
+    <title>(2011) Birth - George Franklin</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195547 +0800" channel="7plus.home_and_away_classics">
-    <title>(1997) Wedding - Sally loses her virginity </title>
+<programme start="20260518203538 +0800" stop="20260519023538 +0800" channel="7plus.home_and_away_classics">
+    <title>(2011) Birth - George Franklin</title>
   </programme>
-<programme start="20260517202634 +0800" stop="20260518022634 +0800" channel="7plus.home_and_away_classics">
-    <title>(1997) Wedding - Sally loses her virginity </title>
+<programme start="20260518191924 +0800" stop="20260518201124 +0800" channel="7plus.escape_to_the_country">
+    <title>Carmarthenshire</title>
   </programme>
-<programme start="20260517190213 +0800" stop="20260517195413 +0800" channel="7plus.escape_to_the_country">
-    <title>Barns</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.escape_to_the_country">
+    <title>North Yorkshire</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.escape_to_the_country">
-    <title>Somerset</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.escape_to_the_country">
+    <title>West Country</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.escape_to_the_country">
-    <title>North Wales</title>
+<programme start="20260518215622 +0800" stop="20260519035622 +0800" channel="7plus.escape_to_the_country">
+    <title>West Country</title>
   </programme>
-<programme start="20260517213918 +0800" stop="20260518033918 +0800" channel="7plus.escape_to_the_country">
-    <title>North Wales</title>
+<programme start="20260518190719 +0800" stop="20260518193219 +0800" channel="7plus.hardcore_pawn">
+    <title>S10 E3 - Seth In Charge</title>
   </programme>
-<programme start="20260517191959 +0800" stop="20260517194459 +0800" channel="7plus.hardcore_pawn">
-    <title>S10 E9 - Breakdown At Tiffany&apos;s</title>
+<programme start="20260518193052 +0800" stop="20260518195452 +0800" channel="7plus.hardcore_pawn">
+    <title>S10 E4 - Back In Action</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195547 +0800" channel="7plus.hardcore_pawn">
-    <title>S10 E10 - Gold Crash</title>
+<programme start="20260518193052 +0800" stop="20260518195552 +0800" channel="7plus.hardcore_pawn">
+    <title>S11 E1 - Seth&apos;s Return</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195547 +0800" channel="7plus.hardcore_pawn">
-    <title>S11 E7 - Daddy Daughter Dance</title>
+<programme start="20260518202216 +0800" stop="20260519022216 +0800" channel="7plus.hardcore_pawn">
+    <title>S11 E1 - Seth&apos;s Return</title>
   </programme>
-<programme start="20260517203615 +0800" stop="20260518023615 +0800" channel="7plus.hardcore_pawn">
-    <title>S11 E7 - Daddy Daughter Dance</title>
+<programme start="20260518183124 +0800" stop="20260518211424 +0800" channel="7plus.7afl">
+    <title>Rnd 10: Brisbane v Geelong</title>
   </programme>
-<programme start="20260517174326 +0800" stop="20260517202326 +0800" channel="7plus.7afl">
-    <title>Carlton v Collingwood | Round 6</title>
+<programme start="20260518193052 +0800" stop="20260518203352 +0800" channel="7plus.7afl">
+    <title>Marching In</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203547 +0800" channel="7plus.7afl">
-    <title>The Front Bar - 22nd April</title>
+<programme start="20260518193052 +0800" stop="20260518203552 +0800" channel="7plus.7afl">
+    <title>The Front Bar - 4th March</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517221447 +0800" channel="7plus.7afl">
-    <title>Western Bulldogs v Sydney Swans | Round 7</title>
+<programme start="20260518232409 +0800" stop="20260519052409 +0800" channel="7plus.7afl">
+    <title>The Front Bar - 4th March</title>
   </programme>
-<programme start="20260518001339 +0800" stop="20260518061339 +0800" channel="7plus.7afl">
-    <title>Western Bulldogs v Sydney Swans | Round 7</title>
+<programme start="20260518185350 +0800" stop="20260518194350 +0800" channel="7plus.cooking_and_culture">
+    <title>Ed And Karen&apos;s Recipes for Success</title>
   </programme>
-<programme start="20260517181933 +0800" stop="20260517194233 +0800" channel="7plus.cooking_and_culture">
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.cooking_and_culture">
+    <title>Ed And Karen&apos;s Recipes for Success</title>
+  </programme>
+<programme start="20260518193052 +0800" stop="20260518204852 +0800" channel="7plus.cooking_and_culture">
     <title>My Kitchen Rules</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195847 +0800" channel="7plus.cooking_and_culture">
-    <title>Every Bite Takes You Home</title>
+<programme start="20260518215344 +0800" stop="20260519035344 +0800" channel="7plus.cooking_and_culture">
+    <title>My Kitchen Rules</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203247 +0800" channel="7plus.cooking_and_culture">
-    <title>Aussie Barbecue Heroes S1 E4</title>
+<programme start="20260518191232 +0800" stop="20260518193832 +0800" channel="7plus.travel_australia">
+    <title>Creek To Coast S23 E12</title>
   </programme>
-<programme start="20260517211321 +0800" stop="20260518031321 +0800" channel="7plus.cooking_and_culture">
-    <title>Aussie Barbecue Heroes S1 E4</title>
+<programme start="20260518193052 +0800" stop="20260518195652 +0800" channel="7plus.travel_australia">
+    <title>Creek To Coast</title>
   </programme>
-<programme start="20260517191127 +0800" stop="20260517193727 +0800" channel="7plus.travel_australia">
-    <title>Life Off Road S8 E9</title>
+<programme start="20260518193052 +0800" stop="20260518195652 +0800" channel="7plus.travel_australia">
+    <title>Creek To Coast S23 E14</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195747 +0800" channel="7plus.travel_australia">
-    <title>Life Off Road S8 E10</title>
+<programme start="20260518203043 +0800" stop="20260519023043 +0800" channel="7plus.travel_australia">
+    <title>Creek To Coast S23 E14</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517195747 +0800" channel="7plus.travel_australia">
-    <title>Life Off Road S8 E11</title>
+<programme start="20260518192030 +0800" stop="20260518200630 +0800" channel="7plus.million_dollar_listing_vault">
+    <title>Reunion Part Two</title>
   </programme>
-<programme start="20260517203206 +0800" stop="20260518023206 +0800" channel="7plus.travel_australia">
-    <title>Life Off Road S8 E11</title>
+<programme start="20260518193052 +0800" stop="20260518201652 +0800" channel="7plus.million_dollar_listing_vault">
+    <title>Uncensored</title>
   </programme>
-<programme start="20260517185529 +0800" stop="20260517194129 +0800" channel="7plus.million_dollar_listing_vault">
-    <title>Reach High</title>
+<programme start="20260518193052 +0800" stop="20260518201852 +0800" channel="7plus.million_dollar_listing_vault">
+    <title>Broker in the Rye</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201647 +0800" channel="7plus.million_dollar_listing_vault">
-    <title>I Ain&apos;t Afraid Of No Ghosts</title>
+<programme start="20260518214126 +0800" stop="20260519034126 +0800" channel="7plus.million_dollar_listing_vault">
+    <title>Broker in the Rye</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201647 +0800" channel="7plus.million_dollar_listing_vault">
-    <title>Bidding War Bitches</title>
+<programme start="20260518174317 +0800" stop="20260518200117 +0800" channel="7plus.moviesphere">
+    <title>Insomnia</title>
   </programme>
-<programme start="20260517211458 +0800" stop="20260518031458 +0800" channel="7plus.million_dollar_listing_vault">
-    <title>Bidding War Bitches</title>
+<programme start="20260518193052 +0800" stop="20260518211452 +0800" channel="7plus.moviesphere">
+    <title>Kill Me Three Times</title>
   </programme>
-<programme start="20260517190726 +0800" stop="20260517211826 +0800" channel="7plus.moviesphere">
-    <title>30 Days of Night</title>
+<programme start="20260518193052 +0800" stop="20260518210652 +0800" channel="7plus.moviesphere">
+    <title>Freezer</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517212347 +0800" channel="7plus.moviesphere">
-    <title>Daybreakers</title>
+<programme start="20260518232210 +0800" stop="20260519052210 +0800" channel="7plus.moviesphere">
+    <title>Freezer</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517212647 +0800" channel="7plus.moviesphere">
-    <title>The Gallows Act II</title>
-  </programme>
-<programme start="20260518010740 +0800" stop="20260518070740 +0800" channel="7plus.moviesphere">
-    <title>The Gallows Act II</title>
-  </programme>
-<programme start="20260517190218 +0800" stop="20260517195218 +0800" channel="7plus.bondi_vet">
+<programme start="20260518183651 +0800" stop="20260518192951 +0800" channel="7plus.bondi_vet">
     <title>Bondi Vet</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201947 +0800" channel="7plus.bondi_vet">
+<programme start="20260518193020 +0800" stop="20260518202320 +0800" channel="7plus.bondi_vet">
     <title>Bondi Vet</title>
   </programme>
-<programme start="20260517213052 +0800" stop="20260518033052 +0800" channel="7plus.bondi_vet">
+<programme start="20260518193052 +0800" stop="20260518202352 +0800" channel="7plus.bondi_vet">
     <title>Bondi Vet</title>
   </programme>
-<programme start="20260517185615 +0800" stop="20260517194515 +0800" channel="7plus.water_rats">
-    <title>Water Rats - S3 E11 - Goldie&apos;s Trip</title>
+<programme start="20260518211650 +0800" stop="20260519031650 +0800" channel="7plus.bondi_vet">
+    <title>Bondi Vet</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201947 +0800" channel="7plus.water_rats">
-    <title>Water Rats - S3 E12 - One Dead Rat</title>
+<programme start="20260518190454 +0800" stop="20260518195354 +0800" channel="7plus.water_rats">
+    <title>Water Rats - S4 E14 - Soft Target</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201947 +0800" channel="7plus.water_rats">
-    <title>Water Rats - S3 E13 - The Messenger</title>
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.water_rats">
+    <title>Water Rats - S4 E15 - Not Fade Away</title>
   </programme>
-<programme start="20260517212431 +0800" stop="20260518032431 +0800" channel="7plus.water_rats">
-    <title>Water Rats - S3 E13 - The Messenger</title>
+<programme start="20260518193052 +0800" stop="20260518201952 +0800" channel="7plus.water_rats">
+    <title>Water Rats - S4 E16 - Romeo Is Bleeding</title>
   </programme>
-<programme start="20260517184056 +0800" stop="20260517201256 +0800" channel="7plus.australia_s_got_talent">
+<programme start="20260518213416 +0800" stop="20260519033416 +0800" channel="7plus.water_rats">
+    <title>Water Rats - S4 E16 - Romeo Is Bleeding</title>
+  </programme>
+<programme start="20260518181459 +0800" stop="20260518193759 +0800" channel="7plus.australia_s_got_talent">
     <title>Australia&apos;s Got Talent</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517210047 +0800" channel="7plus.australia_s_got_talent">
+<programme start="20260518193052 +0800" stop="20260518204252 +0800" channel="7plus.australia_s_got_talent">
     <title>Australia&apos;s Got Talent</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517210147 +0800" channel="7plus.australia_s_got_talent">
+<programme start="20260518193052 +0800" stop="20260518203252 +0800" channel="7plus.australia_s_got_talent">
     <title>Australia&apos;s Got Talent</title>
   </programme>
-<programme start="20260517231540 +0800" stop="20260518051540 +0800" channel="7plus.australia_s_got_talent">
+<programme start="20260518215244 +0800" stop="20260519035244 +0800" channel="7plus.australia_s_got_talent">
     <title>Australia&apos;s Got Talent</title>
   </programme>
-<programme start="20260517192446 +0800" stop="20260517201646 +0800" channel="7plus.river_monsters">
-    <title>US River Monsters</title>
+<programme start="20260518190851 +0800" stop="20260518200051 +0800" channel="7plus.river_monsters">
+    <title>The Mutilator</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.river_monsters">
-    <title>Monsters in Unexpected Places</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.river_monsters">
+    <title>Secrets of the Sea</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.river_monsters">
-    <title>Worst Nightmares aka Halloween Special</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.river_monsters">
+    <title>Congo Killer</title>
   </programme>
-<programme start="20260517220154 +0800" stop="20260518040154 +0800" channel="7plus.river_monsters">
-    <title>Worst Nightmares aka Halloween Special</title>
+<programme start="20260518214633 +0800" stop="20260519034633 +0800" channel="7plus.river_monsters">
+    <title>Congo Killer</title>
   </programme>
-<programme start="20260517192222 +0800" stop="20260517201522 +0800" channel="7plus.7news_spotlight">
-    <title>What Happened To Rory Sykes?</title>
+<programme start="20260518190910 +0800" stop="20260518193510 +0800" channel="7plus.7news_spotlight">
+    <title>Peter Bol</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.7news_spotlight">
-    <title>A Law Unto Themselves</title>
+<programme start="20260518193052 +0800" stop="20260518202952 +0800" channel="7plus.7news_spotlight">
+    <title>Hellsong</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202147 +0800" channel="7plus.7news_spotlight">
-    <title>Viral On Trial</title>
+<programme start="20260518193052 +0800" stop="20260518202552 +0800" channel="7plus.7news_spotlight">
+    <title>Cheques, Lies And Videotapes</title>
   </programme>
-<programme start="20260517215753 +0800" stop="20260518035753 +0800" channel="7plus.7news_spotlight">
-    <title>Viral On Trial</title>
+<programme start="20260518213050 +0800" stop="20260519033050 +0800" channel="7plus.7news_spotlight">
+    <title>Cheques, Lies And Videotapes</title>
   </programme>
-<programme start="20260517185018 +0800" stop="20260517194018 +0800" channel="7plus.all_saints">
-    <title>All Saints S2 Ep15</title>
+<programme start="20260518191812 +0800" stop="20260518200712 +0800" channel="7plus.all_saints">
+    <title>All Saints S3 Episode 1</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202047 +0800" channel="7plus.all_saints">
-    <title>All Saints S2 Ep16</title>
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.all_saints">
+    <title>All Saints S3 Episode 2</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202047 +0800" channel="7plus.all_saints">
-    <title>All Saints S2 Ep17</title>
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.all_saints">
+    <title>All Saints S3 Episode 3</title>
   </programme>
-<programme start="20260517212137 +0800" stop="20260518032137 +0800" channel="7plus.all_saints">
-    <title>All Saints S2 Ep17</title>
+<programme start="20260518214810 +0800" stop="20260519034810 +0800" channel="7plus.all_saints">
+    <title>All Saints S3 Episode 3</title>
   </programme>
-<programme start="20260517191432 +0800" stop="20260517200932 +0800" channel="7plus.7now">
-    <title>The 1% Club</title>
+<programme start="20260518190947 +0800" stop="20260518201647 +0800" channel="7plus.7now">
+    <title>Rebel Wilson&apos;s Pooch Perfect</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517204847 +0800" channel="7plus.7now">
-    <title>Dream Home</title>
+<programme start="20260518193052 +0800" stop="20260518210252 +0800" channel="7plus.7now">
+    <title>Dancing With The Stars</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517205447 +0800" channel="7plus.7now">
-    <title>Australian Idol S9 E7 - Auditions</title>
+<programme start="20260518193052 +0800" stop="20260518210752 +0800" channel="7plus.7now">
+    <title>Dancing With The Stars</title>
   </programme>
-<programme start="20260517225217 +0800" stop="20260518045217 +0800" channel="7plus.7now">
-    <title>Australian Idol S9 E7 - Auditions</title>
+<programme start="20260518232711 +0800" stop="20260519052711 +0800" channel="7plus.7now">
+    <title>Dancing With The Stars</title>
   </programme>
-<programme start="20260517185052 +0800" stop="20260517193852 +0800" channel="7plus.winners_and_losers">
-    <title>Winners &amp; Losers S1 Ep22</title>
+<programme start="20260518184625 +0800" stop="20260518193425 +0800" channel="7plus.winners_and_losers">
+    <title>Angle Of Repose S3 Ep8</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201447 +0800" channel="7plus.winners_and_losers">
-    <title>The Happy Ever After Thing S2 Ep1</title>
+<programme start="20260518193052 +0800" stop="20260518201752 +0800" channel="7plus.winners_and_losers">
+    <title>You Can Run S3 Ep9</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517201747 +0800" channel="7plus.winners_and_losers">
-    <title>Grape Expectations S2 Ep2 </title>
+<programme start="20260518193052 +0800" stop="20260518201352 +0800" channel="7plus.winners_and_losers">
+    <title>How To Hide A Scar S3 Ep10</title>
   </programme>
-<programme start="20260517211048 +0800" stop="20260518031048 +0800" channel="7plus.winners_and_losers">
-    <title>Grape Expectations S2 Ep2 </title>
+<programme start="20260518210608 +0800" stop="20260519030608 +0800" channel="7plus.winners_and_losers">
+    <title>How To Hide A Scar S3 Ep10</title>
   </programme>
-<programme start="20260517182609 +0800" stop="20260517195009 +0800" channel="7plus.all_star_cinema">
-    <title>An Affair To Die For</title>
+<programme start="20260518184454 +0800" stop="20260518204354 +0800" channel="7plus.all_star_cinema">
+    <title>The Vanishing</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517212147 +0800" channel="7plus.all_star_cinema">
-    <title>Fear Of Rain</title>
+<programme start="20260518193052 +0800" stop="20260518211652 +0800" channel="7plus.all_star_cinema">
+    <title>Pay The Ghost</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517212247 +0800" channel="7plus.all_star_cinema">
-    <title>Spinning Man</title>
+<programme start="20260518193052 +0800" stop="20260518213152 +0800" channel="7plus.all_star_cinema">
+    <title>Protect And Serve</title>
   </programme>
-<programme start="20260517233432 +0800" stop="20260518053432 +0800" channel="7plus.all_star_cinema">
-    <title>Spinning Man</title>
+<programme start="20260519003110 +0800" stop="20260519063110 +0800" channel="7plus.all_star_cinema">
+    <title>Protect And Serve</title>
   </programme>
-<programme start="20260517144231 +0800" stop="20260517201231 +0800" channel="7plus.liv_golf_replays">
-    <title>Adelaide | Round 2</title>
+<programme start="20260518173611 +0800" stop="20260518222311 +0800" channel="7plus.liv_golf_replays">
+    <title>Hong Kong | Round 3</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260518001147 +0800" channel="7plus.liv_golf_replays">
-    <title>Adelaide | Round 3</title>
+<programme start="20260518193052 +0800" stop="20260519010452 +0800" channel="7plus.liv_golf_replays">
+    <title>Hong Kong | Final Round</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260518011947 +0800" channel="7plus.liv_golf_replays">
-    <title>Adelaide | Final Round</title>
+<programme start="20260518193052 +0800" stop="20260519003552 +0800" channel="7plus.liv_golf_replays">
+    <title>Singapore Round 1</title>
   </programme>
-<programme start="20260518064312 +0800" stop="20260518124312 +0800" channel="7plus.liv_golf_replays">
-    <title>Adelaide | Final Round</title>
+<programme start="20260519090347 +0800" stop="20260519150347 +0800" channel="7plus.liv_golf_replays">
+    <title>Singapore Round 1</title>
   </programme>
-<programme start="20260517190143 +0800" stop="20260517195643 +0800" channel="7plus.taste">
-    <title>Chopping Block</title>
+<programme start="20260518185650 +0800" stop="20260518194850 +0800" channel="7plus.taste">
+    <title>Britain&apos;s Best Dish</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202547 +0800" channel="7plus.taste">
-    <title>Chopping Block</title>
+<programme start="20260518193052 +0800" stop="20260518202052 +0800" channel="7plus.taste">
+    <title>Britain&apos;s Best Dish</title>
   </programme>
-<programme start="20260517214723 +0800" stop="20260518034723 +0800" channel="7plus.taste">
-    <title>Chopping Block</title>
+<programme start="20260518193052 +0800" stop="20260518202152 +0800" channel="7plus.taste">
+    <title>Britain&apos;s Best Dish</title>
   </programme>
-<programme start="20260517190100 +0800" stop="20260517195400 +0800" channel="7plus.a_country_practice">
-    <title>S3 E46 - A Lady&apos;s Choice - Part 2</title>
+<programme start="20260518213039 +0800" stop="20260519033039 +0800" channel="7plus.taste">
+    <title>Britain&apos;s Best Dish</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202247 +0800" channel="7plus.a_country_practice">
-    <title>S3 E47 - Bushlore - Part 1</title>
+<programme start="20260518191143 +0800" stop="20260518200443 +0800" channel="7plus.a_country_practice">
+    <title>S3 E73 - Spellbound - Part 1</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517202347 +0800" channel="7plus.a_country_practice">
-    <title>S3 E48 - Bushlore - Part 2</title>
+<programme start="20260518193052 +0800" stop="20260518202452 +0800" channel="7plus.a_country_practice">
+    <title>S3 E74 - Spellbound - Part 2</title>
   </programme>
-<programme start="20260517214002 +0800" stop="20260518034002 +0800" channel="7plus.a_country_practice">
-    <title>S3 E48 - Bushlore - Part 2</title>
+<programme start="20260518193052 +0800" stop="20260518202252 +0800" channel="7plus.a_country_practice">
+    <title>S3 E75 - Promises, Promises - Part 1</title>
   </programme>
-<programme start="20260517190000 +0800" stop="20260517200000 +0800" channel="7plus.racing_wa">
+<programme start="20260518215108 +0800" stop="20260519035108 +0800" channel="7plus.a_country_practice">
+    <title>S3 E75 - Promises, Promises - Part 1</title>
+  </programme>
+<programme start="20260518190000 +0800" stop="20260518200000 +0800" channel="7plus.racing_wa">
     <title>Racing WA</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203047 +0800" channel="7plus.racing_wa">
+<programme start="20260518193052 +0800" stop="20260518203052 +0800" channel="7plus.racing_wa">
     <title>Racing WA</title>
   </programme>
-<programme start="20260517220000 +0800" stop="20260518040000 +0800" channel="7plus.racing_wa">
+<programme start="20260518220000 +0800" stop="20260519040000 +0800" channel="7plus.racing_wa">
     <title>Racing WA</title>
   </programme>
-<programme start="20260517160000 +0800" stop="20260517200000 +0800" channel="7plus.ausbiz">
-    <title>the weekend</title>
-  </programme>
-<programme start="20260517193047 +0800" stop="20260517212947 +0800" channel="7plus.ausbiz">
-    <title>the weekend</title>
-  </programme>
-<programme start="20260517193047 +0800" stop="20260517233047 +0800" channel="7plus.ausbiz">
+<programme start="20260518150000 +0800" stop="20260518215900 +0800" channel="7plus.ausbiz">
     <title>after hours</title>
   </programme>
-<programme start="20260518020000 +0800" stop="20260518080000 +0800" channel="7plus.ausbiz">
+<programme start="20260518193052 +0800" stop="20260519002952 +0800" channel="7plus.ausbiz">
     <title>after hours</title>
   </programme>
-<programme start="20260517183000 +0800" stop="20260517193000 +0800" channel="7plus.tvsn">
-    <title>Gold Day FINALE</title>
+<programme start="20260518193052 +0800" stop="20260519001552 +0800" channel="7plus.ausbiz">
+    <title>after hours</title>
   </programme>
-<programme start="20260517193000 +0800" stop="20260517203000 +0800" channel="7plus.tvsn">
-    <title>Gallery of Gold</title>
+<programme start="20260519074500 +0800" stop="20260519134500 +0800" channel="7plus.ausbiz">
+    <title>after hours</title>
   </programme>
-<programme start="20260517193047 +0800" stop="20260517203047 +0800" channel="7plus.tvsn">
-    <title>NEW Maestro 9ct with Pietro Virginio</title>
+<programme start="20260518183000 +0800" stop="20260518193000 +0800" channel="7plus.tvsn">
+    <title>Gems Of The Orient</title>
   </programme>
-<programme start="20260517213000 +0800" stop="20260518033000 +0800" channel="7plus.tvsn">
-    <title>NEW Maestro 9ct with Pietro Virginio</title>
+<programme start="20260518193000 +0800" stop="20260518203000 +0800" channel="7plus.tvsn">
+    <title>Diane Gilman Fashion</title>
+  </programme>
+<programme start="20260518193052 +0800" stop="20260518203052 +0800" channel="7plus.tvsn">
+    <title>Bas Phillips Manchester</title>
+  </programme>
+<programme start="20260518213000 +0800" stop="20260519033000 +0800" channel="7plus.tvsn">
+    <title>Bas Phillips Manchester</title>
   </programme>
 <programme start="20260418223447 +0800" stop="20260419003300 +0800" channel="9now.channel_9">
     <title>Magic Mike&apos;s Last Dance (2023)</title>
@@ -7659,106 +7656,106 @@ One employee feels her store is lacking the &apos;family&apos; in Family Dollar.
 <programme start="20260419080200 +0800" stop="20260419090200 +0800" channel="9now.9rush">
     <title>Wheeler Dealers</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.bbc_news">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.bbc_news">
     <title>BBC News</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.bbc_news">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.bbc_news">
     <title>BBC News Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.seinfeld">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.seinfeld">
     <title>Seinfeld</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.seinfeld">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.seinfeld">
     <title>Seinfeld Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.9crime">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.9crime">
     <title>Does Murder Sleep?</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.9crime">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.9crime">
     <title>9Crime Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.married_at_first_sight">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.married_at_first_sight">
     <title>Married At First Sight</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.married_at_first_sight">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.married_at_first_sight">
     <title>Married At First Sight Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.9mystery_paranormal">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.9mystery_paranormal">
     <title>Portals To Hell</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.9mystery_paranormal">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.9mystery_paranormal">
     <title>9Mystery&amp;Paranormal Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.bbc_top_gear">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.bbc_top_gear">
     <title>The Getaway Car</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.bbc_top_gear">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.bbc_top_gear">
     <title>BBC Top Gear Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.dance_moms_24_7">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.dance_moms_24_7">
     <title>Dance Moms</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.dance_moms_24_7">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.dance_moms_24_7">
     <title>Dance Moms 24/7 Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.lmn">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.lmn">
     <title>Living With My Mother&apos;S Killer</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.lmn">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.lmn">
     <title>LMN Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.real_emergency">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.real_emergency">
     <title>Paramedics</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.real_emergency">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.real_emergency">
     <title>Real Emergency Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.the_block_24_7">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.the_block_24_7">
     <title>The Block</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.the_block_24_7">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.the_block_24_7">
     <title>The Block 24/7 Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.h2">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.h2">
     <title>The Rise And Fall Of Pablo Escobar</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.h2">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.h2">
     <title>H2 Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.60_minutes_australia">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.60_minutes_australia">
     <title>60 Minutes Australia 24/7</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.60_minutes_australia">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.60_minutes_australia">
     <title>60 Minutes Australia Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.drive">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.drive">
     <title>Drive Tv</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.drive">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.drive">
     <title>Drive Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.bbc_antiques_roadshow">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.bbc_antiques_roadshow">
     <title>Antiques Roadshow</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.bbc_antiques_roadshow">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.bbc_antiques_roadshow">
     <title>BBC Antiques Roadshow Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.bbc_comedy">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.bbc_comedy">
     <title>To the Manor Born</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.bbc_comedy">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.bbc_comedy">
     <title>BBC Comedy Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.bbc_home_garden">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.bbc_home_garden">
     <title>Builder&apos;s, Sweat and Tears</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.bbc_home_garden">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.bbc_home_garden">
     <title>BBC Home &amp; Garden Live</title>
   </programme>
-<programme start="20260517193103 +0800" stop="20260517200103 +0800" channel="9now.bbc_food">
+<programme start="20260518193112 +0800" stop="20260518200112 +0800" channel="9now.bbc_food">
     <title>Rachel Allen: All Things Sweet</title>
   </programme>
-<programme start="20260517200103 +0800" stop="20260518020103 +0800" channel="9now.bbc_food">
+<programme start="20260518200112 +0800" stop="20260519020112 +0800" channel="9now.bbc_food">
     <title>BBC Food Live</title>
   </programme>
 </tv>
